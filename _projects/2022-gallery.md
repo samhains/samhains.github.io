@@ -11,4 +11,4 @@ Built with phaser.js and node.js/express and designed in Gimp. This was a person
 
 [2022 Gallery](http://2022.gallery/ "2022 Gallery")
 
-![](/blog/assets/2022.png)
+![](/assets/2022.png)
