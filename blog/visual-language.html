@@ -1,0 +1,15 @@
+---
+layout: blog
+---
+<br>
+<div>
+<div class="page-heading">Visual Language</div>
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.categories.vlang %}
+        {% include  post_link.html%}
+    {% endfor %}
+  </ul>
+
+</div>

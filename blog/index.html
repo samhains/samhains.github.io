@@ -1,0 +1,14 @@
+---
+layout: blog
+---
+  <!--<img style="width:100px;margin:0 auto;margin-bottom:30px;" src="{{site.baseurl}}/assets/sam.gif"/>-->
+  <br>
+
+  <div class="post-header"> ITP Blog </div>
+  <ul class="post-list">
+    {% for post in site.posts %}
+        {% include post_link.html %}
+    {% endfor %}
+  </ul>
+
+</div>

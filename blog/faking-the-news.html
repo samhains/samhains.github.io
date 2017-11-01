@@ -1,0 +1,15 @@
+---
+layout: blog
+---
+<div>
+<br>
+<div class="page-heading">Faking the News</div>
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.categories.faking-the-news %}
+        {% include post_link.html %}
+    {% endfor %}
+  </ul>
+
+</div>

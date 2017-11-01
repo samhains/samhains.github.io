@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+    <!--<img style="width:100px;margin:0 auto;margin-bottom:30px;" src="{{site.baseurl}}/assets/sam.gif"/>-->
+<div class="home">
+<br>
+<div class="page-heading">Sam Hains</div>
+
+
+  {{ content }}
+  <a href="http://samhains.com/blog"> Blog</a>
+  <br>
+  <a  href="mailto:sam@samhains.com" target="_blank"> Email</a>
+  <br>
+  <a  href="http://facebook.com/sdhains"  target="_blank"> Facebook</a>
+  <br>
+  <a  href="http://twitter.com/sam_hains"  target="_blank"> Twitter</a>
+  <br>
+  <a  href="http://github.com/samhains"  target="_blank"> Github</a>
+  <br>
+  <a  href="http://instagram.com/sam.hains"  target="_blank"> Instagram</a>
+  <br>
+  <a  href="https://www.linkedin.com/in/samhains/"  target="_blank"> LinkedIn</a>
+  <br>
+
+
+  <br>
+
+  <div class="post-header"> Projects </div>
+  <ul class="post-list">
+    {% for project in site.projects reversed %}
+        {% include project_link.html %}
+    {% endfor %}
+  </ul>
+
+</div>

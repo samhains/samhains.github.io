@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-31T22:43:47-04:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">PLUTO (C:)</title><link href="http://localhost:4000/blog/faking-the-news/2017/10/19/pluto-community-networking-evolved.html" rel="alternate" type="text/html" title="PLUTO (C:)" /><published>2017-10-19T17:12:02-04:00</published><updated>2017-10-19T17:12:02-04:00</updated><id>http://localhost:4000/blog/faking-the-news/2017/10/19/pluto-community-networking-evolved</id><content type="html" xml:base="http://localhost:4000/blog/faking-the-news/2017/10/19/pluto-community-networking-evolved.html">&lt;p&gt;For my final project for ‘Faking the news’, I build a web community that has been overun by a swarm of bots.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;pluto-c.net&quot;&gt;http://pluto-c.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pluto-1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Using a combination of real-time scraping of data from &lt;a href=&quot;ilxor.com&quot;&gt;ilxor&lt;/a&gt;, subreddits&lt;a href=&quot;https://www.reddit.com/r/politics/&quot;&gt; /r/politics&lt;/a&gt; and&lt;a href=&quot;https://www.reddit.com/r/The_Donald/&quot;&gt; /r/The_Donald&lt;/a&gt;, &lt;a href=&quot;https://gist.github.com/genekogan/ebd77196e4bf0705db51f86431099e57&quot;&gt;google image search scraping&lt;/a&gt; and &lt;a href=&quot;https://github.com/carpedm20/DCGAN-tensorflow&quot;&gt;machine learning&lt;/a&gt; &lt;a href=&quot;https://github.com/tensorflow/models/tree/master/im2txt&quot;&gt;algorithms&lt;/a&gt;- the Pluto-C program creates a family of deranged bots reflecting forum and internet culture.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;pluto-c.net/forum/4-memiverse&quot;&gt;memiverse sub-forum&lt;/a&gt; - I am particularly happy with. The aesthetics of online meme discussions lead themselves to particularly disturbing robot reflections.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/meme-dcgan-1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The design of the forum was an attempt to create the ‘feeling’ of an abandoned web space. It was designed to be both anachronistic but also a love letter to the aesthetics of the nascent web.&lt;/p&gt;
+
+&lt;p&gt;After the machines have moved in, we experience a sense of ‘digital gentrification’ as the once familiar interface of the message board has becomes alien to us. We are no longer relevant or necessary. I like to think of the analogy of an abandoned theme park that is now home to a swarm of insects.&lt;/p&gt;
+
+&lt;p&gt;The project is a metaphor for the current state of the internet in 2017 and I hope that the basic sense of the internet as a ‘human space’  is perverted by the experience.&lt;/p&gt;</content><author><name></name></author><summary type="html">For my final project for ‘Faking the news’, I build a web community that has been overun by a swarm of bots.</summary></entry><entry><title type="html">Apocalyptic Business Cards</title><link href="http://localhost:4000/blog/vlang/2017/10/19/apocalyptic-business-cards.html" rel="alternate" type="text/html" title="Apocalyptic Business Cards" /><published>2017-10-19T16:51:31-04:00</published><updated>2017-10-19T16:51:31-04:00</updated><id>http://localhost:4000/blog/vlang/2017/10/19/apocalyptic-business-cards</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/10/19/apocalyptic-business-cards.html">&lt;p&gt;I decided to approach the task of Business card in a more formal fashion than some of my previous graphic design experiments. I started my explorations by studying the techniques and design strategies of dutch design agency, &lt;a href=&quot;http://metahaven.net/&quot;&gt;Metahaven&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Of particular interest to me was their series of posters for the Holland festival.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/5403f19912bfeed40506693eddd1b882.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/dc519c847f44faa3db7a36ee210362b7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was captivated by the use of overlapping image outlines, which are filled in to create unusual and messy forms.&lt;/p&gt;
+
+&lt;p&gt;Feeling self-conscious about the idea handing someone a business card, I thought it would be funny to highlight the absurdity of this gesture by etching my name in an image of a burning planet earth.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/final_card.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/final_red.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I feel these are the most successful designs so far in my Graphic Design journey, and they are a testiment to a process that focuses more on studying the masters and learning from existing design patterns. This makes sense given how new I am to this form of communication.&lt;/p&gt;</content><author><name></name></author><summary type="html">I decided to approach the task of Business card in a more formal fashion than some of my previous graphic design experiments. I started my explorations by studying the techniques and design strategies of dutch design agency, Metahaven.</summary></entry><entry><title type="html">ITP Winter Poster</title><link href="http://localhost:4000/blog/vislang/2017/10/12/itp-winter-poster.html" rel="alternate" type="text/html" title="ITP Winter Poster" /><published>2017-10-12T13:50:14-04:00</published><updated>2017-10-12T13:50:14-04:00</updated><id>http://localhost:4000/blog/vislang/2017/10/12/itp-winter-poster</id><content type="html" xml:base="http://localhost:4000/blog/vislang/2017/10/12/itp-winter-poster.html">&lt;p&gt;For my submission to the ITP Winter Show Poster, I decided I would create a composition based on 3D scans of ITP students.&lt;/p&gt;
+
+&lt;p&gt;I used Skanect with a Structure Sensor to do the scans.  I then imported the scans into Cinema4d where I experimented with various compositions.&lt;/p&gt;
+
+&lt;p&gt;The main design problem that I faced was wanting to express the artificiality of the 3D scans in a 2D space. I wanted to distance myself from perfection, but also make it clear that these were not simply doctored photographs.&lt;/p&gt;
+
+&lt;p&gt;I experimented with cell shading to emphasise the 3D nature of the models.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/reduced_black_outlines.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was pleased with these results, and I attempted to composit these back onto the models in photoshop.  Unfortunately,  I felt this made the design too ‘busy’ and ‘gadgety’. The focus was distracted to be on the models and their inherent aesthetic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/cells.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;These are devices that strive towards perfection, and fall short. I believe there is a poetry in the failure of these ambitious devices, and in the vulnerability that they communicate in their nascent development phase. I like the artifacts that the technology creates, so I decided to emphasise the decay and imperfections and ended with this design:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/poster-9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;my-friends-are-lukewarm-about-me&quot;&gt;My Friends Are Lukewarm About Me&lt;/h1&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/237981904&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html">For my submission to the ITP Winter Show Poster, I decided I would create a composition based on 3D scans of ITP students.</summary></entry><entry><title type="html">Default Colours and Speculative Interface</title><link href="http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design.html" rel="alternate" type="text/html" title="Default Colours and Speculative Interface" /><published>2017-10-03T07:16:01-04:00</published><updated>2017-10-03T07:16:01-04:00</updated><id>http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design.html">&lt;p&gt;For Visual Language class, at ITP, we were given the task of designing 6 graphics, based on a colour palette that reflected ones personality.&lt;/p&gt;
+
+&lt;p&gt;I first attempted to do this assignment in Cinema4D, as I want to learn how to design in 3D programs. However, I underestimated how challenging this would be technically and creatively, and ended up moving back to illustrator due to time constraints.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/flower_sculpture2.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In illustrator my attempts continued to follow the process of playing with colour and form in an improvised way. The results were not good. My attempts to define myself with a colour scheme also felt superficial and abstract.&lt;/p&gt;
+
+&lt;p&gt;I decided that in order to connect with the task, I needed to come up with a concept that would drive the design.  I began my explorations by examining the aesthetics and design of anachronistic web interfaces.&lt;/p&gt;
+
+&lt;p&gt;Below are abstractions of the web forums ‘hipinion’ and ‘ilxor’ respectively. The text has been removed to express the aesthetic backdrop of these virtual spaces.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/hipinion.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/ilxor.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I attempted to create collages from these forum interfaces. Unsatisfied with the results, I started to experiment with Netscape and windows 95 interface components.  For this process I was inspired by Jan Robert Leegte’s &lt;a href=&quot;https://rhizome.org/art/artbase/artwork/untitledscrollbars/&quot;&gt;scrollbars&lt;/a&gt;, where the artist took  elements from the OSX interface and made collages with the scrollbars and other existing elements.&lt;/p&gt;
+
+&lt;p&gt;I am very interested in ‘default’ colours. The designer traditionally transforms defaults into design, however it is an interesting constraint to me when design is forced to be made with defaults.&lt;/p&gt;
+
+&lt;p&gt;The colour palette selected is monochromatic, with the exception of ‘Pure Blue’, which I find striking in contrast to monochromatic grey. It has a soothing quality, but there is also something unnatural and surreal about its purity.&lt;/p&gt;
+
+&lt;p&gt;While experimenting with these components, the idea evolved into creating a speculative interface.  The interface has not been designed for the human ‘User’ as we understand it. The graphical interface would suggest it is not an interface optimized for a machine either.  A human that encounters such an interface might need to decode it or use a scanning interface.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/palette_w4-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">For Visual Language class, at ITP, we were given the task of designing 6 graphics, based on a colour palette that reflected ones personality.</summary></entry><entry><title type="html">Fidget Spinner Music Box</title><link href="http://localhost:4000/blog/physcomp/2017/10/02/fidget-spinner-music-box.html" rel="alternate" type="text/html" title="Fidget Spinner Music Box" /><published>2017-10-02T19:17:48-04:00</published><updated>2017-10-02T19:17:48-04:00</updated><id>http://localhost:4000/blog/physcomp/2017/10/02/fidget-spinner-music-box</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/10/02/fidget-spinner-music-box.html">&lt;p&gt;Starting from the project that was mentioned &lt;a href=&quot;http://samhains.com/blog/physcomp/2017/09/22/fidget-spinner-switch-to-neopixel.html&quot;&gt;here&lt;/a&gt; - I transformed the silly spinner into a music box by attaching an additional speaker to the Arduino powering the LEDs. When you spin it, it plays ‘Pop Goes The Weasel’.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/236521241&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html">Starting from the project that was mentioned here - I transformed the silly spinner into a music box by attaching an additional speaker to the Arduino powering the LEDs. When you spin it, it plays ‘Pop Goes The Weasel’.</summary></entry><entry><title type="html">Delta Airplane Ticket Design</title><link href="http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design.html" rel="alternate" type="text/html" title="Delta Airplane Ticket Design" /><published>2017-09-23T11:16:01-04:00</published><updated>2017-09-23T11:16:01-04:00</updated><id>http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design.html">&lt;p&gt;This Airplane ticket design was an exploration in grid spacing, and adherence to typographic ratio. Each text size is a factor of 2 of the other.  Negative space was used to allocate distinct sections for different pieces of information.&lt;/p&gt;
+
+&lt;p&gt;Roboto Condensed was used in addition to Roboto in order to fit more content. Wider kerning was used for headers in order to have text line up. High contrast was used to draw attention to the most important information and to give a strong but simple sense of hierarchy.&lt;/p&gt;
+
+&lt;p&gt;Given the unreliable nature of boarding and departure times, they have been relegated to a lower point on the design hierarchy.  People typically have to strain their eyes looking to match their flight number with the flight information on the grids of screens at airports to confirm flight information. The flight number is the most important piece of information and has been treated as such.&lt;/p&gt;
+
+&lt;p&gt;The only branding is on the perforated line in between the stub and the ticket.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/boarding%20pass-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This Airplane ticket design was an exploration in grid spacing, and adherence to typographic ratio. Each text size is a factor of 2 of the other.  Negative space was used to allocate distinct sections for different pieces of information.</summary></entry><entry><title type="html">Fidget Spinner Switch to NeoPixel</title><link href="http://localhost:4000/blog/physcomp/2017/09/22/fidget-spinner-switch-to-neopixel.html" rel="alternate" type="text/html" title="Fidget Spinner Switch to NeoPixel" /><published>2017-09-22T18:41:35-04:00</published><updated>2017-09-22T18:41:35-04:00</updated><id>http://localhost:4000/blog/physcomp/2017/09/22/fidget-spinner-switch-to-neopixel</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/09/22/fidget-spinner-switch-to-neopixel.html">&lt;p&gt;I used a glue gun to stick some magnets to a fidget spinner and use it as a switch. This switch was hooked into the Input of my Arduino, and used to animate a basic LED circle.&lt;/p&gt;
+
+&lt;p&gt;Instead of using standard LEDs, I decided to use a NeoPixel strip.“NeoPixel” is Adafruit’s brand for individually-addressable RGB (Red Green Blue) color pixels.  These strips make it easier to work with light and colours without needing to wire up a whole lot of individual LED’s to Arduino outputs manually.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/235165182&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/235098909&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The Arduino reads the ‘on-off’ values from the spinners magnet switch.  When the magnet of the spinner makes contact with the switch it is processed in the Arduino as an ‘On state’. This pushes the program forward one step (propelling the LED spinner forward by one step) as long as the previous state read by the program was an ‘Off’. This prevents the program from remaining on continuously if the spinner stops while making contact with the magnet switch.&lt;/p&gt;
+
+&lt;p&gt;The rainbow effect is created with the use of trigonometry functions. These functions, when applied to the number range used in RGB colours allow for us to rhythmically move through the colour spectrum.&lt;/p&gt;
+
+&lt;p&gt;At first, I attempted to implement the ‘trails’ effect through the standard NeoPixel Arduino Library.  However, the library is poorly documented and made the process of getting the RGB values for a given light complicated. In the NeoPixel library, RGB brightness values are stored as long, single digit integers. Seeing as I was interested in working and blending colours individually, this format was not useful for me.   The C++ code to extract these separate RGB values from the long integer was very ugly and confused me so I decided to switch over to FastLED.&lt;/p&gt;
+
+&lt;p&gt;FastLED has a far more simple API that seems to follow more modern programming patterns, and is maintained by an activate, open source community.  The documentation is clear and comprehensive. I would recommend to anyone wanting to do things with Arduino and LEDs.  It looks like they have some &lt;a href=&quot;http://fastled.io/docs/3.1/group___noise.html&quot;&gt;Noise Functions&lt;/a&gt; which I look forward to experimenting with in the future!&lt;/p&gt;
+
+&lt;p&gt;One proposed real-world application for this experiment would be a modular lighting toy for Children. With a magnetized fidget spinner, you could have a series of LEDs that snap together to create basic LED artworks.&lt;/p&gt;
+
+&lt;p&gt;Code for this project is hosted &lt;a href=&quot;https://github.com/samhains/pcomm_labs/blob/master/neo_pixel_spinner/neo_pixel_spinner.ino&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">I used a glue gun to stick some magnets to a fidget spinner and use it as a switch. This switch was hooked into the Input of my Arduino, and used to animate a basic LED circle.</summary></entry><entry><title type="html">Rainbow Body Care Redesign</title><link href="http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-care-redesign.html" rel="alternate" type="text/html" title="Rainbow Body Care Redesign" /><published>2017-09-21T14:50:05-04:00</published><updated>2017-09-21T14:50:05-04:00</updated><id>http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-care-redesign</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-care-redesign.html">&lt;p&gt;I decided to have a go at redesigning some of the signage and marketing that was put together by Rainbow Body Care in St. Marks Place.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/bad5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My sense was that there was something rather charming, and playful about the rainbow coloured branding and playful use of typography - however there was way too much information being presented, without hierarchy or sufficient design organisation.&lt;/p&gt;
+
+&lt;p&gt;I thought it would be fun to inject some more self awareness into their branding, and provide a poster that would maybe wink at itself a little.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pachinko.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I first attempted to recreate the style of the Pachinko’s Big Bet, which was a failure.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/rainbow1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I abandoned this before finishing, as I was running up against limitations in my abilities with Illustrator and graphic design.&lt;/p&gt;
+
+&lt;p&gt;My next step was to try something less ambitious, and to work with some of the existing references. I noticed that there were 7 proposed remedies in the initial signs, and also 7 colours of the rainbow.   I proposed having these 7 remedies vanish with the rainbow. Instead of explaining ‘This is what we can help you with’,  I considered that it would be simpler and more direct to represent the 7 ailments  vanishing with the tail of the rainbow. The curving Rainbow typeface references the shape of the rainbow.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/rainbow%20body%20work.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used Arial for the type face, and a basic Rainbow colour scheme. All very boring, but it is a start.&lt;/p&gt;</content><author><name></name></author><summary type="html">I decided to have a go at redesigning some of the signage and marketing that was put together by Rainbow Body Care in St. Marks Place.</summary></entry><entry><title type="html">Good and Bad Signs</title><link href="http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-work.html" rel="alternate" type="text/html" title="Good and Bad Signs" /><published>2017-09-21T09:48:04-04:00</published><updated>2017-09-21T09:48:04-04:00</updated><id>http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-work</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-work.html">&lt;p&gt;&lt;strong&gt;GOOD SIGNS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I found myself attracted to neon light sign design. Stardust Diner in Time Square is a nice combination of futurism and nostalgia.  It sits naturally in the uncanny maximalism of  Times Square.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/good4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dublin house’s Neon Harp sign in Manhattan’s upper west side stands out with its beautiful Neon green and red colours.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/good7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BAD SIGNS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is chaos: Push, pull, please, this arrow, that arrow. Stop here? Where?! A stressful welcome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/bad1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This cluster of signs for Rainbow Body care also caught my attention. The poor information organization and lack of visual hierarchy causes me fatigue.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/bad5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">GOOD SIGNS</summary></entry><entry><title type="html">Process for ‘Digital Gentrification’ Project</title><link href="http://localhost:4000/blog/faking-the-news/2017/09/21/process-for-digital-gentrification.html" rel="alternate" type="text/html" title="Process for 'Digital Gentrification' Project" /><published>2017-09-21T09:29:44-04:00</published><updated>2017-09-21T09:29:44-04:00</updated><id>http://localhost:4000/blog/faking-the-news/2017/09/21/process-for-digital-gentrification</id><content type="html" xml:base="http://localhost:4000/blog/faking-the-news/2017/09/21/process-for-digital-gentrification.html">&lt;p&gt;In broad terms, the concept I am interested in is  ‘Digital Gentrification’; the idea machines will begin to move into our abandoned virtual spaces.  This project hopes to capture the feeling of returning to these spaces to find that they have been taken over by another intelligence. The space is now alien, we are no longer relevant or necessary. I like to think of the analogy of an abandoned theme park that is now home to a swarm of insects.&lt;/p&gt;
+
+&lt;p&gt;I am interested using web scraping and open API’s to appropriate content that has been generated by people on the internet. I am creating a database of this information and have began using various machine learning technologies to create distortions in the data that reflects a sense of a machinic ‘perception’ of us.&lt;/p&gt;
+
+&lt;p&gt;One example of the algorithms that I have invented to generate content is &lt;em&gt;NASDAQ GOOGLE WORD ASSOCIATION&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;In this example: The algorithm downloads the first Google image that relates to the NASDAQ stock code, then performs a kind of ‘Word association’ game on this image with Google’s ‘&lt;a href=&quot;https://github.com/tensorflow/models/tree/master/im2txt&quot;&gt;im2text&lt;/a&gt;’ algorithms.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AETHLON MEDICAL, AEMD&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/0_nasdaq_Aethlon%20Medical,AEMD.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Man Holding a baseball bat on a field&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/1_nasdaq_Man%20holding%20a%20baseball%20bat%20on%20a%20field.jpg&quot; alt=&quot;&quot; class=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Man in a suit and tie standing in a field&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2_nasdaq_Man%20in%20a%20suit%20and%20tie%20standing%20in%20a%20field.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NABRIVIA THERAPE ADS, NBRV&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/3_nasdaq_Nabriva%20Therape%20Ads,NBRV.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Woman holding a pair of scissors in her hands&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/4_nasdaq_Woman%20holding%20a%20pair%20of%20scissors%20in%20her%20hands.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VARIABLE RATE INVESTMENT GRADE PORTFOLIO, VR IG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/5_nasdaq_Variable%20Rate%20Investment%20Grade%20Portolio%20PS,VRIG.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Person holding a pair of scissors in their hands&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/6_nasdaq_Person%20holding%20a%20pair%20of%20scissors%20in%20their%20hands.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PACIRA PHARM INC, PCRX&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/7_nasdaq_Pacira%20Pharm%20Inc,PCRX.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;People standing next to each other&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/8_nasdaq_People%20standing%20next%20to%20each%20other.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EGAIN CORPORATION, EGAN&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/9_nasdaq_Egain%20Corporation,EGAN.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Man holding a tennis racquet on a tennis court&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/10_nasdaq_Man%20holding%20a%20tennis%20racquet%20on%20a%20tennis%20court.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PATRIOT NATL, PNBK&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/11_nasdaq_Patriot%20Natl%20Bncp,PNBK.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Different colored signs on a pole&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/12_nasdaq_Different%20colored%20signs%20on%20a%20pole.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am comfortable with the high level of ‘randomness’ that this algorithm generates - the point here is scale of content rather than quality. These ‘associations’ are not made by myself, they are made by the inherent biases and limitations in Google’s machine learning tools.&lt;/p&gt;
+
+&lt;p&gt;Another algorithm I am working on is a &lt;a href=&quot;https://github.com/carpedm20/DCGAN-tensorflow&quot;&gt;DCGAN&lt;/a&gt;  of generated meme images. The DCGAN  is trained on 40,000 memes that I have scraped from instagram. It will ‘generate’ a memes based aesthetic based on a representation learned from training.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size: 1rem;&quot;&gt;Here is an 8x8 grid of ‘memes’ generated by the algorithm after about 12 hours of training.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/train_24_0618.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And another from later in the training:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/train_08_0438.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The DCGAN aesthetic is always cool to me, although I’m a little disappointed that the ‘meme’ references seems to have been lost. I am considering getting a database of ‘meme phrases’ and then programmatically adding the text to these images with the iconic Impact typeface.&lt;/p&gt;
+
+&lt;p&gt;I am also working to scrape tweets from twitter for a &lt;a href=&quot;https://github.com/karpathy/char-rnn&quot;&gt;char-rnn&lt;/a&gt; network that will generate text as a representation of the noise on the internet.&lt;/p&gt;
+
+&lt;p&gt;I wish to mask and pervert the basic sense of reality that the internet is a human space.  While networks gains an understanding of who we are, we are incapable of comprehending the nature of the machines intelligence.  Our definition of intelligence is anthropocentric - we evaluate how ‘intelligent’ something is based on how similar it behaves to a human. This project seeks to subvert this sense of anthropocentric and give sense of a ‘networked other’.&lt;/p&gt;
+
+&lt;p&gt;The original idea for this project was to take the content and automate a series of ’bots’ that would ‘take over’ an open source message board (&lt;a href=&quot;http://flaskbb.readthedocs.io/en/latest/&quot;&gt;flaskBB)&lt;/a&gt;.  However, I am in the process of exploring other options regarding how this virtual space could be represented.&lt;/p&gt;
+
+&lt;p&gt;I have some ideas about how this might be implemented in javascript as a 3D VR space, for instance:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mattdesl&quot;&gt;Mat DesLauriers&lt;/a&gt; has generously shared a &lt;a href=&quot;https://gist.github.com/mattdesl/4d9b85e9cc0816f23e553dd670a767bc&quot;&gt;generative node.js script &lt;/a&gt;that could be used to generate a base landscape. This could be a basis for experimentation.  In addition to this, Three.JS could be used to develop an asset that could be procedurally placed on this generated landscape that could function as screens that will display the hallucinations from the machine learning content database.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/2017-09-21-171614_1920x1080_scrot.png&quot; alt=&quot;Matt Deslauriers&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It would be wrong not to mention the work of Design and Technology theorist &lt;a href=&quot;www.bratton.info&quot;&gt;Benjamin Bratton&lt;/a&gt; whose ideas about Artificial intelligence and the Anthropocene have influenced me greatly.&lt;/p&gt;</content><author><name></name></author><summary type="html">In broad terms, the concept I am interested in is  ‘Digital Gentrification’; the idea machines will begin to move into our abandoned virtual spaces.  This project hopes to capture the feeling of returning to these spaces to find that they have been taken over by another intelligence. The space is now alien, we are no longer relevant or necessary. I like to think of the analogy of an abandoned theme park that is now home to a swarm of insects.</summary></entry></feed>
