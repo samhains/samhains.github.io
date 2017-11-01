@@ -33,13 +33,13 @@ collections:
 
 include: ['blog']
 
-# defaults:
-#   -
-#     scope:
-#       path: "blog" # an empty string here means all files in the project
-#       type: "posts" # previously `post` in Jekyll 2.2.
-#     values:
-#       layout: "default"
+defaults:
+  -
+    scope:
+      path: "blog" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
