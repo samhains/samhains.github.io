@@ -17,7 +17,7 @@ title: Sam Hains
 email: sam@samhains.com
 description: Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://samhains.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sam_hains
 github_username:  sdlovecraft
 
