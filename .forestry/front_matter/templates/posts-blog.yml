@@ -1,0 +1,10 @@
+---
+pages:
+- _posts/_posts/intro-fab/2017-10-31-test.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default

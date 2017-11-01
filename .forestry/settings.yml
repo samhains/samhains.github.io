@@ -1,0 +1,9 @@
+---
+upload_path: "/blog/assets/"
+frontmatter_file_url_template: "/blog/assets/"
+body_file_url_template: "/blog/assets/"
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+collections: 
