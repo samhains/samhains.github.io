@@ -5,7 +5,7 @@ categories: intro-fab
 published: true
 ---
 
-After a couple of months of overcomplicated the simple tasks that I am given at ITP,  I decided I would approach the first Fabrication assignment as simply, and as cheaply as possible.
+After a couple of months of eager  overcomplicating,  I decided I would approach the first Fabrication assignment as simply, and as cheaply as possible.
 
 **PARTS AND TOOLS**
 
@@ -22,11 +22,11 @@ After a couple of months of overcomplicated the simple tasks that I am given at 
 
 **PROCESS**
 
-Starting with an Altoid tin, I pulled out  a range  of drills so that I could slowly and progressively drill holes in the  Altoid can for the laser and switch.  
+Starting with an Altoid tin, I pulled out  a range  of drills so that I could slowly and progressively drill holes in the Altoid can for the laser and switch to enter.  
 
 ![](/blog/assets/introfab_1_2.jpg)
 
-The next step was to drill the hole. This proved to be a little more complicated to do perfectly than I had imagined. The drill created a lot of 'blowout'  with the metal, which was difficult to sand cleanly without wrecking the finish on the interior of the case.
+The next step was to drill the hole. This proved to be a little more complicated to do 'perfectly' than imagined. The drill created a lot of 'blowout'  with the metal, which was difficult to sand without wrecking the finish on the interior of the case.
 
 ![](/blog/assets/introfab_1_4.jpg)
 
