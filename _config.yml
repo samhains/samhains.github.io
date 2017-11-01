@@ -31,6 +31,8 @@ collections:
     output: true
     permalink: /:title
 
+include: ['blog']
+
 # defaults:
 #   -
 #     scope:
