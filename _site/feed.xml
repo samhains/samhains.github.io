@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T01:49:55-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Modular projection mapping surface (Part 1)</title><link href="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html" rel="alternate" type="text/html" title="Modular projection mapping surface (Part 1)" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html">&lt;p&gt;I built some surfaces that could be projected on and used for prototyping installations.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T02:40:09-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Human Interference play demonstration</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration.html" rel="alternate" type="text/html" title="Human Interference play demonstration" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration.html">&lt;p&gt;Human Interference is a work in in progress that will take the form of an interactive art installation driven by ‘video content’. The piece looks to explore the experience of making contact with another intelligence.&lt;/p&gt;
+
+&lt;p&gt;The inspiration for this piece struck me when browsing artist and educator &lt;a href=&quot;http://moodvector.com&quot;&gt;Gregory Shaw’s website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://moodvector.com/acfc/acfc_installation.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My immediate reaction to this image was that the computers were looking in my direction - curious about me. Despite the colours, and the playful interface I sense something sinister lurking under the surface.&lt;/p&gt;
+
+&lt;p&gt;‘Human Interference’ is the working title for a project that wishes to draw into this sinister space, only to have the participant realize that the floor falls and the truth is an existential threat.&lt;/p&gt;
+
+&lt;p&gt;The content will be displayed on old computer monitors and driven by Touch Designer and Max MSP. Depth sensors determine whether the participant is inside or outside the machine space.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IN CONSIDERATION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Other lazer switches may be set up to trigger lighting, sound and video effects.&lt;/li&gt;
+  &lt;li&gt;Kinect data to increase interactivity with screen display.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The interaction for the project involves some kind of ‘hook’ which brings the participant into the ‘machine space’. The space will emanate a simple allure that deceives the participant.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;POSSIBILITIES FOR LURE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ambient music&lt;/li&gt;
+  &lt;li&gt;Simple, bold colours&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As the user approaches the space, we can see from the screens that the human is creating some kind of disturbance in the machine world. Feedback loops will create a sense of disorientation.&lt;/p&gt;
+
+&lt;p&gt;As they enter the space, we see a destruction of familiar forms, and the user is bombarded with industrial, cold, electrical sounds.&lt;/p&gt;
+
+&lt;p&gt;I did some white boarding to try and clarify some ideas.&lt;/p&gt;
+
+&lt;p&gt;The first idea was deep-diving into the science-fiction context to this installation. &lt;a href=&quot;ccru.net/swarm1/1_melt.htm&quot;&gt;Nick Land’s Meltdown&lt;/a&gt; short piece of speculative, science fiction was an inspiration. Each monitor contains a different fragment of the context of imagined world. We have human slaves, a human vision config, automated trading platforms, ‘neural interfaces’ and empty e-sports arenas.&lt;/p&gt;
+
+&lt;p&gt;An imagined science-fiction universe remains important for my idea generation process, however I found this literal representation to be lacking in subtlety.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/human_interference_process/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some more minimal options including computer communication through voice chat and LED’s to signify machine to machine communication .&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/human_interference_process/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I started experimenting with Touch Designer and GLSL shaders to explore feedback effects. The feedback expresses a recursive void which I felt fit in naturally with my concept.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/241825810&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/241825832&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I am pleased with these results, however it needs to be taken further. To make this scarier, audio is very important.&lt;/p&gt;
+
+&lt;p&gt;I built some projection mapping surfaces to allow for some more high fidelity prototyping of the aesthetic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Prototyping illustrated the need for more varied content and effects.&lt;/p&gt;</content><author><name></name></author><summary type="html">Human Interference is a work in in progress that will take the form of an interactive art installation driven by ‘video content’. The piece looks to explore the experience of making contact with another intelligence.</summary></entry><entry><title type="html">Modular projection mapping surface (Part 1)</title><link href="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html" rel="alternate" type="text/html" title="Modular projection mapping surface (Part 1)" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html">&lt;p&gt;I built some surfaces that could be projected on and used for prototyping installations.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
 
@@ -222,24 +277,4 @@
 
 &lt;p&gt;One proposed real-world application for this experiment would be a modular lighting toy for Children. With a magnetized fidget spinner, you could have a series of LEDs that snap together to create basic LED artworks.&lt;/p&gt;
 
-&lt;p&gt;Code for this project is hosted &lt;a href=&quot;https://github.com/samhains/pcomm_labs/blob/master/neo_pixel_spinner/neo_pixel_spinner.ino&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">I used a glue gun to stick some magnets to a fidget spinner and use it as a switch. This switch was hooked into the Input of my Arduino, and used to animate a basic LED circle.</summary></entry><entry><title type="html">Rainbow Body Care Redesign</title><link href="http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-care-redesign.html" rel="alternate" type="text/html" title="Rainbow Body Care Redesign" /><published>2017-09-21T14:50:05-04:00</published><updated>2017-09-21T14:50:05-04:00</updated><id>http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-care-redesign</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-care-redesign.html">&lt;p&gt;I decided to have a go at redesigning some of the signage and marketing that was put together by Rainbow Body Care in St. Marks Place.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/bad5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My sense was that there was something rather charming, and playful about the rainbow coloured branding and playful use of typography - however there was way too much information being presented, without hierarchy or sufficient design organisation.&lt;/p&gt;
-
-&lt;p&gt;I thought it would be fun to inject some more self awareness into their branding, and provide a poster that would maybe wink at itself a little.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/pachinko.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I first attempted to recreate the style of the Pachinko’s Big Bet, which was a failure.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/rainbow1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I abandoned this before finishing, as I was running up against limitations in my abilities with Illustrator and graphic design.&lt;/p&gt;
-
-&lt;p&gt;My next step was to try something less ambitious, and to work with some of the existing references. I noticed that there were 7 proposed remedies in the initial signs, and also 7 colours of the rainbow.   I proposed having these 7 remedies vanish with the rainbow. Instead of explaining ‘This is what we can help you with’,  I considered that it would be simpler and more direct to represent the 7 ailments  vanishing with the tail of the rainbow. The curving Rainbow typeface references the shape of the rainbow.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/rainbow%20body%20work.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I used Arial for the type face, and a basic Rainbow colour scheme. All very boring, but it is a start.&lt;/p&gt;</content><author><name></name></author><summary type="html">I decided to have a go at redesigning some of the signage and marketing that was put together by Rainbow Body Care in St. Marks Place.</summary></entry></feed>
+&lt;p&gt;Code for this project is hosted &lt;a href=&quot;https://github.com/samhains/pcomm_labs/blob/master/neo_pixel_spinner/neo_pixel_spinner.ino&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">I used a glue gun to stick some magnets to a fidget spinner and use it as a switch. This switch was hooked into the Input of my Arduino, and used to animate a basic LED circle.</summary></entry></feed>
