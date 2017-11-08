@@ -15,7 +15,7 @@ dl, dd, figure {
  */
 body {
   font: 400 20px/1.5 Arial;
-  color: blue;
+  color: black;
   background-color: white;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -194,13 +194,6 @@ p {
 .page-content {
   padding: 30px 0; }
 
-.page-heading {
-  background: white;
-  border: blue 1px solid;
-  color: blue;
-  margin-right: 8px;
-  margin-bottom: 10px; }
-
 .post-list-item {
   display: flex; }
 
@@ -209,17 +202,18 @@ ul {
 
 .post-list {
   margin-left: 0;
-  padding-left: 0; }
+  padding-left: 0;
+  margin: 0; }
   .post-list > li {
     margin-bottom: 2px; }
 
 textarea {
   width: 500px;
-  max-width: 96%; }
+  max-width: 99%; }
 
 input {
   width: 500px;
-  max-width: 96%; }
+  max-width: 99%; }
 
 .post-link {
   display: block;
@@ -231,12 +225,12 @@ a:visited {
 /**
  * Posts
  */
-.post-header {
-  display: flex;
+.post-header, .page-heading {
+  margin-bottom: 14px;
+  display: table;
   background: white;
-  color: blue;
-  border: blue 1px solid;
-  margin-bottom: 10px; }
+  color: black;
+  border: blue 1px solid; }
 
 .comment-user {
   border: 1px blue solid;

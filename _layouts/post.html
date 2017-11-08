@@ -8,10 +8,6 @@ layout: blog
   <div class="post-header">
     <div class="post-link" itemprop="name headline">{{ page.title | escape }}</div>
     <span class="post-meta">{{ page.date | date: "%m/%d/%Y" }}</span>
-    <p class="post-meta">
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
   </div>
   <!-- <hr>
   <br> -->

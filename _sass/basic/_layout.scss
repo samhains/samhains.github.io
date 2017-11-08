@@ -162,15 +162,6 @@ p {
 }
 
 
-.page-heading {
-  // @include relative-font-size(1.25);
-  background: $header-color;
-
-  border: blue 1px solid;
-  color: $header-text-color;
-  margin-right: 8px;
-  margin-bottom: 10px;
-}
 
 .post-list-item {
   display: flex;
@@ -183,6 +174,7 @@ ul {
 .post-list {
   margin-left: 0;
   padding-left:0;
+  margin: 0;
 
   > li {
     margin-bottom: 2px;
@@ -190,12 +182,12 @@ ul {
 }
 textarea {
   width : 500px;
-  max-width: 96%;
+  max-width: 99%;
 }
 
 input {
   width: 500px;
-  max-width: 96%;
+  max-width: 99%;
 }
 
 
@@ -215,12 +207,21 @@ a:visited {
 /**
  * Posts
  */
-.post-header {
-  display: flex;
+
+// .page-heading {
+//   // @include relative-font-size(1.25);
+//   background: $header-color;
+//   display:table;
+//
+//   border: blue 1px solid;
+//   color: $header-text-color;
+// }
+.post-header, .page-heading {
+  margin-bottom: 14px;
+  display: table;
   background: $header-color;
   color: $header-text-color;
   border: blue 1px solid;
-  margin-bottom: 10px;
 }
 .comment-user {
     border: 1px blue solid;
