@@ -63,7 +63,7 @@ The pieces were arranged and tested with Touch designer.
 
 ![](/blog/assets/modular_projector/11.jpg)
 
-** CONCLUSION **
+**CONCLUSION**
 
 While Coroplast is cheap and works well with projectors; introducing it into a Fabrication process introduces some constraints. The flexibility (amount of 'give') of the material makes it difficult to work with saws. The flammability prevents use with lazer cutters.  
 
