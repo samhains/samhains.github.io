@@ -177,12 +177,10 @@ p {
 ul {
     list-style-type: circle!important;
 }
-li {
-  display:list-item!important;
-}
 
 .post-list {
   margin-left: 0;
+  padding-left:0;
 
   > li {
     margin-bottom: 2px;

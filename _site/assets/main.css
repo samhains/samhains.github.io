@@ -6,7 +6,7 @@ img {
  */
 body, b, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+dl, dd, figure {
   margin: 0;
   padding: 0; }
 
@@ -151,7 +151,6 @@ p {
 
 .contact-list,
 .social-media-list {
-  list-style: none;
   margin-left: 0; }
 
 .footer-col-wrapper {
@@ -203,9 +202,12 @@ p {
 .post-list-item {
   display: flex; }
 
+ul {
+  list-style-type: circle !important; }
+
 .post-list {
   margin-left: 0;
-  list-style: none; }
+  padding-left: 0; }
   .post-list > li {
     margin-bottom: 2px; }
 
