@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T17:21:40-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Human Interference play demonstration</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration.html" rel="alternate" type="text/html" title="Human Interference play demonstration" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration.html">&lt;p&gt;Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T17:37:57-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Human Interference play demonstration</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration.html" rel="alternate" type="text/html" title="Human Interference play demonstration" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration.html">&lt;p&gt;Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.&lt;/p&gt;
 
 &lt;p&gt;The inspiration for this piece struck me when browsing artist and educator &lt;a href=&quot;http://moodvector.com&quot;&gt;Gregory Shaw’s website&lt;/a&gt;.&lt;/p&gt;
 
@@ -57,49 +57,35 @@
 
 &lt;p&gt;Prototyping illustrated the need for more varied content, effects and interactive development.&lt;/p&gt;</content><author><name></name></author><summary type="html">Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.</summary></entry><entry><title type="html">Human Interference play feedback</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html" rel="alternate" type="text/html" title="Human Interference play feedback" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html">&lt;p&gt;After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.&lt;/p&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/241957118&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;I will attempt to summarise my impression of the feedback here:&lt;/p&gt;
-
-&lt;p&gt;Firstly, the transition from ‘No interference’ to ‘Full interference’ is not dramatic enough. We move from one form of disorientation to another, contrast is lacking.&lt;/p&gt;
-
-&lt;p&gt;One solution to this would be to play with ‘off states’ and ‘static’ images. Several of the monitors might be off unless somebody is nearby. When they turn on they might ‘grab’ an image and come to life as a gradual process which builds as the user approaches. I plan to start playing with tensions between the projected and the static.&lt;/p&gt;
-
-&lt;p&gt;Somebody mentioned that the project seemed like it was about to reveal to the participant their greatest fears. This reminded me of Andrei Tarkovsky’s film [Stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film) where the ‘Zone’ was a space that one might enter to communicate with a mysterious ‘other’ intelligence. It was ambiguous what the nature of the communication was, but it seemed to cause an existential fissure for those that ventured there. This is worth keeping in mind for further concept development - perhaps it is time to read the original  novel that the film is based on &lt;a href=&quot;https://en.wikipedia.org/wiki/Roadside_Picnic&quot;&gt;Roadside Picnic&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A general criticism was that the interactivity needs to be developed to make the concept of ‘communicating with the machine’ clearer and more purposeful.&lt;/p&gt;
-
-&lt;p&gt;One potential solution to this would be to incorporate a Kinect sensor which would incorporate user movement data into the projections in various ways.&lt;/p&gt;
-
-&lt;p&gt;Others mentioned that it would be nice to be able to ‘touch’ the screen, which is something that I would also like to explore.&lt;/p&gt;
+&lt;p&gt;Here is a clip of the prototype being demonstrated:&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/241957118&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;I will attempt to summarise my impression of the feedback here:&lt;/p&gt;
 
-&lt;p&gt;Firstly, the transition from ‘No interference’ to ‘Full interference’ is not dramatic enough. We move from one form of disorientation to another, contrast is lacking.&lt;/p&gt;
+&lt;p&gt;Firstly, the transition from ‘no interference’ to ‘full interference’ is not dramatic enough. The screens move from one type of disorientation to another and as a result the sense of contrast is lacking.&lt;/p&gt;
 
-&lt;p&gt;One solution to this would be to play with ‘off states’ and ‘static’ images. Several of the monitors might be off unless somebody is nearby. When they turn on they might ‘grab’ an image and come to life as a gradual process which builds as the user approaches. I plan to start playing with tensions between the projected and the static.&lt;/p&gt;
+&lt;p&gt;One solution to this would be to play with ‘off states’ and static images. Several of the monitors might be off unless somebody is nearby. When they turn on they might ‘grab’ an image and come to life gradually as the user approaches. I plan to start playing with tensions between the projected and the static.&lt;/p&gt;
 
-&lt;p&gt;Somebody mentioned that the project seemed like it was about to reveal to the participant their greatest fears. This reminded me of Andrei Tarkovsky’s film [Stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film) where the ‘Zone’ was a space that one might enter to communicate with a mysterious ‘other’ intelligence. It was ambiguous what the nature of the communication was, but it seemed to cause an existential fissure for those that ventured there. This is worth keeping in mind for further concept development - perhaps it is time to read the original  novel that the film is based on &lt;a href=&quot;https://en.wikipedia.org/wiki/Roadside_Picnic&quot;&gt;Roadside Picnic&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Somebody mentioned that the project seemed like it was attempting to reveal to the participant their greatest fears. This reminded me of Andrei Tarkovsky’s film [Stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film) which depicted a place called ‘the Zone’ where ‘tourists’ could be smuggled inside to experience a mysterious ‘other’ intelligence. It was ambiguous what the nature of the communication was, but the experience of this ‘Zone’ seemed to cause an existential fissure for these morbidly curious tourists. This is worth keeping in mind for further concept development and I consider this to be another way of exploring a related idea. Sounds like it is time to finally read the original novel on which the film is based  (&lt;a href=&quot;https://en.wikipedia.org/wiki/Roadside_Picnic&quot;&gt;Roadside Picnic&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;A general criticism was that the interactivity needs to be developed to make the concept of ‘communicating with the machine’ clearer and more purposeful.&lt;/p&gt;
+&lt;p&gt;A common criticism was that the interactivity needs to be developed to make the concept of ‘communicating with the machine’ clearer and more purposeful.&lt;/p&gt;
 
-&lt;p&gt;One potential solution to this would be to incorporate a Kinect sensor which would incorporate user movement data into the projections in various ways.&lt;/p&gt;
+&lt;p&gt;One potential solution to this would be to incorporate a Kinect sensor for incorporate user movement data into the projections.&lt;/p&gt;
 
-&lt;p&gt;Others mentioned that it would be nice to be able to ‘touch’ the screen, which is something that I would also like to explore.&lt;/p&gt;
+&lt;p&gt;There was a positive feedback with respect to the custom fabricated projection screens. However, the front projection technique restricts straight-forward interaction.&lt;/p&gt;
+
+&lt;p&gt;This might be embraces as a constraint with the aid of a light sensor. A computer could be set up to be notified when the projection is interrupted. This could trigger another interaction or be countered by a rear projection.&lt;/p&gt;
+
+&lt;p&gt;Questions of rear or front projection aside, I plan to continue prototyping projection surfaces and screen options that could be used for the installation.&lt;/p&gt;
+
+&lt;p&gt;Others mentioned that it would be nice to be able to ‘touch’ the screen.&lt;/p&gt;
 
 &lt;p&gt;Mike Sherwood and Mike Allison’s &lt;a href=&quot;http://aaron-sherwood.com/works/firewall/&quot;&gt;Firewall&lt;/a&gt;  is a worthy reference for its use of stretched spandex sheets and rear projection mapping to create an interactive surface.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/54882144&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;This type of interaction could be a great fit for my project, however I imagine that it might be difficult to cleanly communicate to the users that they should ‘touch’ the monitors.&lt;/p&gt;
-
-&lt;p&gt;There was a positive feedback with respect to the custom fabricated projection screens. However, the front projection technique restricts straight-forward interaction.&lt;/p&gt;
-
-&lt;p&gt;One idea might be to use light sensors with front projection surfaces. The computer will be notified when the projection is being interrupted. This could trigger another interaction or be countered by a rear projection.&lt;/p&gt;
-
-&lt;p&gt;I plan to continue prototyping projection surfaces and screen options that could be used for the installation.&lt;/p&gt;</content><author><name></name></author><summary type="html">After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.</summary></entry><entry><title type="html">Modular projection mapping surface (Part 1)</title><link href="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html" rel="alternate" type="text/html" title="Modular projection mapping surface (Part 1)" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html">&lt;p&gt;I built some surfaces that could be projected on and used for prototyping installations.&lt;/p&gt;
+&lt;p&gt;This type of interaction could be a great fit for my project, however I imagine that it might be difficult to cleanly communicate to the users that they can ‘touch’ the monitors.&lt;/p&gt;</content><author><name></name></author><summary type="html">After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.</summary></entry><entry><title type="html">Modular projection mapping surface (Part 1)</title><link href="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html" rel="alternate" type="text/html" title="Modular projection mapping surface (Part 1)" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html">&lt;p&gt;I built some surfaces that could be projected on and used for prototyping installations.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
 
