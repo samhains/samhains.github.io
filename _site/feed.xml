@@ -1,4 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T00:50:29-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Making an Altoid can into a laser</title><link href="http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light.html" rel="alternate" type="text/html" title="Making an Altoid can into a laser" /><published>2017-10-31T00:00:00-04:00</published><updated>2017-10-31T00:00:00-04:00</updated><id>http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light.html">&lt;p&gt;After a couple of months of eager  overcomplicating,  I decided I would approach the first Fabrication assignment as simply, and as cheaply as possible.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T01:44:44-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Modular projection mapping surface (Part 1)</title><link href="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html" rel="alternate" type="text/html" title="Modular projection mapping surface (Part 1)" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html">&lt;p&gt;I built some surfaces that could be projected on and used for prototyping installations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;White Coroplast sheets&lt;/li&gt;
+  &lt;li&gt;Drills and drill bits&lt;/li&gt;
+  &lt;li&gt;Sanding Paper or Sanding Machine&lt;/li&gt;
+  &lt;li&gt;Glue Gun&lt;/li&gt;
+  &lt;li&gt;Ban Saw&lt;/li&gt;
+  &lt;li&gt;Stanley Knife aka. Exacto Blade&lt;/li&gt;
+  &lt;li&gt;Gridded cutting board&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once I had the materials, I had to spend time measuring and drawing lines in the Coroplast to start cutting up the faces that would be used to assemble the surfaces.&lt;/p&gt;
+
+&lt;p&gt;This was challenging, due to the size of the Coroplast sheets that I purchased and the limited space I had access to in ITP’s fabrication shop. I found that my results were improved as soon as I started orienting the ruler and the tape measure with the assistance of a gridded cutting board.&lt;/p&gt;
+
+&lt;p&gt;Another challenge is accounting for the various ways that the box overlaps and underlapping at its edges. I settled on the following dimensions by taking into account the thickness of the material (0.157”):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;6”x6” (Left and Right)&lt;/li&gt;
+  &lt;li&gt;7”x6” (Front and Back)&lt;/li&gt;
+  &lt;li&gt;7.314”x6” (Top and Bottom)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once the lines had been drawn, I started cutting up the board with the blade. Better results were achieved when cuts were proceeded by a single, light handed incision.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I threw together a little ‘pancake’ with Hot Glue to get a sense of how my calculations were stacking up.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I decided to cut up some wood cubes to give the structure better support at its corners.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used the Ban Saw to cut up a piece of scrap wood.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A vice came in handy to work with some of the irregular combinations of pieces.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The pieces were assembled together with hot glue.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The pieces were arranged and tested with Touch designer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;** CONCLUSION **&lt;/p&gt;
+
+&lt;p&gt;While Coroplast is cheap and works well with projectors; introducing it into a Fabrication process introduces some constraints. The flexibility (amount of ‘give’) of the material makes it difficult to work with saws. The flammability prevents use with lazer cutters.&lt;/p&gt;
+
+&lt;p&gt;The Stanley Knife (Exacto!) requires some skill and getting used to, but once practiced provides a great deal of control and precision. With further practice, more advanced surfaces for projection mapping could be designed and implemented with such techniques.&lt;/p&gt;
+
+&lt;p&gt;The next blog post will detail experimenting  with magnets to make these surfaces both modular and compose-able.&lt;/p&gt;</content><author><name></name></author><summary type="html">I built some surfaces that could be projected on and used for prototyping installations.</summary></entry><entry><title type="html">Making an Altoid can into a laser</title><link href="http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light.html" rel="alternate" type="text/html" title="Making an Altoid can into a laser" /><published>2017-10-31T00:00:00-04:00</published><updated>2017-10-31T00:00:00-04:00</updated><id>http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light.html">&lt;p&gt;After a couple of months of eager  overcomplicating,  I decided I would approach the first Fabrication assignment as simply, and as cheaply as possible.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
 
@@ -176,22 +242,4 @@
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/rainbow%20body%20work.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I used Arial for the type face, and a basic Rainbow colour scheme. All very boring, but it is a start.&lt;/p&gt;</content><author><name></name></author><summary type="html">I decided to have a go at redesigning some of the signage and marketing that was put together by Rainbow Body Care in St. Marks Place.</summary></entry><entry><title type="html">Good and Bad Signs</title><link href="http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-work.html" rel="alternate" type="text/html" title="Good and Bad Signs" /><published>2017-09-21T09:48:04-04:00</published><updated>2017-09-21T09:48:04-04:00</updated><id>http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-work</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/09/21/rainbow-body-work.html">&lt;p&gt;&lt;strong&gt;GOOD SIGNS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I found myself attracted to neon light sign design. Stardust Diner in Time Square is a nice combination of futurism and nostalgia.  It sits naturally in the uncanny maximalism of  Times Square.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/good4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dublin house’s Neon Harp sign in Manhattan’s upper west side stands out with its beautiful Neon green and red colours.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/good7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;BAD SIGNS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This is chaos: Push, pull, please, this arrow, that arrow. Stop here? Where?! A stressful welcome.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/bad1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This cluster of signs for Rainbow Body care also caught my attention. The poor information organization and lack of visual hierarchy causes me fatigue.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/bad5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">GOOD SIGNS</summary></entry></feed>
+&lt;p&gt;I used Arial for the type face, and a basic Rainbow colour scheme. All very boring, but it is a start.&lt;/p&gt;</content><author><name></name></author><summary type="html">I decided to have a go at redesigning some of the signage and marketing that was put together by Rainbow Body Care in St. Marks Place.</summary></entry></feed>

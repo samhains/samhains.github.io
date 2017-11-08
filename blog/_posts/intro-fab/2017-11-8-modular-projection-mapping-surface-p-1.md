@@ -24,7 +24,7 @@ Once I had the materials, I had to spend time measuring and drawing lines in the
 
 This was challenging, due to the size of the Coroplast sheets that I purchased and the limited space I had access to in ITP's fabrication shop. I found that my results were improved as soon as I started orienting the ruler and the tape measure with the assistance of a gridded cutting board.
 
-Another challenge is accounting for the various ways that the box would be overlapping or underlapping at the edges and corners. I settled on the following dimensions by taking into account the thickness of the material (0.157"):
+Another challenge is accounting for the various ways that the box overlaps and underlapping at its edges. I settled on the following dimensions by taking into account the thickness of the material (0.157"):
 
 * 6"x6" (Left and Right)
 * 7"x6" (Front and Back)
@@ -41,7 +41,7 @@ I threw together a little 'pancake' with Hot Glue to get a sense of how my calcu
 
 ![](/blog/assets/modular_projector/4.jpg)
 
-I decided to cute up some wood cubes to give the structure better support at its corners.
+I decided to cut up some wood cubes to give the structure better support at its corners.
 
 ![](/blog/assets/modular_projector/5.jpg)
 
@@ -65,6 +65,8 @@ The pieces were arranged and tested with Touch designer.
 
 ** CONCLUSION **
 
-While Coroplast is cheap and works well with projectors introducing it into the Fabrication process introduced some constraints. The flexibility of the material makes it difficult to work with saws and The flammability prevents use with the Lazer cutter.  The Stanley Knife (Exacto!) requires some skill and getting used to, but I could see it being an invaluable tool for future experiments with this material.
+While Coroplast is cheap and works well with projectors; introducing it into a Fabrication process introduces some constraints. The flexibility (amount of 'give') of the material makes it difficult to work with saws. The flammability prevents use with lazer cutters.  
+
+The Stanley Knife (Exacto!) requires some skill and getting used to, but once practiced provides a great deal of control and precision. With further practice, more advanced surfaces for projection mapping could be designed and implemented with such techniques.
 
 The next blog post will detail experimenting  with magnets to make these surfaces both modular and compose-able.
