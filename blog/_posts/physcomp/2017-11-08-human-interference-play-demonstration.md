@@ -17,12 +17,12 @@ The project will attempt to draw participants into this sinister space.
 
 What does it mean to make 'contact' with a machine? Consumer electronics and AI assistants present us with a friendly, anthropomorphized face who help optimize and enhance our lives.
 
-The project speculates on a future where contact is made with another intelligence, however the communication has been abstracted. Human language is futile in traversing this void between man and machine.  However, our presence and proximity to the network disrupts it's usual operation. It is through our ability to disrupt the machine that we are able to learn something of its true nature. This form of 'communication' produces a fissure in our sense of a stable, human-definable reality.
+This project speculates on a future where contact is made with another intelligence, however the communication has been abstracted. Human language is futile in traversing this void between man and machine.  However, our presence and proximity to the network disrupts it's usual operation. It is through our ability to disrupt the machine that we are able to learn something of its true nature. This form of 'communication' produces a fissure in our sense of a stable, human-definable reality.
 
 
 The content will be displayed on old computer monitors and driven by Touch Designer and Max MSP. Depth sensors determine whether the participant is inside or outside the machine space.  
 
-The interaction, in more literal terms, will involve the participant catching a glimpse from afar.  It will appear simple, and alluring. As the participant approaches the space, they will get a sense of their proximity causing some kind of disruption. Feedback loops will be triggered to enhance the sense of disorientation.
+The interaction, in more literal terms, will involve the participant catching a glimpse from afar.  It will appear simple, and alluring. As the participant approaches the space, they will get a sense of their proximity causing disruptions. Feedback loops will be triggered to enhance the sense of disorientation.
 
 As they enter the space, we see a destruction of familiar forms, and a bombardment of industrial, cold, electrical sounds.
 
