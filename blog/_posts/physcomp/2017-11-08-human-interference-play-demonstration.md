@@ -5,7 +5,7 @@ categories: physcomp
 published: true
 ---
 
-Human Interference is a work in in progress that will take the form of an interactive art installation driven by 'video content'. The piece looks to explore the experience of making contact with another intelligence.
+Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.
 
 The inspiration for this piece struck me when browsing artist and educator [Gregory Shaw's website](http://moodvector.com).
 
@@ -13,24 +13,28 @@ The inspiration for this piece struck me when browsing artist and educator [Greg
 
 My immediate reaction to this image was that the computers were looking in my direction - curious about me. Despite the colours, and the playful interface I sense something sinister lurking under the surface.
 
-'Human Interference' is the working title for a project that wishes to draw into this sinister space, only to have the participant realize that the floor falls and the truth is an existential threat.
+The project will attempt to draw participants into this sinister space.
+
+What does it mean to make 'contact' with a machine? Consumer electronics and AI assistants present us with a friendly, anthropomorphized face who help optimize and enhance our lives.
+
+The project speculates on a future where contact is made with another intelligence, however the communication has been abstracted. Human language is futile in traversing this void between man and machine.  However, our presence and proximity to the network disrupts it's usual operation. It is through our ability to disrupt the machine that we are able to learn something of its true nature. This form of 'communication' produces a fissure in our sense of a stable, human-definable reality.
+
 
 The content will be displayed on old computer monitors and driven by Touch Designer and Max MSP. Depth sensors determine whether the participant is inside or outside the machine space.  
+
+The interaction, in more literal terms, will involve the participant catching a glimpse from afar.  It will appear simple, and alluring. As the participant approaches the space, they will get a sense of their proximity causing some kind of disruption. Feedback loops will be triggered to enhance the sense of disorientation.
+
+As they enter the space, we see a destruction of familiar forms, and a bombardment of industrial, cold, electrical sounds.
 
 **IN CONSIDERATION**
 
 * Other lazer switches may be set up to trigger lighting, sound and video effects.
 *  Kinect data to increase interactivity with screen display.
 
-The interaction for the project involves some kind of 'hook' which brings the participant into the 'machine space'. The space will emanate a simple allure that deceives the participant.
-
 **POSSIBILITIES FOR LURE**
 * Ambient music
 * Simple, bold colours
 
-As the user approaches the space, we can see from the screens that the human is creating some kind of disturbance in the machine world. Feedback loops will create a sense of disorientation.
-
-As they enter the space, we see a destruction of familiar forms, and the user is bombarded with industrial, cold, electrical sounds.
 
 I did some white boarding to try and clarify some ideas.
 
