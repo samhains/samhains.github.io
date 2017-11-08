@@ -190,10 +190,12 @@ ul {
 }
 textarea {
   width : 500px;
+  max-width: 96%;
 }
 
 input {
   width: 500px;
+  max-width: 96%;
 }
 
 
@@ -262,4 +264,17 @@ a:visited {
       @include relative-font-size(1.125);
     }
   }
+}
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
 }

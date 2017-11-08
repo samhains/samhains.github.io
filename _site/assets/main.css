@@ -213,10 +213,12 @@ ul {
     margin-bottom: 2px; }
 
 textarea {
-  width: 500px; }
+  width: 500px;
+  max-width: 96%; }
 
 input {
-  width: 500px; }
+  width: 500px;
+  max-width: 96%; }
 
 .post-link {
   display: block;
@@ -265,3 +267,16 @@ a:visited {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 22.5px; } }
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0; }
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute; }
