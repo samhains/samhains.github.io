@@ -56,4 +56,4 @@ I built some projection mapping surfaces to allow for some more high fidelity pr
 
 ![](/blog/assets/modular_projector/11.jpg)
 
-Prototyping illustrated the need for more varied content and effects.
+Prototyping illustrated the need for more varied content, effects and interactive development.
