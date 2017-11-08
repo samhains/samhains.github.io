@@ -15,7 +15,7 @@ dl, dd, figure {
  */
 body {
   font: 400 20px/1.5 Arial;
-  color: black;
+  color: blue;
   background-color: white;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -194,8 +194,9 @@ p {
   padding: 30px 0; }
 
 .page-heading {
-  background: blue;
-  color: white;
+  background: white;
+  border: blue 1px solid;
+  color: blue;
   margin-right: 8px;
   margin-bottom: 10px; }
 
@@ -221,13 +222,17 @@ input {
   display: block;
   margin-right: 8px; }
 
+a:visited {
+  color: blue; }
+
 /**
  * Posts
  */
 .post-header {
   display: flex;
-  background: blue;
-  color: white;
+  background: white;
+  color: blue;
+  border: blue 1px solid;
   margin-bottom: 10px; }
 
 .comment-user {

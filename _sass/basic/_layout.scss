@@ -164,8 +164,10 @@ p {
 
 .page-heading {
   // @include relative-font-size(1.25);
-  background: blue;
-  color: white;
+  background: $header-color;
+
+  border: blue 1px solid;
+  color: $header-text-color;
   margin-right: 8px;
   margin-bottom: 10px;
 }
@@ -205,16 +207,17 @@ input {
 
 
 
-// a:visited {
-//   color: blue;
-// }
+a:visited {
+  color: blue;
+}
 /**
  * Posts
  */
 .post-header {
   display: flex;
-  background: blue;
-  color: white;
+  background: $header-color;
+  color: $header-text-color;
+  border: blue 1px solid;
   margin-bottom: 10px;
 }
 .comment-user {
