@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T16:43:28-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Human Interference play demonstration</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration.html" rel="alternate" type="text/html" title="Human Interference play demonstration" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration.html">&lt;p&gt;Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T17:21:40-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Human Interference play demonstration</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration.html" rel="alternate" type="text/html" title="Human Interference play demonstration" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-play-demonstration.html">&lt;p&gt;Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.&lt;/p&gt;
 
 &lt;p&gt;The inspiration for this piece struck me when browsing artist and educator &lt;a href=&quot;http://moodvector.com&quot;&gt;Gregory Shaw’s website&lt;/a&gt;.&lt;/p&gt;
 
@@ -55,7 +55,51 @@
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Prototyping illustrated the need for more varied content, effects and interactive development.&lt;/p&gt;</content><author><name></name></author><summary type="html">Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.</summary></entry><entry><title type="html">Modular projection mapping surface (Part 1)</title><link href="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html" rel="alternate" type="text/html" title="Modular projection mapping surface (Part 1)" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html">&lt;p&gt;I built some surfaces that could be projected on and used for prototyping installations.&lt;/p&gt;
+&lt;p&gt;Prototyping illustrated the need for more varied content, effects and interactive development.&lt;/p&gt;</content><author><name></name></author><summary type="html">Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.</summary></entry><entry><title type="html">Human Interference play feedback</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html" rel="alternate" type="text/html" title="Human Interference play feedback" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html">&lt;p&gt;After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/241957118&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I will attempt to summarise my impression of the feedback here:&lt;/p&gt;
+
+&lt;p&gt;Firstly, the transition from ‘No interference’ to ‘Full interference’ is not dramatic enough. We move from one form of disorientation to another, contrast is lacking.&lt;/p&gt;
+
+&lt;p&gt;One solution to this would be to play with ‘off states’ and ‘static’ images. Several of the monitors might be off unless somebody is nearby. When they turn on they might ‘grab’ an image and come to life as a gradual process which builds as the user approaches. I plan to start playing with tensions between the projected and the static.&lt;/p&gt;
+
+&lt;p&gt;Somebody mentioned that the project seemed like it was about to reveal to the participant their greatest fears. This reminded me of Andrei Tarkovsky’s film [Stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film) where the ‘Zone’ was a space that one might enter to communicate with a mysterious ‘other’ intelligence. It was ambiguous what the nature of the communication was, but it seemed to cause an existential fissure for those that ventured there. This is worth keeping in mind for further concept development - perhaps it is time to read the original  novel that the film is based on &lt;a href=&quot;https://en.wikipedia.org/wiki/Roadside_Picnic&quot;&gt;Roadside Picnic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A general criticism was that the interactivity needs to be developed to make the concept of ‘communicating with the machine’ clearer and more purposeful.&lt;/p&gt;
+
+&lt;p&gt;One potential solution to this would be to incorporate a Kinect sensor which would incorporate user movement data into the projections in various ways.&lt;/p&gt;
+
+&lt;p&gt;Others mentioned that it would be nice to be able to ‘touch’ the screen, which is something that I would also like to explore.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/241957118&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I will attempt to summarise my impression of the feedback here:&lt;/p&gt;
+
+&lt;p&gt;Firstly, the transition from ‘No interference’ to ‘Full interference’ is not dramatic enough. We move from one form of disorientation to another, contrast is lacking.&lt;/p&gt;
+
+&lt;p&gt;One solution to this would be to play with ‘off states’ and ‘static’ images. Several of the monitors might be off unless somebody is nearby. When they turn on they might ‘grab’ an image and come to life as a gradual process which builds as the user approaches. I plan to start playing with tensions between the projected and the static.&lt;/p&gt;
+
+&lt;p&gt;Somebody mentioned that the project seemed like it was about to reveal to the participant their greatest fears. This reminded me of Andrei Tarkovsky’s film [Stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film) where the ‘Zone’ was a space that one might enter to communicate with a mysterious ‘other’ intelligence. It was ambiguous what the nature of the communication was, but it seemed to cause an existential fissure for those that ventured there. This is worth keeping in mind for further concept development - perhaps it is time to read the original  novel that the film is based on &lt;a href=&quot;https://en.wikipedia.org/wiki/Roadside_Picnic&quot;&gt;Roadside Picnic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A general criticism was that the interactivity needs to be developed to make the concept of ‘communicating with the machine’ clearer and more purposeful.&lt;/p&gt;
+
+&lt;p&gt;One potential solution to this would be to incorporate a Kinect sensor which would incorporate user movement data into the projections in various ways.&lt;/p&gt;
+
+&lt;p&gt;Others mentioned that it would be nice to be able to ‘touch’ the screen, which is something that I would also like to explore.&lt;/p&gt;
+
+&lt;p&gt;Mike Sherwood and Mike Allison’s &lt;a href=&quot;http://aaron-sherwood.com/works/firewall/&quot;&gt;Firewall&lt;/a&gt;  is a worthy reference for its use of stretched spandex sheets and rear projection mapping to create an interactive surface.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/54882144&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This type of interaction could be a great fit for my project, however I imagine that it might be difficult to cleanly communicate to the users that they should ‘touch’ the monitors.&lt;/p&gt;
+
+&lt;p&gt;There was a positive feedback with respect to the custom fabricated projection screens. However, the front projection technique restricts straight-forward interaction.&lt;/p&gt;
+
+&lt;p&gt;One idea might be to use light sensors with front projection surfaces. The computer will be notified when the projection is being interrupted. This could trigger another interaction or be countered by a rear projection.&lt;/p&gt;
+
+&lt;p&gt;I plan to continue prototyping projection surfaces and screen options that could be used for the installation.&lt;/p&gt;</content><author><name></name></author><summary type="html">After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.</summary></entry><entry><title type="html">Modular projection mapping surface (Part 1)</title><link href="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html" rel="alternate" type="text/html" title="Modular projection mapping surface (Part 1)" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html">&lt;p&gt;I built some surfaces that could be projected on and used for prototyping installations.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
 
@@ -261,22 +305,4 @@
 
 &lt;p&gt;The only branding is on the perforated line in between the stub and the ticket.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/boarding%20pass-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This Airplane ticket design was an exploration in grid spacing, and adherence to typographic ratio. Each text size is a factor of 2 of the other.  Negative space was used to allocate distinct sections for different pieces of information.</summary></entry><entry><title type="html">Fidget Spinner Switch to NeoPixel</title><link href="http://localhost:4000/blog/physcomp/2017/09/22/fidget-spinner-switch-to-neopixel.html" rel="alternate" type="text/html" title="Fidget Spinner Switch to NeoPixel" /><published>2017-09-22T18:41:35-04:00</published><updated>2017-09-22T18:41:35-04:00</updated><id>http://localhost:4000/blog/physcomp/2017/09/22/fidget-spinner-switch-to-neopixel</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/09/22/fidget-spinner-switch-to-neopixel.html">&lt;p&gt;I used a glue gun to stick some magnets to a fidget spinner and use it as a switch. This switch was hooked into the Input of my Arduino, and used to animate a basic LED circle.&lt;/p&gt;
-
-&lt;p&gt;Instead of using standard LEDs, I decided to use a NeoPixel strip.“NeoPixel” is Adafruit’s brand for individually-addressable RGB (Red Green Blue) color pixels.  These strips make it easier to work with light and colours without needing to wire up a whole lot of individual LED’s to Arduino outputs manually.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/235165182&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/235098909&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The Arduino reads the ‘on-off’ values from the spinners magnet switch.  When the magnet of the spinner makes contact with the switch it is processed in the Arduino as an ‘On state’. This pushes the program forward one step (propelling the LED spinner forward by one step) as long as the previous state read by the program was an ‘Off’. This prevents the program from remaining on continuously if the spinner stops while making contact with the magnet switch.&lt;/p&gt;
-
-&lt;p&gt;The rainbow effect is created with the use of trigonometry functions. These functions, when applied to the number range used in RGB colours allow for us to rhythmically move through the colour spectrum.&lt;/p&gt;
-
-&lt;p&gt;At first, I attempted to implement the ‘trails’ effect through the standard NeoPixel Arduino Library.  However, the library is poorly documented and made the process of getting the RGB values for a given light complicated. In the NeoPixel library, RGB brightness values are stored as long, single digit integers. Seeing as I was interested in working and blending colours individually, this format was not useful for me.   The C++ code to extract these separate RGB values from the long integer was very ugly and confused me so I decided to switch over to FastLED.&lt;/p&gt;
-
-&lt;p&gt;FastLED has a far more simple API that seems to follow more modern programming patterns, and is maintained by an activate, open source community.  The documentation is clear and comprehensive. I would recommend to anyone wanting to do things with Arduino and LEDs.  It looks like they have some &lt;a href=&quot;http://fastled.io/docs/3.1/group___noise.html&quot;&gt;Noise Functions&lt;/a&gt; which I look forward to experimenting with in the future!&lt;/p&gt;
-
-&lt;p&gt;One proposed real-world application for this experiment would be a modular lighting toy for Children. With a magnetized fidget spinner, you could have a series of LEDs that snap together to create basic LED artworks.&lt;/p&gt;
-
-&lt;p&gt;Code for this project is hosted &lt;a href=&quot;https://github.com/samhains/pcomm_labs/blob/master/neo_pixel_spinner/neo_pixel_spinner.ino&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">I used a glue gun to stick some magnets to a fidget spinner and use it as a switch. This switch was hooked into the Input of my Arduino, and used to animate a basic LED circle.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/blog/assets/boarding%20pass-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This Airplane ticket design was an exploration in grid spacing, and adherence to typographic ratio. Each text size is a factor of 2 of the other.  Negative space was used to allocate distinct sections for different pieces of information.</summary></entry></feed>
