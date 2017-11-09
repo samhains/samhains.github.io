@@ -7,7 +7,7 @@ published: true
 
 Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.
 
-The inspiration for this piece struck me when browsing artist and educator [Gregory Shaw's website](http://moodvector.com).
+The inspiration for this piece struck me when browsing artist and educator [Gregory Shakar's website](http://moodvector.com).
 
 ![](http://moodvector.com/acfc/acfc_installation.jpg)
 

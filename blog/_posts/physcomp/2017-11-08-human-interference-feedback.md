@@ -21,11 +21,11 @@ Somebody mentioned that the project seemed like it was attempting to reveal to t
 
 A common criticism was that the interactivity needs to be developed to make the concept of 'communicating with the machine' clearer and more purposeful.
 
-One potential solution to this would be to incorporate a Kinect sensor for incorporate user movement data into the projections.
+One potential solution to this would be to incorporate a Kinect sensor and incorporate user movement data into the projections.
 
 There was a positive feedback with respect to the custom fabricated projection screens. However, the front projection technique restricts straight-forward interaction.
 
-This might be embraces as a constraint with the aid of a light sensor. A computer could be set up to be notified when the projection is interrupted. This could trigger another interaction or be countered by a rear projection.
+This might be embraced as a constraint with the aid of a light sensor. A computer could be set up to be notified when the projection is interrupted. This could trigger another interaction or be countered by a rear projection.
 
 Questions of rear or front projection aside, I plan to continue prototyping projection surfaces and screen options that could be used for the installation.
 
