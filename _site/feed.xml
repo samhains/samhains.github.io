@@ -1,41 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T19:14:55-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Human Interference play feedback</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html" rel="alternate" type="text/html" title="Human Interference play feedback" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html">&lt;p&gt;After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T19:20:52-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Human Interference play feedback</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html" rel="alternate" type="text/html" title="Human Interference play feedback" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html">&lt;p&gt;After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.&lt;/p&gt;
 
 &lt;p&gt;Here is a clip of the prototype being demonstrated:&lt;/p&gt;
 
-&lt;div class=&quot;video-responsive&quot;&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/241957118&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;div&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/241957118&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+&lt;p&gt;I will attempt to summarise my impression of the feedback here:&lt;/p&gt;
 
-I will attempt to summarise my impression of the feedback here:
+&lt;p&gt;Firstly, the transition from ‘no interference’ to ‘full interference’ is not dramatic enough. The screens move from one type of disorientation to another and as a result the sense of contrast is lacking.&lt;/p&gt;
 
-Firstly, the transition from 'no interference' to 'full interference' is not dramatic enough. The screens move from one type of disorientation to another and as a result the sense of contrast is lacking.
+&lt;p&gt;One solution to this would be to play with ‘off states’ and static images. Several of the monitors might be off unless somebody is nearby. When they turn on they might ‘grab’ an image and come to life gradually as the user approaches. I plan to start playing with tensions between the projected and the static.&lt;/p&gt;
 
-One solution to this would be to play with 'off states' and static images. Several of the monitors might be off unless somebody is nearby. When they turn on they might 'grab' an image and come to life gradually as the user approaches. I plan to start playing with tensions between the projected and the static.
+&lt;p&gt;Somebody mentioned that the project seemed like it was attempting to reveal to the participant their greatest fears. This reminded me of Andrei Tarkovsky’s film &lt;a href=&quot;https://en.wikipedia.org/wiki/Stalker_(1979_film)&quot;&gt;Stalker&lt;/a&gt; which depicted a place called ‘the Zone’ where ‘tourists’ could be smuggled inside to experience a mysterious ‘other’ intelligence. It was ambiguous what the nature of the communication was, but the experience of this ‘Zone’ seemed to cause an existential fissure for these morbidly curious tourists. This is worth keeping in mind for further concept development and I consider this to be another way of exploring a related idea. Sounds like it is time to finally read the original novel on which the film is based  (&lt;a href=&quot;https://en.wikipedia.org/wiki/Roadside_Picnic&quot;&gt;Roadside Picnic&lt;/a&gt;).&lt;/p&gt;
 
-Somebody mentioned that the project seemed like it was attempting to reveal to the participant their greatest fears. This reminded me of Andrei Tarkovsky's film [Stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film)) which depicted a place called 'the Zone' where 'tourists' could be smuggled inside to experience a mysterious 'other' intelligence. It was ambiguous what the nature of the communication was, but the experience of this 'Zone' seemed to cause an existential fissure for these morbidly curious tourists. This is worth keeping in mind for further concept development and I consider this to be another way of exploring a related idea. Sounds like it is time to finally read the original novel on which the film is based  ([Roadside Picnic](https://en.wikipedia.org/wiki/Roadside_Picnic)).
+&lt;p&gt;A common criticism was that the interactivity needs to be developed to make the concept of ‘communicating with the machine’ clearer and more purposeful.&lt;/p&gt;
 
-A common criticism was that the interactivity needs to be developed to make the concept of 'communicating with the machine' clearer and more purposeful.
+&lt;p&gt;One potential solution to this would be to incorporate a Kinect sensor for incorporate user movement data into the projections.&lt;/p&gt;
 
-One potential solution to this would be to incorporate a Kinect sensor for incorporate user movement data into the projections.
+&lt;p&gt;There was a positive feedback with respect to the custom fabricated projection screens. However, the front projection technique restricts straight-forward interaction.&lt;/p&gt;
 
-There was a positive feedback with respect to the custom fabricated projection screens. However, the front projection technique restricts straight-forward interaction.
+&lt;p&gt;This might be embraces as a constraint with the aid of a light sensor. A computer could be set up to be notified when the projection is interrupted. This could trigger another interaction or be countered by a rear projection.&lt;/p&gt;
 
-This might be embraces as a constraint with the aid of a light sensor. A computer could be set up to be notified when the projection is interrupted. This could trigger another interaction or be countered by a rear projection.
+&lt;p&gt;Questions of rear or front projection aside, I plan to continue prototyping projection surfaces and screen options that could be used for the installation.&lt;/p&gt;
 
-Questions of rear or front projection aside, I plan to continue prototyping projection surfaces and screen options that could be used for the installation.
+&lt;p&gt;Others mentioned that it would be nice to be able to ‘touch’ the screen.&lt;/p&gt;
 
-Others mentioned that it would be nice to be able to 'touch' the screen.
+&lt;p&gt;Mike Sherwood and Mike Allison’s &lt;a href=&quot;http://aaron-sherwood.com/works/firewall/&quot;&gt;Firewall&lt;/a&gt;  is a worthy reference for its use of stretched spandex sheets and rear projection mapping to create an interactive surface.&lt;/p&gt;
 
-Mike Sherwood and Mike Allison's [Firewall](http://aaron-sherwood.com/works/firewall/)  is a worthy reference for its use of stretched spandex sheets and rear projection mapping to create an interactive surface.
+&lt;iframe src=&quot;https://player.vimeo.com/video/54882144&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;div class=&quot;video-responsive&quot;&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/54882144&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;div&gt;
-
-
-This type of interaction could be a great fit for my project, however I imagine that it might be difficult to cleanly communicate to the users that they can 'touch' the monitors.
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.</summary></entry><entry><title type="html">Modular projection mapping surface (Part 1)</title><link href="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html" rel="alternate" type="text/html" title="Modular projection mapping surface (Part 1)" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html">&lt;p&gt;I built some surfaces that could be projected on and used for prototyping installations.&lt;/p&gt;
+&lt;p&gt;This type of interaction could be a great fit for my project, however I imagine that it might be difficult to cleanly communicate to the users that they can ‘touch’ the monitors.&lt;/p&gt;</content><author><name></name></author><summary type="html">After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.</summary></entry><entry><title type="html">Modular projection mapping surface (Part 1)</title><link href="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html" rel="alternate" type="text/html" title="Modular projection mapping surface (Part 1)" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html">&lt;p&gt;I built some surfaces that could be projected on and used for prototyping installations.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
 
@@ -148,24 +141,17 @@ This type of interaction could be a great fit for my project, however I imagine 
 
 &lt;p&gt;I started experimenting with Touch Designer and GLSL shaders to explore feedback effects. The feedback expresses a recursive void which I felt fit in naturally with my concept.&lt;/p&gt;
 
-&lt;div class=&quot;video-responsive&quot;&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/241825810&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;div&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/241825810&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;div class=&quot;video-responsive&quot;&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/241825832&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;div&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/241825832&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+&lt;p&gt;I am pleased with these results, however it needs to be taken further. To make this scarier, audio is very important.&lt;/p&gt;
 
-I am pleased with these results, however it needs to be taken further. To make this scarier, audio is very important.
+&lt;p&gt;I built some projection mapping surfaces to allow for some more high fidelity prototyping of the aesthetic.&lt;/p&gt;
 
-I built some projection mapping surfaces to allow for some more high fidelity prototyping of the aesthetic.
+&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-
-![](/blog/assets/modular_projector/11.jpg)
-
-Prototyping illustrated the need for more varied content, effects and interactive development.
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.</summary></entry><entry><title type="html">Making an Altoid can into a laser</title><link href="http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light.html" rel="alternate" type="text/html" title="Making an Altoid can into a laser" /><published>2017-10-31T00:00:00-04:00</published><updated>2017-10-31T00:00:00-04:00</updated><id>http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light.html">&lt;p&gt;After a couple of months of eager  overcomplicating,  I decided I would approach the first Fabrication assignment as simply, and as cheaply as possible.&lt;/p&gt;
+&lt;p&gt;Prototyping illustrated the need for more varied content, effects and interactive development.&lt;/p&gt;</content><author><name></name></author><summary type="html">Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.</summary></entry><entry><title type="html">Making an Altoid can into a laser</title><link href="http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light.html" rel="alternate" type="text/html" title="Making an Altoid can into a laser" /><published>2017-10-31T00:00:00-04:00</published><updated>2017-10-31T00:00:00-04:00</updated><id>http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light.html">&lt;p&gt;After a couple of months of eager  overcomplicating,  I decided I would approach the first Fabrication assignment as simply, and as cheaply as possible.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
 
@@ -263,12 +249,7 @@ Prototyping illustrated the need for more varied content, effects and interactiv
 
 &lt;h1 id=&quot;my-friends-are-lukewarm-about-me&quot;&gt;My Friends Are Lukewarm About Me&lt;/h1&gt;
 
-&lt;div class=&quot;video-responsive&quot;&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/237981904&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;div&gt;
-
-
-&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">For my submission to the ITP Winter Show Poster, I decided I would create a composition based on 3D scans of ITP students.</summary></entry><entry><title type="html">Default Colours and Speculative Interface</title><link href="http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design.html" rel="alternate" type="text/html" title="Default Colours and Speculative Interface" /><published>2017-10-03T07:16:01-04:00</published><updated>2017-10-03T07:16:01-04:00</updated><id>http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design.html">&lt;p&gt;For Visual Language class, at ITP, we were given the task of designing 6 graphics, based on a colour palette that reflected ones personality.&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/237981904&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html">For my submission to the ITP Winter Show Poster, I decided I would create a composition based on 3D scans of ITP students.</summary></entry><entry><title type="html">Default Colours and Speculative Interface</title><link href="http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design.html" rel="alternate" type="text/html" title="Default Colours and Speculative Interface" /><published>2017-10-03T07:16:01-04:00</published><updated>2017-10-03T07:16:01-04:00</updated><id>http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design.html">&lt;p&gt;For Visual Language class, at ITP, we were given the task of designing 6 graphics, based on a colour palette that reflected ones personality.&lt;/p&gt;
 
 &lt;p&gt;I first attempted to do this assignment in Cinema4D, as I want to learn how to design in 3D programs. However, I underestimated how challenging this would be technically and creatively, and ended up moving back to illustrator due to time constraints.&lt;/p&gt;
 
@@ -302,10 +283,7 @@ Prototyping illustrated the need for more varied content, effects and interactiv
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">For Visual Language class, at ITP, we were given the task of designing 6 graphics, based on a colour palette that reflected ones personality.</summary></entry><entry><title type="html">Fidget Spinner Music Box</title><link href="http://localhost:4000/blog/physcomp/2017/10/02/fidget-spinner-music-box.html" rel="alternate" type="text/html" title="Fidget Spinner Music Box" /><published>2017-10-02T19:17:48-04:00</published><updated>2017-10-02T19:17:48-04:00</updated><id>http://localhost:4000/blog/physcomp/2017/10/02/fidget-spinner-music-box</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/10/02/fidget-spinner-music-box.html">&lt;p&gt;Starting from the project that was mentioned &lt;a href=&quot;http://samhains.com/blog/physcomp/2017/09/22/fidget-spinner-switch-to-neopixel.html&quot;&gt;here&lt;/a&gt; - I transformed the silly spinner into a music box by attaching an additional speaker to the Arduino powering the LEDs. When you spin it, it plays ‘Pop Goes The Weasel’.&lt;/p&gt;
 
-&lt;div class=&quot;video-responsive&quot;&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/236521241&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;div&gt;
-&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">Starting from the project that was mentioned here - I transformed the silly spinner into a music box by attaching an additional speaker to the Arduino powering the LEDs. When you spin it, it plays ‘Pop Goes The Weasel’.</summary></entry><entry><title type="html">Delta Airplane Ticket Design</title><link href="http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design.html" rel="alternate" type="text/html" title="Delta Airplane Ticket Design" /><published>2017-09-23T11:16:01-04:00</published><updated>2017-09-23T11:16:01-04:00</updated><id>http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design.html">&lt;p&gt;This Airplane ticket design was an exploration in grid spacing, and adherence to typographic ratio. Each text size is a factor of 2 of the other.  Negative space was used to allocate distinct sections for different pieces of information.&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/236521241&quot; width=&quot;800px&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html">Starting from the project that was mentioned here - I transformed the silly spinner into a music box by attaching an additional speaker to the Arduino powering the LEDs. When you spin it, it plays ‘Pop Goes The Weasel’.</summary></entry><entry><title type="html">Delta Airplane Ticket Design</title><link href="http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design.html" rel="alternate" type="text/html" title="Delta Airplane Ticket Design" /><published>2017-09-23T11:16:01-04:00</published><updated>2017-09-23T11:16:01-04:00</updated><id>http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design.html">&lt;p&gt;This Airplane ticket design was an exploration in grid spacing, and adherence to typographic ratio. Each text size is a factor of 2 of the other.  Negative space was used to allocate distinct sections for different pieces of information.&lt;/p&gt;
 
 &lt;p&gt;Roboto Condensed was used in addition to Roboto in order to fit more content. Wider kerning was used for headers in order to have text line up. High contrast was used to draw attention to the most important information and to give a strong but simple sense of hierarchy.&lt;/p&gt;
 
