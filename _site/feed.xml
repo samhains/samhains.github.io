@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-09T14:22:25-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Human Interference play feedback</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html" rel="alternate" type="text/html" title="Human Interference play feedback" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html">&lt;p&gt;After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-15T03:32:25-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html"></title><link href="http://localhost:4000/blog/2017/11/15/2017-11-15-concept-development-talking-to-machines.html" rel="alternate" type="text/html" title="" /><published>2017-11-15T03:32:25-05:00</published><updated>2017-11-15T03:32:25-05:00</updated><id>http://localhost:4000/blog/2017/11/15/2017-11-15-concept-development-talking-to-machines</id><content type="html" xml:base="http://localhost:4000/blog/2017/11/15/2017-11-15-concept-development-talking-to-machines.html">&lt;p&gt;This week was spent iterating on design ideas, and developing and refining my concept for final.&lt;/p&gt;
+
+&lt;p&gt;I spent a lot of time sketching. And eventually I arrived at this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pcomm_final_concept_dev/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Due to the impracticality, implausibility and difficulty of the ‘interactive room’ aspect of the project, I have scaled down the project and interaction.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, it became clear that to power 5+ monitors on my laptop, I would need expensive adapters or a secondary computer or GPU. This started to sound like more hassle than it was worth.&lt;/p&gt;
+
+&lt;p&gt;As a result, The room of monitors has been replaced with an obelisk of found-electronics. This may involve anything from televisions, microwaves, Furby’s and minibar fridges. All of these items will have projection screens retrofitted to them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pcomm_final_concept_dev/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The interaction has also been overhauled. Rather than using depth sensors and movement the main interaction now is done through the phone in a sedentary position.&lt;/p&gt;
+
+&lt;p&gt;When the participant sits down, a phone on their right will start ringing. They will answer the phone to find that their voice creates  a swelling feedback loop that influences and effects the images that they see in the frightening obelisk in front of them.&lt;/p&gt;
+
+&lt;p&gt;The obelisk is a monsterous internet of things, and is still intended to be scary or unsettling.&lt;/p&gt;
+
+&lt;p&gt;I believe that this new direction makes the act of ‘communicating with the machine’ more direct while there being much to explore in terms of fleshing out a satisfying voice-reactive experience through the telephone and video sculpture.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pcomm_final_concept_dev/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have begun  modifying the telephone so that it can react interactively, and interface with my audio interface.&lt;/p&gt;
+
+&lt;p&gt;The microphone is being replaced with microphone that will provide a separate pre-amplified signal to my audio interface.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pcomm_final_concept_dev/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have also begun laser cutting scrap materials to start getting the ‘retrofit screens’ ready.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pcomm_final_concept_dev/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking forward to wiring up the telephone, the ringer and the screens all together, and getting into fleshing out and designing the audio-visual interaction.&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html">Laser Cutting Projection Feature</title><link href="http://localhost:4000/blog/intro-fab/2017/11/15/laser-cutting-projection-features.html" rel="alternate" type="text/html" title="Laser Cutting Projection Feature" /><published>2017-11-15T00:00:00-05:00</published><updated>2017-11-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/15/laser-cutting-projection-features</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/15/laser-cutting-projection-features.html">&lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;50W Laser Cutter&lt;/li&gt;
+  &lt;li&gt;1/8” Scrap wood&lt;/li&gt;
+  &lt;li&gt;Adobe Illustrator&lt;/li&gt;
+  &lt;li&gt;Measuring calliper&lt;/li&gt;
+  &lt;li&gt;Old Tv’s&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For an art installation I am building,  I am wanting to retrofit projection surfaces
+onto an assortment of electronics and other junk.&lt;/p&gt;
+
+&lt;p&gt;The first step in this process was to measure the orifices that the screens would be attached to with a calliper.
+Then, the shape is drawn in illustrator and sent to the laser cutter for a first draft on disposable material.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_laser_cutter/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After this, a process of trial and error followed. The calliper was used to try and reduce the ‘gaps’.
+As the margin of error became smaller, it became more and more difficult to close what is left of the ‘gaps’.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_laser_cutter/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For televisions that have an unusual shape, I used a levelling tool to take a photo of the camera from a birds eye.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_laser_cutter/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I took this image into illustrator, reduced the opacity of the image and traced it to try and get a good approximation of the inner ellipse shape.
+&lt;img src=&quot;/blog/assets/fab_laser_cutter/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The results, after much trial and error were pretty good. However, perhaps not good enough just yet to waste my acrylic on ;).
+&lt;img src=&quot;/blog/assets/fab_laser_cutter/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I plan to keep refining this technique, and will laser cut to acrylic when I have it very smooth.&lt;/p&gt;
+
+&lt;p&gt;Another possibility would be to abandon the laser cutter and paint projector paint over surfaces where this is possible (the glass of screens etc.).&lt;/p&gt;</content><author><name></name></author><summary type="html">PARTS AND TOOLS</summary></entry><entry><title type="html">Human Interference play feedback</title><link href="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html" rel="alternate" type="text/html" title="Human Interference play feedback" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/08/human-interference-feedback.html">&lt;p&gt;After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.&lt;/p&gt;
 
 &lt;p&gt;Here is a clip of the prototype being demonstrated:&lt;/p&gt;
 
@@ -281,14 +354,4 @@
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">For Visual Language class, at ITP, we were given the task of designing 6 graphics, based on a colour palette that reflected ones personality.</summary></entry><entry><title type="html">Fidget Spinner Music Box</title><link href="http://localhost:4000/blog/physcomp/2017/10/02/fidget-spinner-music-box.html" rel="alternate" type="text/html" title="Fidget Spinner Music Box" /><published>2017-10-02T19:17:48-04:00</published><updated>2017-10-02T19:17:48-04:00</updated><id>http://localhost:4000/blog/physcomp/2017/10/02/fidget-spinner-music-box</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/10/02/fidget-spinner-music-box.html">&lt;p&gt;Starting from the project that was mentioned &lt;a href=&quot;http://samhains.com/blog/physcomp/2017/09/22/fidget-spinner-switch-to-neopixel.html&quot;&gt;here&lt;/a&gt; - I transformed the silly spinner into a music box by attaching an additional speaker to the Arduino powering the LEDs. When you spin it, it plays ‘Pop Goes The Weasel’.&lt;/p&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/236521241&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">Starting from the project that was mentioned here - I transformed the silly spinner into a music box by attaching an additional speaker to the Arduino powering the LEDs. When you spin it, it plays ‘Pop Goes The Weasel’.</summary></entry><entry><title type="html">Delta Airplane Ticket Design</title><link href="http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design.html" rel="alternate" type="text/html" title="Delta Airplane Ticket Design" /><published>2017-09-23T11:16:01-04:00</published><updated>2017-09-23T11:16:01-04:00</updated><id>http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/09/23/delta-airplane-ticket-design.html">&lt;p&gt;This Airplane ticket design was an exploration in grid spacing, and adherence to typographic ratio. Each text size is a factor of 2 of the other.  Negative space was used to allocate distinct sections for different pieces of information.&lt;/p&gt;
-
-&lt;p&gt;Roboto Condensed was used in addition to Roboto in order to fit more content. Wider kerning was used for headers in order to have text line up. High contrast was used to draw attention to the most important information and to give a strong but simple sense of hierarchy.&lt;/p&gt;
-
-&lt;p&gt;Given the unreliable nature of boarding and departure times, they have been relegated to a lower point on the design hierarchy.  People typically have to strain their eyes looking to match their flight number with the flight information on the grids of screens at airports to confirm flight information. The flight number is the most important piece of information and has been treated as such.&lt;/p&gt;
-
-&lt;p&gt;The only branding is on the perforated line in between the stub and the ticket.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/boarding%20pass-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This Airplane ticket design was an exploration in grid spacing, and adherence to typographic ratio. Each text size is a factor of 2 of the other.  Negative space was used to allocate distinct sections for different pieces of information.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/blog/assets/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">For Visual Language class, at ITP, we were given the task of designing 6 graphics, based on a colour palette that reflected ones personality.</summary></entry></feed>
