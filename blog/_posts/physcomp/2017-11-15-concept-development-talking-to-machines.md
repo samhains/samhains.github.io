@@ -1,11 +1,11 @@
 ---
-title: Concept Development: Talking to Machines
+title: Concept Development 'Talking to Machines'
 layout: post
 categories: physcomp
 published: true
 ---
 
-This week was spent iterating on design ideas, and developing and refining my concept for final.
+This week was spent iterating on design ideas, and developing and refining my concept for final. The project has been renamed 'Taking to machines'.
 
 I spent a lot of time sketching. And eventually I arrived at this:
 
