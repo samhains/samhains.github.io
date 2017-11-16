@@ -24,3 +24,20 @@ The project exists in its current form as an automated, organic creature operati
 **PRELIMINARY STUDY TOOL**
 
 The tool below was created to study the results of the first experiment with the zero likes data set with DCGAN - a deep learning algorithm.
+
+<div id="images" style="display:none;">
+  <form id="radio">
+    <input type="radio" name="check" value="Machine" checked> AI
+    <input type="radio" name="check" value="Human"> Human
+    <input type="radio" name="check" value="Mixed"> Mixed
+  </form>
+</div>
+<div id="loader_img">
+    <p>  (It might need some time to load.) </p>
+    <img style="display:inline-block;" alt="" src="/assets/hourglass.gif"/>
+</div>
+<div id="loader_img_2" style="display:none;">
+    <img style="display:inline-block;" alt="" src="/assets/hourglass.gif"/>
+</div>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="/assets/nolikes.js" type="text/javascript"></script>

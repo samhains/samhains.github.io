@@ -39,7 +39,12 @@ $on-laptop:        800px !default; //p { font-family: 'monospace'; font-size: 18
 //     padding-left: $spacing-unit / 2;
 //   }
 // }
-
+input[type="radio"] {
+  width: 20px!important;
+}
+#radio {
+  margin-bottom: 10px;
+}
 img {
   max-width: 800px!important;
 }
