@@ -39,10 +39,11 @@ This is a preview of where the visuals are at. I'm not quite happy with them yet
 
 {% include vimeo-player.html id=244959856 %}
 
-Here is an earlier video of some testing done projecting onto the screens. (No modifications)
-{% include vimeo-player.html id=243369842 %}
-
 Hard to see from the video  (Couldn't figure out how to screencap with audio) but it has been really challenging to get some 'satisfying' audio-visual effects.  I'm still feeling like my method of audio analysis is a little clumsy and could use refinement.
+
+Here is an earlier video of some testing done projecting onto the screens. In this video there are no custom projection screens being fitted.
+
+{% include vimeo-player.html id=243369842 %}
 
 
 **CONCLUSION**
