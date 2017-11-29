@@ -49,4 +49,6 @@ Hard to see from the video  (Couldn't figure out how to screencap with audio) bu
 
 There is more to do. I feel confident I can finish the basic physical components before user testing. However, I'd love to introduce some 'kinetic sculpture' to the 'pile of junk' that would respond to the voice. I feel this might bring it to life.
 
+I also need to add some sensor interaction that 'lures' the user in, I am thinking of using some depth sensors with some additional lights placed on the 'junk pile' and perhaps on the chair.
+
 I still need to keep pushing the interaction and the aesthetic to create something more entertaining and interesting.
