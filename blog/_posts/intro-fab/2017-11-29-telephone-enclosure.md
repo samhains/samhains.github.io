@@ -55,11 +55,11 @@ I soldered the new Microphone to the telephone receiver, and connected this to t
 
 ![](/blog/assets/fab_enclosure/8.jpg)
 
-It works! 
+It works!
 
 ![](/blog/assets/fab_enclosure/9.jpg)
 
 
 **CONCLUSION**
 
-I am considering wiring up the Arduino directly to the 'bells', however I'm not sure this is the best use of a half-day/days work. The case seems to create a nice amount of resonance, even without 'speaker holes'.
+I am considering wiring up the Arduino directly to the 'bells' instead of faking the 'ring' with speakers, however I'm not sure this is the best use of a half-day/days work. The case seems to create a nice amount of resonance, even without 'speaker holes'.
