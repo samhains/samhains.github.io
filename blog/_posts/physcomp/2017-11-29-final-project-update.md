@@ -40,6 +40,9 @@ This is a preview of where the visuals are at. I'm not quite happy with them yet
 {% include vimeo-player.html id=244959856 %}
 
 
+Hard to see from the video  (Couldn't figure out how to screencap with audio) - it has been really challenging to get some 'satisfying' audio-visual effects.  I'm still feeling like my method of audio analysis is a little clumsy and could use refinement.
+
+
 ** CONCLUSION **
 
 There is more to do. I feel confident I can finish the basic physical components before user testing. However, I'd love to introduce some 'kinetic sculpture' to the 'pile of junk' that would respond to the voice.
