@@ -13,4 +13,5 @@ Through the use of audio-visual feedback loops, found footage from the edges of 
 
 {% include vimeo-player.html id=246076170 %}
 
+Here is a demo of some of the audio-visuals.
 {% include vimeo-player.html id=246517068 %}
