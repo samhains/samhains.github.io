@@ -12,3 +12,4 @@ How do we really communicate with the machine?
 Through the use of audio-visual feedback loops, found footage from the edges of a complexified online culture and repurposed e-waste- I attempt to explore the emptiness of the machine ‘intelligence’ and the terrifying, distorted image of humanity which it reflects.
 
 {% include vimeo-player.html id=246076170 %}
+{% include vimeo-player.html id=246517068 %}
