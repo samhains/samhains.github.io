@@ -4,12 +4,10 @@ layout: post
 categories: physcomp
 published: true
 ---
+This project is interactive visual sculpture. The project explores ideas and tropes surrounding human-machine communication through an interactive, fictional call center. The call center connects the participant to an accelerated diagram of our existing reality, loosely based on Nick Land's science fiction poem 'Meltdown'.
 
-This project is an interactive visual sculpture which explores ideas and tropes surrounding human-machine communication. We tend to anthropomorphise our contact with artificial intelligence; smiling human avatars, or home electronics that transform into terminators. This project considers the space that exists between Human and Machine when we take away the human facade.
 
-How do we really communicate with the machine?
-
-Through the use of audio-visual feedback loops, found footage from the edges of a complexified online culture and repurposed e-waste- I attempt to explore the emptiness of the machine ‘intelligence’ and the terrifying, distorted image of humanity which it reflects.
+The visuals contain a representation of a potential future where people have retreated from complexity into performance, role playing, virtual worlds.
 
 {% include vimeo-player.html id=246076170 %}
 
