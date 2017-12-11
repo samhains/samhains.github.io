@@ -86,6 +86,6 @@ I spent some time getting the mechanism smooth with trial and error before makin
 
 ![](/blog/assets/fab_motor_mount/18.jpg)
 
-** CONCLUSION **
+**CONCLUSION**
 
 I was too hasty with the Ban Saw, and cut up my material without thinking about centring the single flag that I had. I also would have liked to have done this with multiple flags. I learnt about mechanisms as well as gained added experience with general shop tools.
