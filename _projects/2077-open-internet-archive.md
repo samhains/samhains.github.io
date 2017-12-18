@@ -8,7 +8,7 @@ date: 2017-12-08 11:37:34 +0000
 
 ![](/assets/2077/1.jpg)
 
-On encountering the installation, the participant sees a ringing telephone. The voice on the telephone explains that it is what remains of the internet - an archive maintained by volunteers. At this point, the user has two options, they may search the archive by voice or request for more information about the system they are interacting with.
+On encountering the installation, the participant sees a ringing telephone. The voice on the telephone explains the internet is now an archive maintained by volunteers. The user has two options, they may search the archive by voice or request for more information about the system they are interacting with.
 
 The script for the phone interaction can be found <a href="http://samhains.com/2077_telephone_script.html" target="_blank">here</a>.
 
@@ -20,8 +20,8 @@ Here is an excerpt from the 'More Information' section of the phone dialogue:
 
 <i>The Internet was relegated to the pile of waste that you see before you."</i>
 
-If the user chooses to search the archive, they will find that while the archive can provide them with their search - this memory of the internet is damaged and broken.
+If the user chooses to search, they will find that the memory of the free internet - as represented by the archive; is damaged and broken.
 
 {% include vimeo-player.html id=247820730 %}
 
-In this possible future, the internet and the dream of a virtual-utopia has been discarded and has joined the pile of anachronistic 'junk'.
+In this possible future, the internet and the dream of a virtual-utopia has been discarded as it joins the pile of anachronistic 'junk' you see before you.
