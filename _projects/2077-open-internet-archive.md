@@ -22,6 +22,7 @@ Here is an excerpt from the 'More Information' section of the phone dialogue:
 
 If the user chooses to search, they will find that the memory of the free internet - as represented by the archive; is damaged and broken.
 
+In this video, we see a participant searching the term 'Nationalism':
 {% include vimeo-player.html id=247820730 %}
 
 In this possible future, the internet and the dream of a virtual-utopia has been discarded as it joins the pile of anachronistic 'junk' you see before you.
