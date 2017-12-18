@@ -14,10 +14,10 @@ The script for the phone interaction can be found <a href="http://samhains.com/2
 
 Here is an excerpt from the 'More Information' section of the phone dialogue:
 
-<i>"The Internet was once an open, peer-to-peer space. Users created their own virtual contexts, and were anonymous at times.
+_"The Internet was once an open, peer-to-peer space. Users created their own virtual contexts, and were anonymous at times.
 
-After the removal of net neutrality in the 2010's, large corporations and service providers were given license to monopolise the underlying network infrastructure.
+After the removal of net neutrality in the 2010's, large corporations and service providers were given license to monopolise the underlying network infrastructure. By the year 2032, the Internet became the "Trinet" - All access to information technology was officially mediated between 3 corporations. Gradually, they created their own virtual contexts with streamlined experiences, and they abandoned the web browser.
 
-By the year 2032, the Internet became the "Trinet" - All access to information technology was officially mediated between 3 corporations. Gradually, they created their own virtual contexts with streamlined experiences, and they abandoned the web browser.
+The Internet was relegated to the pile of waste that you see before you."_
 
-The Internet was relegated to the pile of waste that you see before you."</i>
+If the user chooses to search the archive, they will find that while the archive can provide them with their search - this 'memory' of the internet is warping
