@@ -12,4 +12,4 @@ On encountering the installation, the participant sees a ringing telephone. The 
 
 {% include vimeo-player.html id=249010078 %}
 
-From a technical standpoint, the installation involves a modified rotary dial telephone, a Touch Designer server for the visuals, projection mapping and interaction, and an additional a python server performing voice recognition and data collection.
+From a technical standpoint, the installation involves a modified rotary dial telephone, a Touch Designer server for visuals, projection mapping and phone interaction, and an additional a python server performing voice recognition and data collection.
