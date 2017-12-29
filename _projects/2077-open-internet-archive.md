@@ -4,7 +4,7 @@ title: 2077 Open Internet Archive
 date: 2017-12-08 11:37:34 +0000
 ---
 
-2077: Open Internet Archive is an interactive art installation set in a possible future where the internet has been reduced to an archive in a pile of trash. The piece is an interface for a speculative internet - a possible outcome from the corporatisation of online space.
+2077: Open Internet Archive is an interactive art installation set in a possible future where the internet has been reduced to an archive in a pile of trash. The piece is an interface for a speculative internet; a possible outcome from the corporatisation of online space.
 
 ![](/assets/2077/1.jpg)
 
@@ -12,4 +12,5 @@ On encountering the installation, the participant sees a ringing telephone. The 
 
 {% include vimeo-player.html id=249010078 %}
 
-From a technical standpoint, the installation involves a modified rotary dial telephone, a Touch Designer server for visuals, projection mapping and phone interaction, and an additional a python server performing voice recognition and data collection.
+
+From a technical standpoint, the installation involves a modified rotary dial telephone, a Touch Designer server (visuals, projection mapping and phone interaction), and an additional a python server (voice recognition and data collection).
