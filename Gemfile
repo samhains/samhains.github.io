@@ -16,11 +16,11 @@ gem "jekyll", "3.6.2"
 # gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-
 require 'json'
 require 'open-uri'
 versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
+gem "github-pages", group: :jekyll_plugins
 # gem 'github-pages', versions['github-pages']
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
