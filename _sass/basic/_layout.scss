@@ -216,6 +216,14 @@ a:visited {
 //   border: blue 1px solid;
 //   color: $header-text-color;
 // }
+
+.letter-header{
+  margin-bottom: 14px;
+  background: $header-color;
+  color: $header-text-color;
+  border: blue 1px solid;
+}
+
 .post-header, .page-heading {
   margin-bottom: 14px;
   display: table;

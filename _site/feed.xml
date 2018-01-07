@@ -1,4 +1,229 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-16T12:35:08-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Concept Development ‘Talking to Machines’</title><link href="http://localhost:4000/blog/physcomp/2017/11/15/concept-development-talking-to-machines.html" rel="alternate" type="text/html" title="Concept Development 'Talking to Machines'" /><published>2017-11-15T00:00:00-05:00</published><updated>2017-11-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/15/concept-development-talking-to-machines</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/15/concept-development-talking-to-machines.html">&lt;p&gt;This week was spent iterating on design ideas, and developing and refining my concept for final. The project has been renamed ‘Taking to machines’.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-07T14:49:50-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">2 Materials for Fab</title><link href="http://localhost:4000/blog/intro-fab/2017/12/15/2-materials.html" rel="alternate" type="text/html" title="2 Materials for Fab" /><published>2017-12-15T00:00:00-05:00</published><updated>2017-12-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/12/15/2-materials</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/12/15/2-materials.html">&lt;p&gt;For my 2 materials assignment I decided to play with foam, and translucent paper to create a rear projection object.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Foam&lt;/li&gt;
+  &lt;li&gt;Translucent paper&lt;/li&gt;
+  &lt;li&gt;Drill press&lt;/li&gt;
+  &lt;li&gt;Glue Stick&lt;/li&gt;
+  &lt;li&gt;Exacto blade&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;PROCESS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Got the materials.
+&lt;img src=&quot;/blog/assets/fab_2_materials/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Used a drill press with a large circular drill bit to create circles.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_2_materials/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Used an Exacto blade to cut the translucent paper to size.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_2_materials/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Used a glue stick to stick the transparent paper to the foam.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_2_materials/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Voila!
+&lt;img src=&quot;/blog/assets/fab_2_materials/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">For my 2 materials assignment I decided to play with foam, and translucent paper to create a rear projection object.</summary></entry><entry><title type="html">Mounting Motors Assignment</title><link href="http://localhost:4000/blog/intro-fab/2017/12/11/mounting-motors-assignment.html" rel="alternate" type="text/html" title="Mounting Motors Assignment" /><published>2017-12-11T00:00:00-05:00</published><updated>2017-12-11T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/12/11/mounting-motors-assignment</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/12/11/mounting-motors-assignment.html">&lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Drill Press&lt;/li&gt;
+  &lt;li&gt;Foam&lt;/li&gt;
+  &lt;li&gt;Drill&lt;/li&gt;
+  &lt;li&gt;Exacto knife&lt;/li&gt;
+  &lt;li&gt;Ban saw&lt;/li&gt;
+  &lt;li&gt;2 sizes of wooden Dowels&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I really like the colour of this foam material I’ve been seeing around the shop. When I encountered some in the junk pile, I was happy to take it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I cut down the foam to a workable size using the Ban saw.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I then cut up some Dowels that would be used as the flag pole.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I found some used arcade tickets from the Junk shelf that I sticky-taped to the Dowels to create flags.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I found some cardboard tube ends that I decided to build a ‘pulley’ system out of.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I glued this first to help keep it in pace while drilling holes for the servo mount.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I then drilled the screws into the servo mount.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used scissors to cut down the edges of the mount so that the servo could spin freely.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I found that the existing hole in the foam, was already a perfect size for the servo!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All that was needed was to use an ‘Exacto blade’ to cut some room for the wires.
+&lt;img src=&quot;/blog/assets/fab_motor_mount/10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I hot-glued some foam legs on the foam board so that the motor mechanism could sit underneath and be hidden.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Experimenting with some string to have the motor drive the flags revealed that a dowel would be necessary for added torque to the mechanism.&lt;/p&gt;
+
+&lt;p&gt;I set up a drill press so that I could drill a straight hole the size of the smaller dowel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Worked well!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was more difficult than expected to set up a nicely flowing pulley/dowel set up that would rotate the flags.&lt;/p&gt;
+
+&lt;p&gt;My strategy was to tie a small not around the dowel end, and use hot glue to secure it. I would then tie a loose knot around the pulley and roll the dowel around to get a feel for how much give would be necessary on both sides.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/16.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Due to time constraints, I re-scoped the assignment, and decided to drive a single flag with the motor, rather than 7.&lt;/p&gt;
+
+&lt;p&gt;I cut down the board to a smaller size.. and drilled a hole for the dowel flag.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/17.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I spent some time getting the mechanism smooth with trial and error before making a knot and gluing it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_motor_mount/18.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is is. Ugly, but functioning.&lt;/p&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/246881087&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I was too hasty with the Ban Saw, and cut up my material without thinking about centring the single flag that I had. I also would have liked to have done this with multiple flags. I learnt about mechanisms as well as gained added experience with general shop tools.&lt;/p&gt;</content><author><name></name></author><summary type="html">PARTS AND TOOLS</summary></entry><entry><title type="html">Talking To Machine Winter Show Submission</title><link href="http://localhost:4000/blog/physcomp/2017/12/06/taking-to-the-machine-winter-show-submission.html" rel="alternate" type="text/html" title="Talking To Machine Winter Show Submission" /><published>2017-12-06T00:00:00-05:00</published><updated>2017-12-06T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/12/06/taking-to-the-machine-winter-show-submission</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/12/06/taking-to-the-machine-winter-show-submission.html">&lt;p&gt;This project is interactive visual sculpture. The project explores ideas and tropes surrounding human-machine communication through an interactive, fictional call center. The call center connects the participant to an accelerated diagram of our existing reality, loosely based on Nick Land’s science fiction poem ‘Meltdown’.&lt;/p&gt;
+
+&lt;p&gt;The visuals contain a representation of a potential future where people have retreated from complexity into performance, role playing, virtual worlds.&lt;/p&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/246076170&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Here is a demo of some of the audio-visuals.&lt;/p&gt;
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/246517068&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">This project is interactive visual sculpture. The project explores ideas and tropes surrounding human-machine communication through an interactive, fictional call center. The call center connects the participant to an accelerated diagram of our existing reality, loosely based on Nick Land’s science fiction poem ‘Meltdown’.</summary></entry><entry><title type="html">Pcomm Final Project Update</title><link href="http://localhost:4000/blog/physcomp/2017/11/29/final-project-update.html" rel="alternate" type="text/html" title="Pcomm Final Project Update" /><published>2017-11-29T00:00:00-05:00</published><updated>2017-11-29T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/29/final-project-update</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/29/final-project-update.html">&lt;p&gt;I spent a lot of time over the last couple of weeks trying to refine some implementations of my ideas for this project.&lt;/p&gt;
+
+&lt;p&gt;I started to modify an old fashioned telephone, that will operate as the main source of interaction for the participant. The fabrication component of this is documented &lt;a href=&quot;http://samhains.com/blog/intro-fab/2017/11/29/telephone-enclosure.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After some trial and error, I managed to get the telephone speaking with my audio interface by cracking open a microphone and appropriating the dynamic microphone inside.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pcomm_final_update/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Instead of spending a (vague) estimate of 1/2 to a day  wiring the telephone ‘bells’ to the Arduino, I have stashed a couple of speakers inside the Telephone.&lt;/p&gt;
+
+&lt;p&gt;I am in the process of wiring up the Telephone receiver switch to the Arduino’s digital input. This switch will keep track of where the phone receiver is. I will need to figure out a way to wire up the pull-down resistor without the space for a full breadboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pcomm_final_update/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am also working on setting up a &lt;a href=&quot;http://tinkersphere.com/sensors/1256-fsr-force-sensor-pressure-sensor-arduino-compatible.html&quot;&gt;force sensor&lt;/a&gt; to communicate via the XBee microcontroller.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pcomm_final_update/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This was assisted with the help of Tom Igoes’ ‘Making Things Talk’ book  (both PHP and Node.js versions).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/pcomm_final_update/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, as I am using Touch Designer as the brains of my operation, I have needed to re-write the parsing code in python.&lt;/p&gt;
+
+&lt;p&gt;I have posted the code &lt;a href=&quot;https://gist.github.com/samhains/a149b8011280cb4f4e6b6451cd070d97&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It seems to be only partially-working at this stage -  every 2nd or 3rd value responds to force. The values are not expressing ‘range’ properly either, it seems they are almost ‘on and off’ at this stage.&lt;/p&gt;
+
+&lt;p&gt;I also spent time developing the audio-reactive visuals for the installation.  When the participant talks into the headset, they will hear a looping soundscape of their own voice in  the receiver. A combination of the raw voice sound, and the soundscape are analysed to influence the visuals.&lt;/p&gt;
+
+&lt;p&gt;This is a preview of where the visuals are at. I’m not quite happy with them yet. The first part, before it gets too trippy is a representation of the user approaching the installation. The second part is demonstrating what happens visually when they sit down, and answer the telephone.&lt;/p&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/244959856&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Hard to see from the video  (Couldn’t figure out how to screencap with audio) but it has been really challenging to get some ‘satisfying’ audio-visual effects.  I’m still feeling like my method of audio analysis is a little clumsy and could use refinement.&lt;/p&gt;
+
+&lt;p&gt;Here is an earlier video of some testing done projecting onto the screens. In this video there are no custom projection screens being fitted.&lt;/p&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/243369842&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is more to do. I feel confident I can finish the basic physical components before user testing. However, I’d love to introduce some ‘kinetic sculpture’ to the ‘pile of junk’ that would respond to the voice. I feel this might bring it to life.&lt;/p&gt;
+
+&lt;p&gt;I also need to add some sensor interaction that ‘lures’ the user in, I am thinking of using some depth sensors with some additional lights placed on the ‘junk pile’ and perhaps on the chair.&lt;/p&gt;
+
+&lt;p&gt;I still need to keep pushing the interaction and the aesthetic to create something more entertaining and interesting.&lt;/p&gt;</content><author><name></name></author><summary type="html">I spent a lot of time over the last couple of weeks trying to refine some implementations of my ideas for this project.</summary></entry><entry><title type="html">Telephone Enclosure</title><link href="http://localhost:4000/blog/intro-fab/2017/11/29/telephone-enclosure.html" rel="alternate" type="text/html" title="Telephone Enclosure" /><published>2017-11-29T00:00:00-05:00</published><updated>2017-11-29T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/29/telephone-enclosure</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/29/telephone-enclosure.html">&lt;p&gt;For my &lt;a href=&quot;http://samhains.com/blog/physcomp/2017/11/15/concept-development-talking-to-machines.html&quot;&gt;Physical Computing final&lt;/a&gt;, I needed to hack an old telephone that will be used to interact with a pile of electronic junk.&lt;/p&gt;
+
+&lt;p&gt;This telephone needs to plug into my audio interface, as well as house an Arduino to broadcast information about where the receiver.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dremmel&lt;/li&gt;
+  &lt;li&gt;Microphone&lt;/li&gt;
+  &lt;li&gt;Speakers&lt;/li&gt;
+  &lt;li&gt;Old Telephone&lt;/li&gt;
+  &lt;li&gt;Helping hands&lt;/li&gt;
+  &lt;li&gt;Drill Press&lt;/li&gt;
+  &lt;li&gt;Clamp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;PROCESS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;First, I opened up the telephone to find that I would need to create some space.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_enclosure/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I decided to take the bottom of the telephone with a drill press to remove the old metal ‘plug/screws’.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_enclosure/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After a bit of trial and error with the drill bit, I found one that worked. I used a clamp to secure the telephone, and prepared the drill press.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_enclosure/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was obvious when the drill released the ‘plug/screw’ - It works great!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_enclosure/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I removed the heart of the phone, which created the perfect amount of space for my Arduino and speakers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_enclosure/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_enclosure/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next step was to modify the receiver so that it could communicate with my audio interface. I removed the existing microphone.&lt;/p&gt;
+
+&lt;p&gt;I cracked open a dynamic microphone, and removed the microphone part. This piece was too large to fit inside my telephone receiver, so I needed to use the Dremmel to cut it down to size.&lt;/p&gt;
+
+&lt;p&gt;(Apologies for the lack of photos, I forgot to document this process)&lt;/p&gt;
+
+&lt;p&gt;I soldered the new Microphone to the telephone receiver, and connected this to the Arduino enclosure.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_enclosure/8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It works!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/fab_enclosure/9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am considering wiring up the Arduino directly to the ‘bells’ instead of faking the ‘ring’ with speakers, however I’m not sure this is the best use of a half-day/days work. The case seems to create a nice amount of resonance, even without ‘speaker holes’.&lt;/p&gt;</content><author><name></name></author><summary type="html">For my Physical Computing final, I needed to hack an old telephone that will be used to interact with a pile of electronic junk.</summary></entry><entry><title type="html">Concept Development ‘Talking to Machines’</title><link href="http://localhost:4000/blog/physcomp/2017/11/15/concept-development-talking-to-machines.html" rel="alternate" type="text/html" title="Concept Development 'Talking to Machines'" /><published>2017-11-15T00:00:00-05:00</published><updated>2017-11-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/15/concept-development-talking-to-machines</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/15/concept-development-talking-to-machines.html">&lt;p&gt;This week was spent iterating on design ideas, and developing and refining my concept for final. The project has been renamed ‘Taking to machines’.&lt;/p&gt;
 
 &lt;p&gt;I spent a lot of time sketching. And eventually I arrived at this:&lt;/p&gt;
 
@@ -224,134 +449,4 @@ As the margin of error became smaller, it became more and more difficult to clos
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Prototyping illustrated the need for more varied content, effects and interactive development.&lt;/p&gt;</content><author><name></name></author><summary type="html">Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.</summary></entry><entry><title type="html">Making an Altoid can into a laser</title><link href="http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light.html" rel="alternate" type="text/html" title="Making an Altoid can into a laser" /><published>2017-10-31T00:00:00-04:00</published><updated>2017-10-31T00:00:00-04:00</updated><id>http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/10/31/making-a-light.html">&lt;p&gt;After a couple of months of eager  overcomplicating,  I decided I would approach the first Fabrication assignment as simply, and as cheaply as possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Altoid Tin&lt;/li&gt;
-  &lt;li&gt;Red and black wires&lt;/li&gt;
-  &lt;li&gt;3V red laser diode&lt;/li&gt;
-  &lt;li&gt;Basic switch&lt;/li&gt;
-  &lt;li&gt;Soldering Iron with wire&lt;/li&gt;
-  &lt;li&gt;Helping hands&lt;/li&gt;
-  &lt;li&gt;Drills and drill bits&lt;/li&gt;
-  &lt;li&gt;Sanding Paper&lt;/li&gt;
-  &lt;li&gt;Glue Gun&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;PROCESS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Starting with an Altoid tin, I pulled out  a range  of drills so that I could slowly and progressively drill holes in the Altoid can for the laser and switch to enter.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/introfab_1_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The next step was to drill the hole. This proved to be a little more complicated to do ‘perfectly’ than imagined. The drill created a lot of ‘blowout’  with the metal, which was difficult to sand without wrecking the finish on the interior of the case.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/introfab_1_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The next step was to solder the wires to the switches and the laser.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/intro_fab_1_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I used a glue gun to add some protection to the wires that had been exposed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/intro_fab_1_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I connected all the wires to power to test that everything was working correctly. After confirming this, the next step was to use the glue gun to attach the laser diode to the hole that was drilled and to screw in the switch.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/intro_fab_1_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;…And there it is, a very simple laser in an Altoid tin.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/intro_fab_1_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The laser diode I bought from Tinkersphere, and was not very high quality. The overall light emitted from the laser is a little lacklustre. A quality laser diode may improve my beam.&lt;/p&gt;
-
-&lt;p&gt;I would also like to spend some time looking into techniques to drill into tin in a neater way if I was to do this again.&lt;/p&gt;</content><author><name></name></author><summary type="html">After a couple of months of eager overcomplicating, I decided I would approach the first Fabrication assignment as simply, and as cheaply as possible.</summary></entry><entry><title type="html">PLUTO (C:)</title><link href="http://localhost:4000/blog/faking-the-news/2017/10/19/pluto-community-networking-evolved.html" rel="alternate" type="text/html" title="PLUTO (C:)" /><published>2017-10-19T17:12:02-04:00</published><updated>2017-10-19T17:12:02-04:00</updated><id>http://localhost:4000/blog/faking-the-news/2017/10/19/pluto-community-networking-evolved</id><content type="html" xml:base="http://localhost:4000/blog/faking-the-news/2017/10/19/pluto-community-networking-evolved.html">&lt;p&gt;For my final project for ‘Faking the news’, I build a web community that has been overun by a swarm of bots.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;pluto-c.net&quot;&gt;http://pluto-c.net&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/pluto-1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Using a combination of real-time scraping of data from &lt;a href=&quot;ilxor.com&quot;&gt;ilxor&lt;/a&gt;, subreddits&lt;a href=&quot;https://www.reddit.com/r/politics/&quot;&gt; /r/politics&lt;/a&gt; and&lt;a href=&quot;https://www.reddit.com/r/The_Donald/&quot;&gt; /r/The_Donald&lt;/a&gt;, &lt;a href=&quot;https://gist.github.com/genekogan/ebd77196e4bf0705db51f86431099e57&quot;&gt;google image search scraping&lt;/a&gt; and &lt;a href=&quot;https://github.com/carpedm20/DCGAN-tensorflow&quot;&gt;machine learning&lt;/a&gt; &lt;a href=&quot;https://github.com/tensorflow/models/tree/master/im2txt&quot;&gt;algorithms&lt;/a&gt;- the Pluto-C program creates a family of deranged bots reflecting forum and internet culture.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;pluto-c.net/forum/4-memiverse&quot;&gt;memiverse sub-forum&lt;/a&gt; - I am particularly happy with. The aesthetics of online meme discussions lead themselves to particularly disturbing robot reflections.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/meme-dcgan-1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The design of the forum was an attempt to create the ‘feeling’ of an abandoned web space. It was designed to be both anachronistic but also a love letter to the aesthetics of the nascent web.&lt;/p&gt;
-
-&lt;p&gt;After the machines have moved in, we experience a sense of ‘digital gentrification’ as the once familiar interface of the message board has becomes alien to us. We are no longer relevant or necessary. I like to think of the analogy of an abandoned theme park that is now home to a swarm of insects.&lt;/p&gt;
-
-&lt;p&gt;The project is a metaphor for the current state of the internet in 2017 and I hope that the basic sense of the internet as a ‘human space’  is perverted by the experience.&lt;/p&gt;</content><author><name></name></author><summary type="html">For my final project for ‘Faking the news’, I build a web community that has been overun by a swarm of bots.</summary></entry><entry><title type="html">Apocalyptic Business Cards</title><link href="http://localhost:4000/blog/vlang/2017/10/19/apocalyptic-business-cards.html" rel="alternate" type="text/html" title="Apocalyptic Business Cards" /><published>2017-10-19T16:51:31-04:00</published><updated>2017-10-19T16:51:31-04:00</updated><id>http://localhost:4000/blog/vlang/2017/10/19/apocalyptic-business-cards</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/10/19/apocalyptic-business-cards.html">&lt;p&gt;I decided to approach the task of Business card in a more formal fashion than some of my previous graphic design experiments. I started my explorations by studying the techniques and design strategies of dutch design agency, &lt;a href=&quot;http://metahaven.net/&quot;&gt;Metahaven&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Of particular interest to me was their series of posters for the Holland festival.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/5403f19912bfeed40506693eddd1b882.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/dc519c847f44faa3db7a36ee210362b7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I was captivated by the use of overlapping image outlines, which are filled in to create unusual and messy forms.&lt;/p&gt;
-
-&lt;p&gt;Feeling self-conscious about the idea handing someone a business card, I thought it would be funny to highlight the absurdity of this gesture by etching my name in an image of a burning planet earth.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/final_card.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/final_red.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I feel these are the most successful designs so far in my Graphic Design journey, and they are a testiment to a process that focuses more on studying the masters and learning from existing design patterns. This makes sense given how new I am to this form of communication.&lt;/p&gt;</content><author><name></name></author><summary type="html">I decided to approach the task of Business card in a more formal fashion than some of my previous graphic design experiments. I started my explorations by studying the techniques and design strategies of dutch design agency, Metahaven.</summary></entry><entry><title type="html">ITP Winter Poster</title><link href="http://localhost:4000/blog/vislang/2017/10/12/itp-winter-poster.html" rel="alternate" type="text/html" title="ITP Winter Poster" /><published>2017-10-12T13:50:14-04:00</published><updated>2017-10-12T13:50:14-04:00</updated><id>http://localhost:4000/blog/vislang/2017/10/12/itp-winter-poster</id><content type="html" xml:base="http://localhost:4000/blog/vislang/2017/10/12/itp-winter-poster.html">&lt;p&gt;For my submission to the ITP Winter Show Poster, I decided I would create a composition based on 3D scans of ITP students.&lt;/p&gt;
-
-&lt;p&gt;I used Skanect with a Structure Sensor to do the scans.  I then imported the scans into Cinema4d where I experimented with various compositions.&lt;/p&gt;
-
-&lt;p&gt;The main design problem that I faced was wanting to express the artificiality of the 3D scans in a 2D space. I wanted to distance myself from perfection, but also make it clear that these were not simply doctored photographs.&lt;/p&gt;
-
-&lt;p&gt;I experimented with cell shading to emphasise the 3D nature of the models.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/reduced_black_outlines.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I was pleased with these results, and I attempted to composit these back onto the models in photoshop.  Unfortunately,  I felt this made the design too ‘busy’ and ‘gadgety’. The focus was distracted to be on the models and their inherent aesthetic.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/cells.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;These are devices that strive towards perfection, and fall short. I believe there is a poetry in the failure of these ambitious devices, and in the vulnerability that they communicate in their nascent development phase. I like the artifacts that the technology creates, so I decided to emphasise the decay and imperfections and ended with this design:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/poster-9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;my-friends-are-lukewarm-about-me&quot;&gt;My Friends Are Lukewarm About Me&lt;/h1&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/237981904&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">For my submission to the ITP Winter Show Poster, I decided I would create a composition based on 3D scans of ITP students.</summary></entry><entry><title type="html">Default Colours and Speculative Interface</title><link href="http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design.html" rel="alternate" type="text/html" title="Default Colours and Speculative Interface" /><published>2017-10-03T07:16:01-04:00</published><updated>2017-10-03T07:16:01-04:00</updated><id>http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design</id><content type="html" xml:base="http://localhost:4000/blog/vlang/2017/10/03/default-colours-speculative-design.html">&lt;p&gt;For Visual Language class, at ITP, we were given the task of designing 6 graphics, based on a colour palette that reflected ones personality.&lt;/p&gt;
-
-&lt;p&gt;I first attempted to do this assignment in Cinema4D, as I want to learn how to design in 3D programs. However, I underestimated how challenging this would be technically and creatively, and ended up moving back to illustrator due to time constraints.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/flower_sculpture2.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In illustrator my attempts continued to follow the process of playing with colour and form in an improvised way. The results were not good. My attempts to define myself with a colour scheme also felt superficial and abstract.&lt;/p&gt;
-
-&lt;p&gt;I decided that in order to connect with the task, I needed to come up with a concept that would drive the design.  I began my explorations by examining the aesthetics and design of anachronistic web interfaces.&lt;/p&gt;
-
-&lt;p&gt;Below are abstractions of the web forums ‘hipinion’ and ‘ilxor’ respectively. The text has been removed to express the aesthetic backdrop of these virtual spaces.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/hipinion.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/ilxor.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I attempted to create collages from these forum interfaces. Unsatisfied with the results, I started to experiment with Netscape and windows 95 interface components.  For this process I was inspired by Jan Robert Leegte’s &lt;a href=&quot;https://rhizome.org/art/artbase/artwork/untitledscrollbars/&quot;&gt;scrollbars&lt;/a&gt;, where the artist took  elements from the OSX interface and made collages with the scrollbars and other existing elements.&lt;/p&gt;
-
-&lt;p&gt;I am very interested in ‘default’ colours. The designer traditionally transforms defaults into design, however it is an interesting constraint to me when design is forced to be made with defaults.&lt;/p&gt;
-
-&lt;p&gt;The colour palette selected is monochromatic, with the exception of ‘Pure Blue’, which I find striking in contrast to monochromatic grey. It has a soothing quality, but there is also something unnatural and surreal about its purity.&lt;/p&gt;
-
-&lt;p&gt;While experimenting with these components, the idea evolved into creating a speculative interface.  The interface has not been designed for the human ‘User’ as we understand it. The graphical interface would suggest it is not an interface optimized for a machine either.  A human that encounters such an interface might need to decode it or use a scanning interface.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/palette_w4-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">For Visual Language class, at ITP, we were given the task of designing 6 graphics, based on a colour palette that reflected ones personality.</summary></entry></feed>
+&lt;p&gt;Prototyping illustrated the need for more varied content, effects and interactive development.&lt;/p&gt;</content><author><name></name></author><summary type="html">Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.</summary></entry></feed>

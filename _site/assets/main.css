@@ -246,6 +246,12 @@ a:visited {
 /**
  * Posts
  */
+.letter-header {
+  margin-bottom: 14px;
+  background: white;
+  color: black;
+  border: blue 1px solid; }
+
 .post-header, .page-heading {
   margin-bottom: 14px;
   display: table;
