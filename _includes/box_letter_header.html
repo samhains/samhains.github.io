@@ -1,0 +1,17 @@
+<header >
+  {% assign title_upper = include.string | upcase %}
+  {% assign stuff = title_upper | split:"" %}
+  {% for c in stuff %}
+    {% if c == " " %}
+     <span>
+        &nbsp;
+    </span>
+    {% else %}
+     <span class="letter-header">
+        {{ c }}
+    </span>&nbsp;
+
+    {% endif %}
+  {% endfor %}
+</header>
+  <br>

@@ -3,17 +3,13 @@ layout: default
 ---
 <article class="post">
   <br>
-  <header class="post-header">
-    <div>{{ page.title | escape }}</div>
-  </header>
+  {%include  box_letter_header.html string=page.title %}
 
   <div class="post-content">
     {{ content }}
   </div>
 
-<div class="post-header">
-  Comments
-</div>
+  {%include  box_letter_header.html string="Comments" %}
 <form method="POST" action="https://api.staticman.net/v2/entry/samhains/samhains.github.io/master/comments">
 
 
