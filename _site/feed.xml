@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-09T23:44:54-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">2 Materials for Fab</title><link href="http://localhost:4000/blog/intro-fab/2017/12/15/2-materials.html" rel="alternate" type="text/html" title="2 Materials for Fab" /><published>2017-12-15T00:00:00-05:00</published><updated>2017-12-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/12/15/2-materials</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/12/15/2-materials.html">&lt;p&gt;For my 2 materials assignment I decided to play with foam, and translucent paper to create a rear projection object.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-23T17:18:27-05:00</updated><id>http://localhost:4000/</id><title type="html">Sam Hains</title><subtitle>Sam Hains is a programmer and designer from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.</subtitle><entry><title type="html">Class Resources</title><link href="http://localhost:4000/blog/rcia/2018/01/23/rcia-resources.html" rel="alternate" type="text/html" title="Class Resources" /><published>2018-01-23T00:00:00-05:00</published><updated>2018-01-23T00:00:00-05:00</updated><id>http://localhost:4000/blog/rcia/2018/01/23/rcia-resources</id><content type="html" xml:base="http://localhost:4000/blog/rcia/2018/01/23/rcia-resources.html">&lt;ul&gt;
+  &lt;li&gt;Instructor Details: Georgia Krantz (georgiakrantz@gmail.com)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1f8BIO_TbruTUevjWLsD9oPRnsYxjgPye&quot;&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Instructor Details: Georgia Krantz (georgiakrantz@gmail.com) Google Drive</summary></entry><entry><title type="html">Class Resources</title><link href="http://localhost:4000/blog/lipp/2018/01/23/lipp-resources.html" rel="alternate" type="text/html" title="Class Resources" /><published>2018-01-23T00:00:00-05:00</published><updated>2018-01-23T00:00:00-05:00</updated><id>http://localhost:4000/blog/lipp/2018/01/23/lipp-resources</id><content type="html" xml:base="http://localhost:4000/blog/lipp/2018/01/23/lipp-resources.html">&lt;ul&gt;
+  &lt;li&gt;Instructor Details: Matt Romein (mjr619@nyu.edu)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itp.nyu.edu/classes/lipp/&quot;&gt;Class Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Instructor Details: Matt Romein (mjr619@nyu.edu) Class Page</summary></entry><entry><title type="html">2 Materials for Fab</title><link href="http://localhost:4000/blog/intro-fab/2017/12/15/2-materials.html" rel="alternate" type="text/html" title="2 Materials for Fab" /><published>2017-12-15T00:00:00-05:00</published><updated>2017-12-15T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/12/15/2-materials</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/12/15/2-materials.html">&lt;p&gt;For my 2 materials assignment I decided to play with foam, and translucent paper to create a rear projection object.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
 
@@ -326,127 +332,4 @@ As the margin of error became smaller, it became more and more difficult to clos
 
 &lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/54882144&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p&gt;This type of interaction could be a great fit for my project, however I imagine that it might be difficult to cleanly communicate to the users that they can ‘touch’ the monitors.&lt;/p&gt;</content><author><name></name></author><summary type="html">After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.</summary></entry><entry><title type="html">Modular projection mapping surface (Part 1)</title><link href="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html" rel="alternate" type="text/html" title="Modular projection mapping surface (Part 1)" /><published>2017-11-08T00:00:00-05:00</published><updated>2017-11-08T00:00:00-05:00</updated><id>http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1</id><content type="html" xml:base="http://localhost:4000/blog/intro-fab/2017/11/08/modular-projection-mapping-surface-p-1.html">&lt;p&gt;I built some surfaces that could be projected on and used for prototyping installations.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PARTS AND TOOLS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;White Coroplast sheets&lt;/li&gt;
-  &lt;li&gt;Drills and drill bits&lt;/li&gt;
-  &lt;li&gt;Sanding Paper or Sanding Machine&lt;/li&gt;
-  &lt;li&gt;Glue Gun&lt;/li&gt;
-  &lt;li&gt;Ban Saw&lt;/li&gt;
-  &lt;li&gt;Stanley Knife aka. Exacto Blade&lt;/li&gt;
-  &lt;li&gt;Gridded cutting board&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Once I had the materials, I had to spend time measuring and drawing lines in the Coroplast to start cutting up the faces that would be used to assemble the surfaces.&lt;/p&gt;
-
-&lt;p&gt;This was challenging, due to the size of the Coroplast sheets that I purchased and the limited space I had access to in ITP’s fabrication shop. I found that my results were improved as soon as I started orienting the ruler and the tape measure with the assistance of a gridded cutting board.&lt;/p&gt;
-
-&lt;p&gt;Another challenge is accounting for the various ways that the box overlaps and underlapping at its edges. I settled on the following dimensions by taking into account the thickness of the material (0.157”):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;6”x6” (Left and Right)&lt;/li&gt;
-  &lt;li&gt;7”x6” (Front and Back)&lt;/li&gt;
-  &lt;li&gt;7.314”x6” (Top and Bottom)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Once the lines had been drawn, I started cutting up the board with the blade. Better results were achieved when cuts were proceeded by a single, light handed incision.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I threw together a little ‘pancake’ with Hot Glue to get a sense of how my calculations were stacking up.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I decided to cut up some wood cubes to give the structure better support at its corners.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I used the Ban Saw to cut up a piece of scrap wood.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A vice came in handy to work with some of the irregular combinations of pieces.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The pieces were assembled together with hot glue.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The pieces were arranged and tested with Touch designer.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;While Coroplast is cheap and works well with projectors; introducing it into a Fabrication process introduces some constraints. The flexibility (amount of ‘give’) of the material makes it difficult to work with saws. The flammability prevents use with lazer cutters.&lt;/p&gt;
-
-&lt;p&gt;The Stanley Knife (Exacto!) requires some skill and getting used to, but once practiced provides a great deal of control and precision. With further practice, more advanced surfaces for projection mapping could be designed and implemented with such techniques.&lt;/p&gt;
-
-&lt;p&gt;The next blog post will detail experimenting  with magnets to make these surfaces both modular and compose-able.&lt;/p&gt;</content><author><name></name></author><summary type="html">I built some surfaces that could be projected on and used for prototyping installations. PARTS AND TOOLS White Coroplast sheets Drills and drill bits Sanding Paper or Sanding Machine Glue Gun Ban Saw Stanley Knife aka. Exacto Blade Gridded cutting board Once I had the materials, I had to spend time measuring and drawing lines in the Coroplast to start cutting up the faces that would be used to assemble the surfaces. This was challenging, due to the size of the Coroplast sheets that I purchased and the limited space I had access to in ITP’s fabrication shop. I found that my results were improved as soon as I started orienting the ruler and the tape measure with the assistance of a gridded cutting board. Another challenge is accounting for the various ways that the box overlaps and underlapping at its edges. I settled on the following dimensions by taking into account the thickness of the material (0.157”): 6”x6” (Left and Right) 7”x6” (Front and Back) 7.314”x6” (Top and Bottom) Once the lines had been drawn, I started cutting up the board with the blade. Better results were achieved when cuts were proceeded by a single, light handed incision. I threw together a little ‘pancake’ with Hot Glue to get a sense of how my calculations were stacking up. I decided to cut up some wood cubes to give the structure better support at its corners. I used the Ban Saw to cut up a piece of scrap wood. A vice came in handy to work with some of the irregular combinations of pieces. The pieces were assembled together with hot glue. The pieces were arranged and tested with Touch designer. CONCLUSION While Coroplast is cheap and works well with projectors; introducing it into a Fabrication process introduces some constraints. The flexibility (amount of ‘give’) of the material makes it difficult to work with saws. The flammability prevents use with lazer cutters. The Stanley Knife (Exacto!) requires some skill and getting used to, but once practiced provides a great deal of control and precision. With further practice, more advanced surfaces for projection mapping could be designed and implemented with such techniques. The next blog post will detail experimenting with magnets to make these surfaces both modular and compose-able.</summary></entry><entry><title type="html">Human Interference play demonstration</title><link href="http://localhost:4000/blog/physcomp/2017/11/07/human-interference-play-demonstration.html" rel="alternate" type="text/html" title="Human Interference play demonstration" /><published>2017-11-07T00:00:00-05:00</published><updated>2017-11-07T00:00:00-05:00</updated><id>http://localhost:4000/blog/physcomp/2017/11/07/human-interference-play-demonstration</id><content type="html" xml:base="http://localhost:4000/blog/physcomp/2017/11/07/human-interference-play-demonstration.html">&lt;p&gt;Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.&lt;/p&gt;
-
-&lt;p&gt;The inspiration for this piece struck me when browsing artist and educator &lt;a href=&quot;http://moodvector.com&quot;&gt;Gregory Shakar’s website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://moodvector.com/acfc/acfc_installation.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My immediate reaction to this image was that the computers were looking in my direction - curious about me. Despite the colours, and the playful interface I sense something sinister lurking under the surface.&lt;/p&gt;
-
-&lt;p&gt;The project will attempt to draw participants into this sinister space.&lt;/p&gt;
-
-&lt;p&gt;What does it mean to make ‘contact’ with a machine? Consumer electronics and AI assistants present us with a friendly, anthropomorphized face who help optimize and enhance our lives.&lt;/p&gt;
-
-&lt;p&gt;This project speculates on a future where contact is made with another intelligence, however the communication has been abstracted. Human language is futile in traversing this void between man and machine.  However, our presence and proximity to the network disrupts it’s usual operation. It is through our ability to disrupt the machine that we are able to learn something of its true nature. This form of ‘communication’ produces a fissure in our sense of a stable, human-definable reality.&lt;/p&gt;
-
-&lt;p&gt;The content will be displayed on old computer monitors and driven by Touch Designer and Max MSP. Depth sensors determine whether the participant is inside or outside the machine space.&lt;/p&gt;
-
-&lt;p&gt;The interaction, in more literal terms, will involve the participant catching a glimpse from afar.  It will appear simple, and alluring. As the participant approaches the space, they will get a sense of their proximity causing disruptions. Feedback loops will be triggered to enhance the sense of disorientation.&lt;/p&gt;
-
-&lt;p&gt;As they enter the space, we see a destruction of familiar forms, and a bombardment of industrial, cold, electrical sounds.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;IN CONSIDERATION&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Other lazer switches may be set up to trigger lighting, sound and video effects.&lt;/li&gt;
-  &lt;li&gt;Kinect data to increase interactivity with screen display.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;POSSIBILITIES FOR LURE&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ambient music&lt;/li&gt;
-  &lt;li&gt;Simple, bold colours&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I did some white boarding to try and clarify some ideas.&lt;/p&gt;
-
-&lt;p&gt;The first idea was deep-diving into the science-fiction context to this installation. &lt;a href=&quot;ccru.net/swarm1/1_melt.htm&quot;&gt;Nick Land’s Meltdown&lt;/a&gt; short piece of speculative, science fiction was an inspiration. Each monitor contains a different fragment of the context of imagined world. We have human slaves, a human vision config, automated trading platforms, ‘neural interfaces’ and empty e-sports arenas.&lt;/p&gt;
-
-&lt;p&gt;An imagined science-fiction universe remains important for my idea generation process, however I found this literal representation to be lacking in subtlety.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/human_interference_process/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Some more minimal options including computer communication through voice chat and LED’s to signify machine to machine communication .&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/human_interference_process/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I started experimenting with Touch Designer and GLSL shaders to explore feedback effects. The feedback expresses a recursive void which I felt fit in naturally with my concept.&lt;/p&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/241825810&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/241825832&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;I am pleased with these results, however it needs to be taken further. To make this scarier, audio is very important.&lt;/p&gt;
-
-&lt;p&gt;I built some projection mapping surfaces to allow for some more high fidelity prototyping of the aesthetic.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/modular_projector/11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Prototyping illustrated the need for more varied content, effects and interactive development.&lt;/p&gt;</content><author><name></name></author><summary type="html">Human Interference is an interactive video sculpture in progress. The piece looks to explore the experience of making contact with another intelligence.</summary></entry></feed>
+&lt;p&gt;This type of interaction could be a great fit for my project, however I imagine that it might be difficult to cleanly communicate to the users that they can ‘touch’ the monitors.&lt;/p&gt;</content><author><name></name></author><summary type="html">After demonstrating a basic ‘play’ version of my proposed visual sculpture, I received some helpful feedback.</summary></entry></feed>
