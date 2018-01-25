@@ -5,13 +5,9 @@ layout: blog
 <article>
 
   <br>
-  <div class="post-header">
-    <div class="post-link" itemprop="name headline">{{ page.title | escape }}</div>
-    <span class="post-meta">{{ page.date | date: "%m/%d/%Y" }}</span>
-  </div>
-  <!-- <hr>
-  <br> -->
 
+  {%include  box_letter_header.html string=page.title %}
+  <span class="post-meta">{{ page.date | date: "%m/%d/%Y" }}</span>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
