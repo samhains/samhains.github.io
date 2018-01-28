@@ -5,7 +5,7 @@ categories: rcia
 
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f6/Duchamp_Fountaine.jpg)
+![](http://www.tate.org.uk/art/images/work/T/T07/T07573_10.jpg)
 
 Duchamp's revolutionary artwork 'The Fountain' is art as subversion of the familiar -  sanctifying the lie of art as some kind of 'superior ideal'. Duchamp exposed complacency and smugness surrounding our notions of art, initiating the motion to collapse the deception at the core of our distinction between 'art' and the 'real world'.  
 
