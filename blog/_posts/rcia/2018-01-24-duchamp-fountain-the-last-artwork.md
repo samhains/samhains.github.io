@@ -5,21 +5,13 @@ categories: rcia
 
 ---
 
-* Tragic Aesthetic - Deleuze/Nietszche Art as 'exposing the lie'
-* How could we ever recover from this work?
 
-"art is the highest power of falsehood, it magnifies the "world as error", it sanctifies the lie; the will to deception is turned into a superior ideal... The activity of life is like a power of falsehood, of duping, dissimulating, dazzling and seducing. But, in order to be brought into effect, this power of falsehood must be selected, redoubled or repeated and thus elevated to a higher power. The power of falsehood must be taken as far as a will to deceive, an artistic will which alone is capable of competing which invents the lies that raise falsehood to this highest affirmative power, that turns the will to deceive into something which is affirmed in the power of falsehood. For the artist, appearance no longer means negation of the real in this world but this kind of selection, correction, redoubling and affirmation. Then the truth perhaps take on a new sense. Truth is appearance. Truth means bringing of power into effect, raising to the highest power. In Nietzsche, "we the artists" = "we the seekers after knowledge or truth" = "we the inventors of new possibilities of life"
+Duchamp's revolutionary artwork 'The Fountain' is art as subversion of the familiar -  sanctifying the lie of art as some kind of 'superior ideal'. Duchamp exposed complacency and smugness surrounding our notions of art, initiating the motion to collapse the deception at the core of our distinction between 'art' and the 'real world'.  
 
-The new discourse was founded on the necessity of finding a way of defining art which would permit the readymades to live comfortably side by side with Rembrandt’s portraits and Constable’s landscapes.
+A new discourse was born out of the 'readymade': What kind of framework for understanding 'art' could encompass both a Urinal purchased from a factory and a Pablo Picasso painting? Was such a framework necessary? Previous definitions of art involved requirements such technical benchmarks, notions of beauty or measures of emotional profundity which became difficult to sustain once works like 'The Fountain' were acknowledged.
 
-identified by the complacency and smugness they brought to their understanding of art, in particular of the ‘old masters’.
+So what is art in a culture that no longer has any objective standards around its ideal form or content?
 
-author and art critic Calvin Tomkins declared that Duchamp had “quietly undermined several centuries of Western art with his readymades.
+My belief is that our attempts to create structures and definitions for an objective 'art' (or anything) are in vein - Reality is more plural than simple intuition might suggest. For Deleuze, the role of art is to magnify this sense the intuitive 'world as error', and to 'sanctify the lie' by elevating our self-deceptions about a singular 'objective reality' to a thing of mysterious beauty ('Nietszche and Philosophy', Deleuze 1964). Art has the capacity to excite our perceptual apperatus, and change the way that we interpret the world.
 
-Nigel Warburton puts it, “The idea that all works of art must be the product of the artist’s hand, or that they must be aesthetically beautiful or emotionally profound, is hard to sustain once works like Fountain have been accepted into the mainstream” (The Art Question, 2003). In that case, what made it an art object must be, as Tomkins had it, because “the artist was merely someone who signed things.” Hence whatever the artist signed, or submitted for exhibition, was ipso facto art. In short, the philosophy of art now proclaimed an astonishing doctrine: no qualities or attributes of the object need be consulted, nor were there any criteria for evaluating things designated as art.
-
-What is the meaning and purpose of this distinction between art and 'real world objects'. This distinction seems to collapse as soon as an interrogation begins.
-
-What is the purpose of creating these barriers to the gallery? Can a brillo box or a urinal be let into an art gallery? Who seeks to benefit from preventing this. The masters.
-
-This is not to suggest we need to uncritically accept the Brillo Box as art, rather we should be looking for transformative experiences and the question 'is it art?' banal and irrelevant.
+To me, the discourse around developing a classification system for what is and isn't art, emerging from the 'readymade' - is not important. Art is inherently a project to subvert the familiar. If the familiar or 'clearly knowable' has become our conception of art itself, Art will be the force that dissimulates that notion.
