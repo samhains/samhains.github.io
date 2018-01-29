@@ -7,7 +7,7 @@ categories: lipp
 
 As a side project for this week, I decided to build a sprite generator. The goal was to build a system which could take/scrape sprite sheets (see below) from websites such as [spritedatabase.net](http://spritedatabase.net/) and procedurally animate them.
 
-![](/blog/assets/sprite_gen/1.png)
+![](/blog/assets/sprite_gen/1.PNG)
 
 The goal is to create generative pixel art scenes that could be used in a performance context.
 
@@ -26,11 +26,11 @@ I built a basic environment in Touch Designer to procedurally place and scatter 
 
 {% include vimeo-player.html id=253171702 %}
 
-![](/blog/assets/sprite_gen/3.png)
+![](/blog/assets/sprite_gen/3.PNG)
 
 {% include vimeo-player.html id=253171775 %}
 
-![](/blog/assets/sprite_gen/2.png)
+![](/blog/assets/sprite_gen/2.PNG)
 
 This is a very 'uncurated', first play with these new tools. I like the chaos, and colours and complexity of the aesthetic - but it is just a start. Some things I want to try next are:
 
