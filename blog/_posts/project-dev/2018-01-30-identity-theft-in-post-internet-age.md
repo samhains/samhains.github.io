@@ -9,28 +9,51 @@ _At the end of a panel at the World Economic Forum in Davos, Switzerland, where 
 
 _"There will be so many IP addresses…so many devices, sensors, things that you are wearing, things that you are interacting with that you won’t even sense it," he explained. "It will be part of your presence all the time. Imagine you walk into a room, and the room is dynamic. And with your permission and all of that, you are interacting with the things going on in the room"._
 
-For my next project, I am interested in exploring some of the implications of the idea that the internet is 'disappearing' into something indistinguishable from our everyday reality.
+**Concept**
 
-In particular, ideas surrounding what might happen to our archives of personal data, photos, footage and phone conversations. What if some of that information began to take on a life of its own? What if a media companies began to dip into your archives to algorithmically generate scandalous, clickbait stories. Hyper-localised and specific gossip generating networks riff off intimate personal data. Genius machinic auteurs remix your moments of irony and sarcasm, transforming your image into a global meme sensation.
+I am interested in exploring some of the implications of this dystopian idea shared by Google CEO, Eric Schmidt, that the internet is 'disappearing' into something indistinguishable from our everyday reality.
 
-One way of exploring this concept would be through the development of an interactive installation experience.
+In particular, ideas surrounding what might happen to our photos, footage and phone conversations. What if some of that information began to take on a life of its own? What if media companies found ways to use data from your archives to algorithmically generate scandalous, clickbait stories. Hyper-localised and specific gossip generating networks riff off your intimate personal data. Machinic auteurs remix your irony and sarcasm, transforming your image into global meme sensations.
 
-The participant participates in a mixed reality, simulated space. The space will contain a mixture of real objects.
+**Interactive installation proposal**
+
+The 'user' participates in a mixed reality, simulated space. The space might contain a mixture of real objects that are being projected onto and can be interacted with.
+
+The user may have the opportunity to speak to the system, through a device that looks like this:
+
+![](https://images-na.ssl-images-amazon.com/images/I/61dwPV5niOL._SY355_.jpg))
+
+
 
 Some ideas for the composition of this space involve:
 * Mannequins representing a simulated audience and a simulated star of the show.
+* A collection of mannequin faces
 * A more surreal installation of ready-made objects - disembodied mannequin parts, chairs and cages.
 * A chair, a desk.
 
 ![](https://blondesongstress.files.wordpress.com/2014/02/andrc3a9-masson-surrealist-mannequin-head-in-a-cage-19381.jpg)
+_Mannequin by André Masson, Denise Bellon, 1938_
 
-The system captures the individuals engagement with the system and their face and voice are projected onto the mannequin who behaves like a buffoon to an applauding simulated audience.
+The system surveils the user as they engage with the space.
+
+A possible mode of engagement is getting the user to participate in a series of 'Are you a human?' tests like those seen as security checks in modern web browsers. These tests are often more about having an individual participate in training an 'AI system' than testing if the user is a human. It would be interesting to play with this idea, the machine testing us; questioning us - only to have this data used against us.
+
+![](http://cdn.access-ai.com/wp-content/uploads/2017/03/1417716998-google-says-rip-captcha-sort-of-610x500.jpg)
+
+Their face and voice are captured from the tests and projected onto the mannequin faces. The user's face is contorted, their voice stolen and they watch themselves behave like a 'buffoon' to an applauding, simulated audience.
+
+The audience members - who applaud with the mindless cruelty of a nightmare; may also be mannequin faces appropriated from previous visitors of the space.
 
 ![](https://i.ytimg.com/vi/-l1EbxZNBfU/maxresdefault.jpg)
-_Jean-Paul Gaultier Exhibit at N.G.V (Australia) in 2014_
+_Jean-Paul Gaultier Exhibit at N.G.V, 2014_
+
 
 There might be an interface that provides an archive of previous visitors to the space, and the participant may have the option to further remix or reorganize that persons virtual identity.
 
-![](https://i.ytimg.com/vi/lEtiuVVuWL8/maxresdefault.jpg)
+![](/blog/assets/index.PNG)
+_INDEX by Łukasz Furma, 2014_
 
-The system might function as a database of 'shadow participants' who can be called forth to enact their artificial performance at any moment to an applauding virtual audience.
+![](https://i.ytimg.com/vi/lEtiuVVuWL8/maxresdefault.jpg)
+_Uknown source_
+
+This system might function as a database of 'shadow participants' who can be called forth to enact their artificial performance at any moment to an applauding virtual audience.
