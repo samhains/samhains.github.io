@@ -11,9 +11,9 @@ _"There will be so many IP addresses…so many devices, sensors, things that you
 
 For my next project, I am interested in exploring some of the implications of the idea that the internet is 'disappearing' into something indistinguishable from our everyday reality.
 
-In particular, what might happen to our archives of personal data, photos, footage and phone conversations. What if some of that information began to take on a life of its own? What if a media companies began to dip into your archives to algorithmically generate scandalous, clickbait stories. Hyper-localised and specific gossip generating networks riff off intimate personal data. While other genius machinic auteurs remix your moments of irony and sarcasm, transforming your image into a global meme sensation.
+In particular, ideas surrounding what might happen to our archives of personal data, photos, footage and phone conversations. What if some of that information began to take on a life of its own? What if a media companies began to dip into your archives to algorithmically generate scandalous, clickbait stories. Hyper-localised and specific gossip generating networks riff off intimate personal data. Genius machinic auteurs remix your moments of irony and sarcasm, transforming your image into a global meme sensation.
 
-One way of exploring this concept would be through the development of an 'immersive installation' experience.
+One way of exploring this concept would be through the development of an interactive installation experience.
 
 The participant participates in a mixed reality, simulated space. The space will contain a mixture of real objects.
 
