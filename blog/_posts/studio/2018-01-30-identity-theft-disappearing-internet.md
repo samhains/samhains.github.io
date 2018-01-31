@@ -13,17 +13,14 @@ _"There will be so many IP addresses…so many devices, sensors, things that you
 
 I am interested in exploring some of the implications of this dystopian idea shared by Google CEO, Eric Schmidt, that the internet is 'disappearing' into something indistinguishable from our everyday reality.
 
-In particular, ideas surrounding what might happen to our photos, footage and phone conversations. What if some of that information began to take on a life of its own? What if media companies found ways to use data from your archives to algorithmically generate scandalous, clickbait stories?
+In particular, ideas surrounding our online personas, publically available personal data, cyber-bullying and traditional notions of the 'self'. What if some of that information began to take on a life of its own? What if media companies, or other nefarious actors found ways to use data from your archives to algorithmically generate scandalous, clickbait stories?
 
 Hyper-localised gossip generating networks riff off your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a global meme sensation.
 
 **Interactive installation proposal**
 
-The 'user' participates in a simulated space, a mixed reality. The space might contain a mixture of objects that are being projected onto and can be interacted with.
+The 'user' participates in a simulated space, a mixed reality. The space contains objects that are being projected onto and can be interacted with.
 
-The user may have the opportunity to speak to the system, through a device that looks like this:
-
-![](https://images-na.ssl-images-amazon.com/images/I/61dwPV5niOL._SY355_.jpg))
 
 
 Some ideas for the composition of this space involve:
@@ -40,9 +37,13 @@ The user is asked to participate in a series of 'Are you a human?' tests like th
 
 ![](http://cdn.access-ai.com/wp-content/uploads/2017/03/1417716998-google-says-rip-captcha-sort-of-610x500.jpg)
 
-The users face and voice is captured from the tests and projected onto the mannequin faces. Their face is then contorted, their voice stolen. They watch themselves behave like a 'buffoon' to an applauding, simulated audience.
+The user will be asked to speak to the system, through a mask that might look like this:
 
-The audience members - who applaud with the mindless cruelty of a nightmare; may also be mannequin faces appropriated from previous visitors of the space.
+![](https://images-na.ssl-images-amazon.com/images/I/61dwPV5niOL._SY355_.jpg))
+
+The users face and voice is captured from the tests and projected onto mannequin faces. The users face and voice are contorted and stolen.  They watch themselves in a performance that they did not authorize. They watch themselves behave like a 'buffoon' to an applauding, simulated audience.
+
+The audience members applaud with the mindless cruelty of a nightmare. Their faces, and contorted smiles are stolen from other visitors who have come before them.
 
 ![](https://i.ytimg.com/vi/-l1EbxZNBfU/maxresdefault.jpg)
 _Jean-Paul Gaultier Exhibit at N.G.V, 2014_
