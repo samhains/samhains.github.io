@@ -13,17 +13,16 @@ _"There will be so many IP addresses…so many devices, sensors, things that you
 
 I am interested in exploring some of the implications of this dystopian idea shared by Google CEO, Eric Schmidt, that the internet is 'disappearing' into something indistinguishable from our everyday reality.
 
-In particular, ideas surrounding our online personas, publically available personal data, cyber-bullying and traditional notions of the 'self'. What if some of that information began to take on a life of its own? What if media companies, or other nefarious actors found ways to use data from your archives to algorithmically generate scandalous, clickbait stories?
+In particular, ideas surrounding our online personas, publically available personal data, cyber-bullying and traditional notions of the 'self'. What happens when our digital 'stories' begin to take lives of its own? What if media conglomerates, or other nefarious actors found ways to decontextualize and appropriate you to algorithmically generate scandalous, clickbait stories?
 
-Hyper-localised gossip generating networks riff off your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a global meme sensation.
+Hyper-localised gossip generating networks riff off your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a global meme sensation. It is your turn.
 
 **Interactive installation proposal**
 
 The 'user' participates in a simulated space, a mixed reality. The space contains objects that are being projected onto and can be interacted with.
 
 
-
-Some ideas for the composition of this space involve:
+Some (non-mutually exclusive) ideas for the objects in this space involve:
 * A collection of mannequin faces
 * A surreal collection of readymades - disembodied mannequin parts, chairs and cages.
 * A chair, a desk and a couple of monitors.
@@ -33,7 +32,7 @@ _Mannequin by André Masson, Denise Bellon, 1938_
 
 The system surveils the user as they engage with the space.
 
-The user is asked to participate in a series of 'Are you a human?' tests like those seen as security checks in modern web browsers. These tests are more about having an individual participate in training an 'AI system' than testing if the user is a human. I would like to play with this idea - the machine testing us, questioning us - only to exploit our naivety.
+The user is asked to participate in a series of 'Are you a human?' tests like those seen as security checks in modern web browsers. These tests will be more invasive and comprehensive than usual asking for vocal feedback and facial expressions. I hope this process encourages the user to reflect on the ways in which we have normalized these frequent 'humanity tests' that computers give us. In the wild, these tests are more about having an individual participate in training an 'AI system' than testing if the user is a human. I hope to play with this idea - 'the machine' has already began testing us, questioning us - how else is it exploiting our naivety?
 
 ![](http://cdn.access-ai.com/wp-content/uploads/2017/03/1417716998-google-says-rip-captcha-sort-of-610x500.jpg)
 
