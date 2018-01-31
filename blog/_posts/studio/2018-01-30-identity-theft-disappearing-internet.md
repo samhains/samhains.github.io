@@ -1,7 +1,7 @@
 ---
-title: Identity Theft once the Internet disappears
+title: Identity Theft in the disappearing Internet
 layout: post
-categories: project-dev
+categories: studio
 
 ---
 

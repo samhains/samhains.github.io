@@ -1,7 +1,7 @@
 ---
 title: Class Resources
 layout: post
-categories: project-dev
+categories: studio
 
 ---
 * Instructor Details: Danny Rozin (danny.rozin@nyu.edu)
