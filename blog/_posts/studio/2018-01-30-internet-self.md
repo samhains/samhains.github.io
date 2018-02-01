@@ -1,5 +1,5 @@
 ---
-title: Identity Theft in the disappearing Internet
+title: Internet Self
 layout: post
 categories: studio
 
