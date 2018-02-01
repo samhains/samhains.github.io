@@ -1,5 +1,5 @@
 ---
-title: Internet Self
+title: Internet Self: Initial Ideation
 layout: post
 categories: studio
 
