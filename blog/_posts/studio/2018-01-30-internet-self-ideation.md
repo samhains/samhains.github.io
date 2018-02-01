@@ -11,7 +11,7 @@ _At the end of a panel at the World Economic Forum in Davos, Switzerland, where 
 
 I am interested in exploring some of the implications of this dystopian idea shared by Google CEO, Eric Schmidt, that the internet is 'disappearing' into something indistinguishable from our everyday reality.
 
-In particular, ideas pertaining to our online personas, archives of personal data (we no longer own), cyber-bullying and contemporary notions of the 'self'. What happens when our digital 'stories' begin to take on lives of their own? What if media companies, or other nefarious actors found ways to decontextualize and appropriate you to algorithmically generate scandalous, clickbait stories?
+In particular, ideas pertaining to our online personas, archives of personal data (we no longer own), cyber-bullying and contemporary notions of the 'self'. What happens when our digital 'stories' begin to take on lives of their own? What if media companies, or other nefarious actors found ways to decontextualize and appropriate your data to algorithmically generate scandalous, clickbait stories? 
 
 Hyper-localised gossip generating networks riff on your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a global meme sensation.
 
