@@ -7,9 +7,9 @@ categories: taa
 
 * Community as the curriculum.
 * There are no discrete classrooms, rather open spaces which are populated by students and Teachers.
-* Each subject is a 'community' that connects to the larger 'network'. Students are members of several 'communities' depending on their interests. Students will act as core members in some, carrying more weight and engaging more extensively, while more casual in others.
-* Syllabus will be comprised of building blocks, tools for building a curriculum and the learning and social platforms.
-* The curriculum is the tools for collaborative building specialized learning platforms.
+* Each subject is a defined by the presence of an online  'community' space which exists as a smaller part of a larger 'network'.
+* Students are members of several 'communities' depending on their interests. Students will act as core members in some, engaging more extensively, while more casual in others.
+* Contents for each area of study are more 'building blocks' and 'starting points' for collaborative development of the learning platform.
 * these communities are ecosystems which each person is spreading their understanding, and publically making ones way through the process through content creation, collaboration and sharing.
 * Platform as Community, to some degrere self-governed. premised on self-determined needs and outcomes.
 * Objectives do not pre-exist student involvement.
