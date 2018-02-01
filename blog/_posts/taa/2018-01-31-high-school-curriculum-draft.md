@@ -39,8 +39,6 @@ Previous model - " In this model, the experts are the arbiters of the canon. The
 
 MOOC's - Massive Open Online courses. informal learning ocmmunities., democratic, self-governed, premised on self-determined needs and outcomes.
 
-Learn by working together, sharing experience and understanding.
-
 A platform for local internets. Building de-centralized internets.
 
 Learning is contextual: it is both practical and creative, reflective and socially accouuntable.
@@ -62,7 +60,7 @@ Learning outcome: Student will achieve " " through the class.
 The ephemeral nature of the Web and the rate at which cutting-edge knowledge about it and on it becomes obsolete disrupts the painstaking process by which knowledge has traditionally been codified.
 
 
-Traditional curricular domains are based on long-accepted knowledge, and the "experts" in those domains are easily identified by comparing their assertions with the canon of accepted thought (Banks 1993); newer concepts, whether in technology, physics, or modern culture, are not easily compared against any canon. This lack of a center of measurement for what is "true" or "right" makes the identification of key pieces of knowledge in any of these fields a precarious task. In less-traditional curricular domains then, knowledge creators are not accurately epitomized as traditional, formal, verified experts; rather, knowledge in these areas is created by a broad collection of knowers sharing in the construction and ongoing evolution of a given field. Knowledge becomes a negotiation (Farrell 2001).
+Traditional curricular domains are based on long-accepted knowledge, and the "experts" in those domains are easily identified by comparing their assertions with the ~~canon~~ of accepted thought (Banks 1993); newer concepts, whether in technology, physics, or modern culture, are not easily compared against any canon. This lack of a center of measurement for what is "true" or "right" makes the identification of key pieces of knowledge in any of these fields a precarious task. In less-traditional curricular domains then, knowledge creators are not accurately epitomized as traditional, formal, verified experts; rather, knowledge in these areas is created by a broad collection of knowers sharing in the construction and ongoing evolution of a given field. Knowledge becomes a negotiation (Farrell 2001).
 
 This curriculum is designed to encourage creative thinking, self-confidence and a sense of broader community purpose. Students are encouraged to explore where their curiosity takes them, and the teachers are expected to be flexible enough to accomodate for students to experiment and explore. Students will be encouraged to explore themselves through performance, artistic expression and poetry. Rationality and rigorous , logical process will be encouraged through Mathematics, sciences and economics however students will be encouraged to think with both sides of the brain. Plurality and multiplicity are core aspects of this philosophy.
 
