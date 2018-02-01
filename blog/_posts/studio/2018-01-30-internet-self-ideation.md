@@ -18,7 +18,7 @@ Hyper-localised gossip generating networks riff on your intimate personal data. 
 
 **Interactive installation proposal**
 
-In 'Internet Self' (working title) the 'user' is asked to participate in a simulated space, a mixed reality. The space contains objects that are being projected onto and can be interacted with.
+In _Internet Self_ (working title) the 'user' is asked to participate in a simulated space, a mixed reality. The space contains objects that are being projected onto and can be interacted with.
 
 Some (non-mutually exclusive) ideas for the objects in this space involve:
 * A collection of mannequin faces
