@@ -13,7 +13,7 @@ I am interested in exploring some of the implications of this dystopian idea sha
 
 In particular, ideas pertaining to our online personas, archives of personal data (we no longer own), cyber-bullying and contemporary notions of the 'self'. What happens when our digital 'stories' begin to take on lives of their own? What if media companies, or other nefarious actors found ways to decontextualize and appropriate your data to algorithmically generate scandalous, clickbait stories?
 
-Hyper-localised gossip generating networks riff on your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a global meme sensation.
+_Hyper-localised gossip generating networks riff on your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a global meme sensation._
 
 
 **Interactive installation proposal**
@@ -28,7 +28,7 @@ Some (non-mutually exclusive) ideas for the objects in this space involve:
 ![](https://blondesongstress.files.wordpress.com/2014/02/andrc3a9-masson-surrealist-mannequin-head-in-a-cage-19381.jpg)
 _Mannequin by André Masson, Denise Bellon, 1938_
 
-The system surveils the user.
+_The system surveils the user._
 
 The user is asked to participate in a series of 'Are you a human?' tests like those security checks in modern web browsers. These tests will be more invasive and comprehensive than usual - such as asking for vocal feedback or facial expressions.
 
