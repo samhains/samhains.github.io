@@ -1,8 +1,7 @@
 ---
-title: Internet Self
+title: Internet Self: Ideation
 layout: post
 categories: studio
-
 ---
 
 _At the end of a panel at the World Economic Forum in Davos, Switzerland, where his comments were webcast, he was asked for his prediction on the future of the web. "I will answer very simply that the Internet will disappear," Eric Schmidt said._
