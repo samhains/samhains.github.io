@@ -40,9 +40,9 @@ The user will be asked to speak to the system, through a mask that might look li
 
 ![](https://images-na.ssl-images-amazon.com/images/I/61dwPV5niOL._SY355_.jpg))
 
-The users face and voice is captured from the tests and projected onto mannequin faces. The users face and voice are contorted and stolen.  They watch themselves in a performance that they did not authorize. They watch themselves behave like a 'buffoon' to an applauding, simulated audience.
+The face and voice data captured from the tests are projected onto mannequin faces. The users face and voice have been stolen and are now being contorted.  They watch themselves in a performance that they did not authorize. They watch themselves behave like a 'buffoon' to an applauding, simulated audience.
 
-The audience members applaud with the mindless cruelty of a nightmare. Their faces, and contorted smiles are stolen from other visitors who have come before them.
+The audience members applaud with the mindless cruelty of a nightmare. Their contorted smiles are stolen from other visitors who have come before them.
 
 ![](https://i.ytimg.com/vi/-l1EbxZNBfU/maxresdefault.jpg)
 _Jean-Paul Gaultier Exhibit at N.G.V, 2014_
