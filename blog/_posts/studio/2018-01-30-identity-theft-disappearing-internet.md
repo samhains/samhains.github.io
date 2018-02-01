@@ -5,7 +5,7 @@ categories: studio
 
 ---
 
-_At the end of a panel at the World Economic Forum in Davos, Switzerland, where his comments were webcast, he was asked for his prediction on the future of the web. "I will answer very simply that the Internet will disappear," Schmidt said._
+_At the end of a panel at the World Economic Forum in Davos, Switzerland, where his comments were webcast, he was asked for his prediction on the future of the web. "I will answer very simply that the Internet will disappear," Eric Schmidt said._
 
 _"There will be so many IP addresses…so many devices, sensors, things that you are wearing, things that you are interacting with that you won’t even sense it," he explained. "It will be part of your presence all the time. Imagine you walk into a room, and the room is dynamic. And with your permission and all of that, you are interacting with the things going on in the room"._
 
@@ -13,14 +13,14 @@ _"There will be so many IP addresses…so many devices, sensors, things that you
 
 I am interested in exploring some of the implications of this dystopian idea shared by Google CEO, Eric Schmidt, that the internet is 'disappearing' into something indistinguishable from our everyday reality.
 
-In particular, ideas surrounding our online personas, publically available personal data, cyber-bullying and traditional notions of the 'self'. What happens when our digital 'stories' begin to take lives of its own? What if media conglomerates, or other nefarious actors found ways to decontextualize and appropriate you to algorithmically generate scandalous, clickbait stories?
+In particular, I am interested in ideas surrounding our online personas, personal data that is no longer ours, cyber-bullying and traditional notions of the 'self'. What happens when our digital 'stories' begin to take on lives of their own? What if media companies, or other nefarious actors found ways to decontextualize and appropriate you to algorithmically generate scandalous, clickbait stories?
 
-Hyper-localised gossip generating networks riff off your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a global meme sensation. It is your turn.
+Hyper-localised gossip generating networks riff on your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a global meme sensation.
+
 
 **Interactive installation proposal**
 
 The 'user' participates in a simulated space, a mixed reality. The space contains objects that are being projected onto and can be interacted with.
-
 
 Some (non-mutually exclusive) ideas for the objects in this space involve:
 * A collection of mannequin faces
@@ -30,7 +30,7 @@ Some (non-mutually exclusive) ideas for the objects in this space involve:
 ![](https://blondesongstress.files.wordpress.com/2014/02/andrc3a9-masson-surrealist-mannequin-head-in-a-cage-19381.jpg)
 _Mannequin by André Masson, Denise Bellon, 1938_
 
-The system surveils the user as they engage with the space.
+The system surveils the user.
 
 The user is asked to participate in a series of 'Are you a human?' tests like those seen as security checks in modern web browsers. These tests will be more invasive and comprehensive than usual asking for vocal feedback and facial expressions. I hope this process encourages the user to reflect on the ways in which we have normalized these frequent 'humanity tests' that computers give us. In the wild, these tests are more about having an individual participate in training an 'AI system' than testing if the user is a human. I hope to play with this idea - 'the machine' has already began testing us, questioning us - how else is it exploiting our naivety?
 
