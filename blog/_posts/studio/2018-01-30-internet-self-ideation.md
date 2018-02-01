@@ -11,7 +11,7 @@ _At the end of a panel at the World Economic Forum in Davos, Switzerland, where 
 
 I am interested in exploring some of the implications of this dystopian idea shared by Google CEO, Eric Schmidt, that the internet is 'disappearing' into something indistinguishable from our everyday reality.
 
-In particular, ideas pertaining to our online personas, archives of personal data (we no longer own), cyber-bullying and contemporary notions of the 'self'. What happens when our digital 'stories' begin to take on lives of their own? What if media companies, or other nefarious actors found ways to decontextualize and appropriate your data to algorithmically generate scandalous, clickbait stories? 
+In particular, ideas pertaining to our online personas, archives of personal data (we no longer own), cyber-bullying and contemporary notions of the 'self'. What happens when our digital 'stories' begin to take on lives of their own? What if media companies, or other nefarious actors found ways to decontextualize and appropriate your data to algorithmically generate scandalous, clickbait stories?
 
 Hyper-localised gossip generating networks riff on your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a global meme sensation.
 
@@ -30,7 +30,9 @@ _Mannequin by André Masson, Denise Bellon, 1938_
 
 The system surveils the user.
 
-The user is asked to participate in a series of 'Are you a human?' tests like those seen as security checks in modern web browsers. These tests will be more invasive and comprehensive than usual asking for vocal feedback and facial expressions. I hope this process encourages the user to reflect on the ways in which we have normalized these frequent 'humanity tests' that computers give us. In the wild, these tests are more about having an individual participate in training an 'AI system' than testing if the user is a human. I hope to play with this idea - 'the machine' has already began testing us, questioning us - how else is it exploiting our naivety?
+The user is asked to participate in a series of 'Are you a human?' tests like those security checks in modern web browsers. These tests will be more invasive and comprehensive than usual - such as asking for vocal feedback or facial expressions.
+
+I hope this process encourages the user to reflect on the ways in which we have normalized these frequent 'humanity tests' that computers often give us. In the wild, these tests are more about having an individual participate in training an 'AI system' than testing if the user is a human. The machine' has already began testing us, questioning us - how else is it exploiting our naivety?
 
 ![](http://cdn.access-ai.com/wp-content/uploads/2017/03/1417716998-google-says-rip-captcha-sort-of-610x500.jpg)
 
@@ -38,7 +40,7 @@ The user will be asked to speak to the system, through a mask that might look li
 
 ![](https://images-na.ssl-images-amazon.com/images/I/61dwPV5niOL._SY355_.jpg))
 
-The face and voice data captured from the tests are projected onto mannequin faces. The users face and voice have been stolen and are now being contorted.  They watch themselves in a performance that they did not authorize. They watch themselves behave like a 'buffoon' to an applauding, simulated audience.
+The face and voice data captured from the tests are projected onto mannequin faces. The videos of users face and voice have been appropriated.  They watch themselves in a performance that they did not authorize. They watch themselves behave like a 'buffoon' to an applauding, gawking, simulated audience.
 
 The audience members applaud with the mindless cruelty of a nightmare. Their contorted smiles are stolen from other visitors who have come before them.
 
