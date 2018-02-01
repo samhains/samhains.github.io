@@ -32,13 +32,15 @@ The system surveils the user.
 
 The user is asked to participate in a series of 'Are you a human?' tests like those security checks in modern web browsers. These tests will be more invasive and comprehensive than usual - such as asking for vocal feedback or facial expressions.
 
-I hope this process encourages the user to reflect on the ways in which we have normalized these frequent 'humanity tests' that computers often give us. In the wild, these tests are more about having an individual participate in training an 'AI system' than testing if the user is a human. The machine' has already began testing us, questioning us - how else is it exploiting our naivety?
+I hope this process encourages the user to reflect on the ways in which we have normalized these frequent 'humanity tests' that computers often give us. In the wild, these tests are more about having an individual participate in training an 'AI system' than testing if the user is a human.
+
+_The machine' has already began testing us, questioning us - how else is it exploiting our naivety?_
 
 ![](http://cdn.access-ai.com/wp-content/uploads/2017/03/1417716998-google-says-rip-captcha-sort-of-610x500.jpg)
 
 The user will be asked to speak to the system, through a mask that might look like this:
 
-![](https://images-na.ssl-images-amazon.com/images/I/61dwPV5niOL._SY355_.jpg))
+![](https://images-na.ssl-images-amazon.com/images/I/61dwPV5niOL._SY355_.jpg)
 
 The face and voice data captured from the tests are projected onto mannequin faces. The videos of users face and voice have been appropriated.  They watch themselves in a performance that they did not authorize. They watch themselves behave like a 'buffoon' to an applauding, gawking, simulated audience.
 
@@ -48,7 +50,7 @@ The audience members applaud with the mindless cruelty of a nightmare. Their con
 _Jean-Paul Gaultier Exhibit at N.G.V, 2014_
 
 
-** Additional Ideas **
+**Additional Ideas**
 
 There might be an interface that provides an archive of previous visitors to the space, and the participant may have the option to further remix or reorganize that persons virtual identity.
 
