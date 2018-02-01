@@ -1,5 +1,5 @@
 ---
-title: Internet self\: Ideation
+title: "Internet self: ideation"
 layout: post
 categories: studio
 
