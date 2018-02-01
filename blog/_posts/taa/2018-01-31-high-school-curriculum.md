@@ -4,6 +4,7 @@ layout: post
 categories: taa
 
 ---
+
 This curriculum is designed to... (eg.) empower students for independence, while protecting them from certain common problems.
 
 ** Background **
@@ -24,9 +25,9 @@ Learning objective: Students will learn "" in a collection of classes, over a se
 Learning outcome: Student will achieve " " through the class.
 
 
-Teaching philosophy
+## Teaching philosophy
 
-Age appropriate. Harmonious society, learn to live together. Egalatarian, less emphasis on  competition. Not just academic, but also experiential. Deep interest and curiosity about the world - how to inspire this? About inspiration, questions. Community - how to develop? Cooking, Gardening skills. Movement and dance. When is the child ready? What does the child need? Integration of thinking, doing and making. Movement instead of sports. Biology bones, physics gravity -> gymnastics and summersault. Music and Dance integral to the development of thinking capacity. Musicology and ethnography. All teachers to strive towards wholeness in lesson. Enjoyment of working. Confidence building, before other things.   Used to independent working. Non-judgemental, creativity, respectful of other people. Competition not with other people, but with selves. Thinking of the teachers is very important. Freedom with students. Teaching is a learning profession - Not there to deliver knowledge but you are there to grow with children.  About wanting to learn, wanting to learn and wanting to meet the world. 
+Age appropriate. Harmonious society, learn to live together. Egalatarian, less emphasis on  competition. Not just academic, but also experiential. Deep interest and curiosity about the world - how to inspire this? About inspiration, questions. Community - how to develop? Cooking, Gardening skills. Movement and dance. When is the child ready? What does the child need? Integration of thinking, doing and making. Movement instead of sports. Biology bones, physics gravity -> gymnastics and summersault. Music and Dance integral to the development of thinking capacity. Musicology and ethnography. All teachers to strive towards wholeness in lesson. Enjoyment of working. Confidence building, before other things.   Used to independent working. Non-judgemental, creativity, respectful of other people. Competition not with other people, but with selves. Thinking of the teachers is very important. Freedom with students. Teaching is a learning profession - Not there to deliver knowledge but you are there to grow with children.  About wanting to learn, wanting to learn and wanting to meet the world.
 
 "A curriculum which acknowledges the social responsibilities of education must present situations where problems are relevant to the problems of living together, and where observation and information are calculated to develop social insight and interest."
 
