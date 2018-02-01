@@ -13,7 +13,7 @@ I am interested in exploring some of the implications of this dystopian idea sha
 
 In particular, ideas pertaining to our online personas, archives of personal data (we no longer own), cyber-bullying and contemporary notions of the 'self'. What happens when our digital 'stories' begin to take on lives of their own? What if media companies, or other nefarious actors found ways to decontextualize and appropriate your data to algorithmically generate scandalous, clickbait stories?
 
-_Hyper-localised gossip generating networks riff on your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a global meme sensation._
+_Hyper-localised, gossip generating networks riff on your intimate personal data. Machinic auteurs remix your irony and sarcasm. You are transformed into a meme._
 
 
 **Interactive installation proposal**
