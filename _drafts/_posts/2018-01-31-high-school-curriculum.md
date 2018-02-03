@@ -5,6 +5,7 @@ categories: taa
 
 ---
 
+
 * Community as the curriculum.
 * There are no discrete classrooms, rather open spaces which are populated by students and Teachers.
 * Each subject is a defined by the presence of an online  'community' space which exists as a smaller part of a larger 'network'.
