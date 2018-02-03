@@ -7,51 +7,48 @@ categories: taa
 
 **Background**
 
-My high school experience was highly structured and goal-oriented. The school reinforced dominant doctrines with regard to gender, sexuality and culture. In many ways it was a toxic, patriarchal environment. Based on aptitude testing, I was categorized as a 'logical type' and for these 'linear folks' cross disciplinary or creative exploration was not encouraged. It was not only essential, but encouraged to subordinate ones inner world.  I qualified for a prestigious degree -  lost and without passion. Unfortunately, I feel I am still unlearning this experience.
-
+My high school experience was highly structured and goal-oriented. The school reinforced dominant doctrines with regard to gender, sexuality and culture. In many ways it was a toxic, patriarchal environment. I was categorized as a 'logical type' and was not encouraged to express myself or think creatively.
 
 **Teaching Philosophy**
 
-The last few decades has seen rapid social and technological change. We now have access to an information super highway but are also subject to new forms of control. This radically multidisciplinary curriculum aims to give students the tools to disentangle themselves from the familiar problems as they have reconfigured themselves in these unfamiliar systems.
+Technological advancements have given us access to an information super highway but have also subjected us to new ways of being exploited.
 
-Reality is something that is both real and socially constructed, and students will be encouraged to interfere with this reality through language and interaction. Preconceived ideas about gender, sexuality, race and social organization are harmful to students and can take many years of conscious effort to unlearn.
+Our radically multidisciplinary curriculum aims to give students the tools to disentangle themselves from the problems of these systems.
 
+Preconceived ideas about gender, sexuality, race and identity are harmful to students and can take many years of conscious effort to unlearn.
 
 Our goal is to address these problems at their source by encouraging a perspective on knowledge that is 'detachable, connectible, reversible, modifiable' with 'multiple entryways and exits' _(Deleuze &
-Guattari in A Thousand Plateaus, 1987, p. 21)_. Learning is meaningful not from abstract universals and truths, but through experimentation. We will tear down the existing canon and replace it with a rhizome for more diverse, plural and accepting notions of the world.  
+Guattari in A Thousand Plateaus, 1987, p. 21)_. Learning is meaningful not through abstract universals and truths, but through experimentation. We will tear down the canon and replace it with something far more diverse, plural and accepting.  
 
-The curriculum will be a living and breathing organism. Students who wish to peer inside the curriculum, learn how it works and operate on it are encouraged. These students will discover tools for composing their own education. However, this is not an expectation, and some may find that structure helpful and wish to be relieved of the burdens of choice. Finding balance between structure and unstructure is a fundamental challenge to our curriculum and we take this problem seriously.
+![](https://i1.wp.com/www.doorsofperception.com/wp-content/uploads/2014/03/richard-giblett-mycelium-rhizome.jpg)
+_(Richard Giblett, Mycelium Rhizome)_
+
+The curriculum will be a living and breathing organism. Students are encouraged to peer inside the curriculum, learn how it works and operate on it. These students will discover tools for composing their own education. This is not an expectation as structure can be friendly and helpful.
 
 Students will learn by working together, sharing experience and understanding. Together they will disappear into screens and virtual realities only to find an art that points them beyond.
 
 **Learning Objective**
 
-Perpetual training is the new normal of our technological time, and students will learn to engage with this as well as learn the tools for subverting this.  Move beyond enclosed structures and ourward into a sophistocated world of entangled systems.
-
-
-For students
-
-Open-minded students, who are critical, creative and accepting. Students are capable of compassion, care, empathy.
-
-A natural instinct for questioning preconceived notions of reality. More community oriented, people.
+Students will become motivated and capable community contributors in our technological context.
 
 **Learning Outcome**
 
-Students who are able to critically evaluate their prejudices, are compassionate and accepting towards others. Are strong problem solvers, creative.
+Students must develop their ability to communicate through written and verbal mediums. They must be capable of critically evaluating their environment, as well as using technology and art to influence and contribute to it. They must learn to contribute and collaborate.
 
-Demonstrable understanding of various fields of knowledge, and how they are interconnected with other fields. An enhanced ability to express ones self, introspect and perform. Greater curiosity.
+**Curriculum as Sandbox**
 
-Students should be capable community builders and contributers in the context of virtual communities and contemporary information technologies.
+There will be no discrete classrooms, instead an open space with freedom of movement.
+![](http://www.learningexchange.nsw.edu.au/SiteData/257/UserFiles/_resources/school-20pics4-1.jpg)
 
-**Curriculum as Sandbox Intranet**
+_Open plan classroom, Learning Exchange NSW_
 
-There will be no discrete classrooms, instead a large open space with freedom of movement.
+The curriculum is delivered through a compose-able virtual space that is developed and maintained by students and teachers. Each area of study is a virtual community with an initial state and function of a wiki. The wiki will contain the preliminary features to assist with teaching. This might include anything from planned social engagement to reading lists to rules for participating in a financial system simulation.
 
-The curriculum is delivered through a compose-able virtual space that is developed maintained by students and teachers. Each area of study is a virtual community space with an initial state and function of something like a Wiki. However unlike a Wiki, the structure, rules and concept of the space may be radically overhauled through collaborative intervention on behalf of Students and Teachers, if this is the desire of the class. Some classes will be more active in exploring the possibilities of evolving environment, whereas others will benefit from more structure.  Over the year the space comes to represent the nature of the shared knowledge and understanding that has been developed.
+Unlike a standard Wiki, the structure, rules and concept of these virtual spaces have the potential to be radically overhauled through collaborative intervention by students and teachers. Some will be more active in exploring the possibilities of this evolving environment and others will benefit from more structure.  The space will come to represent the nature of the shared knowledge that has been developed.
 
-The sandbox internet contains other preliminary features to assist with pedagogy. For example, some communities will participate in simulated environments, such as a simulated financial system in which all students will be assigned a particular role. This financial system simulation.
+Teachers provide constant feedback and guidance throughout this process, providing adjustments to each student as required.
 
-* Teacher as a window. A model for an existing learning community.
-* The logic of the hyperlink. Teachers point students to particular knowledge discovered through discussion and inquiry.
+In order to encourage the development of the learning environment, school internet is controlled and social networks such as Facebook are blocked. Students will incorporate methods of virtual encounter and collaboration into the fabric of the community system themselves.
 
-In order to encourage the development. The school internet is controlled and many social networks such as Facebook and Instagram are blocked. Students will be encouraged to incorporate methods of virtual encounter and collaboration into the fabric of the community system itself.
+![](https://image.ibb.co/mHifpR/20180131_201326.jpg)
+_A map of interconnected knowedge_
