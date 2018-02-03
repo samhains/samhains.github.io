@@ -7,26 +7,29 @@ categories: taa
 
 **Background**
 
-My high school experience was highly structured and goal-oriented. The school reinforced dominant doctrines with regard to gender, sexuality and culture. In many ways it was a toxic, patriarchal environment. Based on aptitude testing, I was categorized as a 'logical type', and was not encouraged to participate in the arts. It was not only essential, but encouraged to subordinate ones inner world. The pursuit of memorizing the exploits of a broken educational system.  I qualified for a prestigious degree -  lost and without passion. Unfortunately, I feel I am still unlearning this experience.
+My high school experience was highly structured and goal-oriented. The school reinforced dominant doctrines with regard to gender, sexuality and culture. In many ways it was a toxic, patriarchal environment. Based on aptitude testing, I was categorized as a 'logical type' and for these 'linear folks' cross disciplinary or creative exploration was not encouraged. It was not only essential, but encouraged to subordinate ones inner world.  I qualified for a prestigious degree -  lost and without passion. Unfortunately, I feel I am still unlearning this experience.
 
 
 **Teaching Philosophy**
 
-Social Learning by working together, sharing experience and understanding. Self determined needs and outcomes.  Multiplicity and plurality. A 'living curriculum' where we can generate and negotiate  our own knowledge. embrace open ended nature of knowledge.
+The last few decades has seen rapid social and technological change. We now have access to an information super highway but are also subject to new forms of control. This radically multidisciplinary curriculum aims to give students the tools to disentangle themselves from the familiar problems as they have reconfigured themselves in these unfamiliar systems.
 
-Preconceived ideas about gender, sexuality lead to toxic behaviours. Diversity in content and material. Reality is real and socially constructed, there are ways to interfere with this reality in both semantics and intervention. Reaction to the canon. Teacher as a window.
+Reality is something that is both real and socially constructed, and students will be encouraged to interfere with this reality through language and interaction. Preconceived ideas about gender, sexuality, race and social organization are harmful to students and can take many years of conscious effort to unlearn.
 
-Philosophy: Learning is meaningful not from abstract universals and truths, but through experimentation. Each field of inquiry is an 'object of encounter', all concepts can be made, remade and remixed.
 
-The school does not believe in categorizing students or pigeoning holing them into particular categories. Barriers between left and right brain are ficticious. Aptitude is de-emphasized, passion and curiosity is rewarded.
+Our goal is to address these problems at their source by encouraging a perspective on knowledge that is 'detachable, connectible, reversible, modifiable' with 'multiple entryways and exits' _(Deleuze &
+Guattari in A Thousand Plateaus, 1987, p. 21)_. Learning is meaningful not from abstract universals and truths, but through experimentation. We will tear down the existing canon and replace it with a rhizome for more diverse, plural and accepting notions of the world.  
 
-Students are encouraged to explore, but not expected to.  Structure is helpful, and can relieve the burden of choice. However the structure is always radically composable.
+The curriculum will be a living and breathing organism. Students who wish to peer inside the curriculum, learn how it works and operate on it are encouraged. These students will discover tools for composing their own education. However, this is not an expectation, and some may find that structure helpful and wish to be relieved of the burdens of choice. Finding balance between structure and unstructure is a fundamental challenge to our curriculum and we take this problem seriously.
 
-Finding a balance between structure and unstructure is a fundamental challenge to this approach.
-
-Curriculum reflects the interconnectedness of all ideas in the experienced world.
+Students will learn by working together, sharing experience and understanding. Together they will disappear into screens and virtual realities only to find an art that points them beyond.
 
 **Learning Objective**
+
+Perpetual training is the new normal of our technological time, and students will learn to engage with this as well as learn the tools for subverting this.  Move beyond enclosed structures and ourward into a sophistocated world of entangled systems.
+
+
+For students
 
 Open-minded students, who are critical, creative and accepting. Students are capable of compassion, care, empathy.
 
