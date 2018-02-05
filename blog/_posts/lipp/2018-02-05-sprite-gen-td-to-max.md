@@ -1,5 +1,5 @@
 ---
-title: Sprite Generator - TD to Max
+title: Sprite Gen - TD to Max
 layout: post
 categories: lipp
 
