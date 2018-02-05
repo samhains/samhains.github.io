@@ -28,6 +28,10 @@ Here is a video of some test results, I recommend 'clicking through' as it is a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M5vmhpvATfU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+This is still a purely aesthetic exploration. I am trying to come up with ways to bring this into a more conceptual performance but until I have an epiphany about this I'm going to keep trying to push the aesthetic further.  
+
+I may need to come up with a different project for the purpose of performance.
+
 This is my first time experimenting with using a Touch designer to Jitter work flow. It is interesting and I am open to further experimentation. My initial feelings about the comparison between TD and Jitter:
 * You can do the same things in both Jitter in Touch Designer.
 * If I am generous I feel Jitter might be a bit more direct for some things if you know how to find the right nodes (which is much harder to do due to obscure naming conventions)
