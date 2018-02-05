@@ -25,7 +25,7 @@ Based on [Matt's 101 jitter examples](https://github.com/mromein/lipp_itp_2018/t
 
 Here is a video of some test results, I recommend 'clicking through' rather than watching linearly:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5vmhpvATfU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include vimeo-player.html id=254343399 %}
 
 This is still a purely aesthetic exploration. I am trying to come up with ways to bring this into a more conceptual performance but until I have an epiphany about this I'm going to keep trying to push the aesthetic further.  
 
