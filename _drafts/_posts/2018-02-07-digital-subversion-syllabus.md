@@ -16,3 +16,9 @@ Munroe Bergdof comes speak fun
 Freedom to present self in a new way - People don't have that on instagram
 Virtual Reality, virtual worlds - social media
 Second life - detached from actual reality
+Benjamin bratton (paraphrased) - User vs Person
+Deleuze - "Body without organs" how are social media societies socially constructued
+Programming through second life, how do we collaboratively build something
+build a bot, automated entities
+Corporatisation of virtual space - Eric Schmidts book on american tech capitalism
+Internet neutrality
