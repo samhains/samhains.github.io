@@ -30,6 +30,8 @@ Session 05: The evolution and history of online, social spaces.<br/>
 Session 06: _This class will be held in a classroom environment in Second Life, physical attendance is optional, virtual attendance is mandatory._ We will discuss Deleuze, Chaos Magic, multiplicity and inventing new worlds.<br/>
 Homework: Analyse your experience, what are the rules of this space? Who is included and who is excluded in this new social assemblage?
 
+![](https://i.ytimg.com/vi/-kp6eAhFEcg/maxresdefault.jpg)
+
 #### Week 4
 Session 07: Digital Identity - Selfies, memes and diverse narratives. How has the internet changed and diversified our ideas about identity and beauty? We will consider the work of instagram activists Monroe Bergdof and Roscoe Ramone and Meme artist @scariest_bug_ever.<br/>
 Session 08: Performance art, Fluxus, political art.<br/>
