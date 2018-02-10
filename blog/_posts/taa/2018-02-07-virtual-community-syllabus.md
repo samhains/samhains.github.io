@@ -4,18 +4,17 @@ layout: post
 categories: taa
 
 ---
+
 ### Course Description:
 
-Technological advancements have us creating new worlds faster than we can keep track of them. This course will introduce students to the process of critically engaging with these new worlds and their implications. Through philosophy, performance and social engagement students will consider the problems and creative possibilities of our real, virtual and online communities.
+Technological advancements have us creating new worlds faster than we can keep track of them. This course will introduce students to the process of critically engaging with these new virtual worlds and their implications. Through philosophy, performance and social engagement students will consider the problems and creative possibilities of our real, virtual and online communities.
 
 
 ### Module 1: Real Virtuality
 
 #### Week 1
 Session 01:  Introduction to Metaphysics. Plato's Cave. Realism and Idealism.<br/>
-Session 02: Introduction to Deleuze's conception of the virtual, the real and the actual.<br/>
-
-“The virtual is opposed not to the real but to the actual. The virtual is fully real.." (_Difference and Repetition_, Deleuze, 1968)
+Session 02: Introduction to Deleuze's conception of the virtual, the real and the actual. “The virtual is opposed not to the real but to the actual. The virtual is fully real in so far as it is virtual." (_Difference and Repetition_, Deleuze, 1968)
 
 #### Week 2:
 Session 03: Reality as a social construction. Drawing from Deleuze's 'Assemblage Theory' we will consider how ideas and systems can be broken down into other ideas and yet maintain their significance as a whole. This will lead us to a discussion about the idea of emergence and scientific reductionism.<br/>
@@ -28,9 +27,7 @@ Please install [Second Life](https://secondlife.com) and familiarise yourself wi
 
 #### Week 3
 Session 05: The evolution and history of online, social spaces.<br/>
-
-_This session will be held in a virtual classroom environment in Second Life, physical attendance is optional._</br>
-Session 06:  We will discuss Deleuze, Chaos Magic, multiplicity and our capacity for inventing new worlds. <br/>
+Session 06: _This class will be held in a classroom environment in Second Life, physical attendance is optional, virtual attendance is mandatory._ We will discuss Deleuze, Chaos Magic, multiplicity and inventing new worlds.<br/>
 Homework: Analyse your experience, what are the rules of this space? Who is included and who is excluded in this new social assemblage?
 
 ![](https://i.ytimg.com/vi/-kp6eAhFEcg/maxresdefault.jpg)
