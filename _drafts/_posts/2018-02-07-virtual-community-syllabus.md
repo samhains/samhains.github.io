@@ -27,7 +27,7 @@ Session 06: (Field Trip and virtual class) Deleuze, Pluralities and inventing ne
 homework: Analyse your experience, what are the rules of this environment? Who is included and who is excluded in this new social assemblage?
 
 Week 4:
-Session 07: Digital Identity - Selfies, memes and diverse narratives.
+Session 07: Digital Identity - Selfies, memes and diverse narratives. Democratisation of beauty. Instagram activists Monroe Bergdof and Roscoe Ramone.
 Session 08: Fluxus, Performance art, political art.
 homework: Stage and document a performance in virtual space.
 
