@@ -5,11 +5,11 @@ date: 2018-04-16 11:37:34 +0000
 ---
 
 
-![](/assets/generators/1.PNG)
+![](/assets/generators/1.png)
 
 This was a workshop that I gave at NYU's ITP campus on creating rigorous, conceptual work using the internet as a generator.  
 
-![](/assets/generators/2.PNG)
+![](/assets/generators/2.png)
 
 Workshop description is here:
 
