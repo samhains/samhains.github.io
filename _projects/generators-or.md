@@ -1,15 +1,12 @@
 ---
 layout: project
-title: Generators Or
+title: Generators Or How I Learned To Stop Worrying..
 date: 2018-04-16 11:37:34 +0000
 ---
 
+This was a workshop that I gave at NYU's ITP campus on creating rigorous, conceptual work using the internet as a generator.
 
 ![](/assets/generators/1.png)
-
-This was a workshop that I gave at NYU's ITP campus on creating rigorous, conceptual work using the internet as a generator.  
-
-![](/assets/generators/2.png)
 
 Workshop description is here:
 
@@ -22,3 +19,5 @@ In this workshop we will look at historical examples of generators, as well as t
 We will be exploring questions such as: How do we use the internet to generate ideas? How might we do this thoughtfully? For what purpose are these algorithms originally assembled?
 
 Participants will leave with an expanded notion of the internet as an 'art generator' as well as ways in which they may bring its generative potential into their work."
+
+![](/assets/generators/2.png)
