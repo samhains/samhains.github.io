@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Generators Or How I Learned..
+title: Generators Or: How I Learned
 date: 2018-04-16 11:37:34 +0000
 ---
 
