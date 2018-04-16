@@ -1,0 +1,24 @@
+---
+layout: project
+title: Generators Or: How I Learned To Stop Worrying And Love The Internet
+date: 2018-04-16 11:37:34 +0000
+---
+
+
+![](/assets/generators/1.PNG)
+
+This was a workshop that I gave at NYU's ITP campus on creating rigorous, conceptual work using the internet as a generator.  
+
+![](/assets/generators/2.PNG)
+
+Workshop description is here:
+
+"From Picasso's fascination with African artifacts, to the surrealists and the unconcious mind, to Cage and the I-Ching, to internet artists and their 'Google Sculptures' - artists have always used the 'unpredictable' or 'other' to generate ideas.
+
+In the era of search engine collage and auto-complete poetry we have been gifted with a plethora of ways in which we can bring chaos and sponteneity into our work. After all, the internet is a gigantic, data-driven, generative system - brimming with creative potential and emergent madness.
+
+In this workshop we will look at historical examples of generators, as well as the politics, dangers and methods of the current 'internet-as-generator' zeitgeist.
+
+We will be exploring questions such as: How do we use the internet to generate ideas? How might we do this thoughtfully? For what purpose are these algorithms originally assembled?
+
+Participants will leave with an expanded notion of the internet as an 'art generator' as well as ways in which they may bring its generative potential into their work."
