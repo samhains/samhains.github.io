@@ -1,10 +1,11 @@
 ---
 layout: project
-title: Generators Or: How I Learned
+title: Generators Or
 date: 2018-04-16 11:37:34 +0000
 ---
 
-This was a workshop that I gave at NYU's ITP campus on creating rigorous, conceptual work using the internet as a generator.
+
+"Generators Or: How I Learned To Stop Worrying And Love The Internet" was a workshop that I gave at NYU's ITP campus on creating rigorous, conceptual work using the internet as a generator.
 
 ![](/assets/generators/1.png)
 
