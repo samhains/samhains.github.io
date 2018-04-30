@@ -24,7 +24,7 @@ This is an extension of my on-going interest in exploring dystopian narratives t
 
 It is also an extension, and advancement of the system that I built last year for the Winter show that is documented here.  <br />
 <br />
-http://samhains.com/2077-open-web-archive<br />
+[2077: Open Web Archive](http://samhains.com/2077-open-web-archive)<br />
 <br />
 From a technical perspective, I was interested in continuing experimentation into the development of generative, interactive video systems with voice controlled interfaces.
 
