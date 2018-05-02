@@ -9,10 +9,10 @@ categories: studio
 
 This is an extension of my on-going interest in exploring dystopian narratives through interactive audio-visual installation.<br />
 
-It is also an extension, and advancement of the system that I built last year for the Winter show that is documented here.  <br />
+It is also an extension, and advancement of the system that I built last year for the Winter show.  <br />
 
 **247 News**<br>
-A generate news station which takes text as its input, real-time scrapes the internet for content and repurposes it as 'news'.
+A generative news station which takes text as its input, real-time scrapes the internet and repurposes content as 'news'.
 
 {% include vimeo-player.html id=261682224 %}
 
@@ -24,7 +24,7 @@ half of my semester.
 ![](/blog/assets/final_studio/2.PNG)
 **Concept**<br>
 - How do we become a part of the spectacle?
-- How does speculative lore and my practice intercept?
+- How does science fiction and speculative lore inform my practice?
 
 **Lessons about process**<br>
 - Stagnation when continuing existing ideas
@@ -32,7 +32,7 @@ half of my semester.
 - Too many ideas vs none at all
 - Fitting too many ideas into one project
 
-**Technical Lessons**<br>
+**Technical Skills Gained**<br>
 - C++
 - Open Frameworks
 - GLSL
