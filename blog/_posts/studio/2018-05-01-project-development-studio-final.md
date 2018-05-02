@@ -14,9 +14,12 @@ It is also an extension, and advancement of the system that I built last year fo
 # 247 News
 A generate news station which takes text as its input, real-time scrapes the internet for content and repurposes it as 'news'.
 
+{% include vimeo-player.html id=261682224 %}
+
 # Face Swapping Extension
 As an attempt to involve the user inside the spectacle, I began work on a 'face swapping' extension that could take
-the face of a user and swap it will all of the faces with any given video content, in real-time.
+the face of a user and swap it will all of the faces with any given video content, in real-time. This consumed the second
+half of my semester.
 
 ![](/blog/assets/final_studio/2.png)
 # Concept
@@ -39,6 +42,7 @@ the face of a user and swap it will all of the faces with any given video conten
 ![](/blog/assets/final_studio/3.png)
 
 
+# Prototype 1: Hypervirus
 
 Hypervirus is a voice-controlled video installation depicting an entertainment network in conflict with a virus.
 
@@ -57,3 +61,7 @@ Through a series of diagnostic tests, announcements and voice interactions the u
 
 This is the current status of the Hypervirus ideas:
 [Vimeo demo](https://vimeo.com/267182635/bbd5ae253e)
+
+# Prototype 2: Embodiment center
+
+{% include vimeo-player.html id=267608146 %}
