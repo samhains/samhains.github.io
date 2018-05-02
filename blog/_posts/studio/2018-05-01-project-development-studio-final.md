@@ -11,6 +11,13 @@ This is an extension of my on-going interest in exploring dystopian narratives t
 
 It is also an extension, and advancement of the system that I built last year for the Winter show that is documented here.  <br />
 
+# 247 News
+A generate news station which takes text as its input, real-time scrapes the internet for content and repurposes it as 'news'.
+
+# Face Swapping Extension
+As an attempt to involve the user inside the spectacle, I began work on a 'face swapping' extension that could take
+the face of a user and swap it will all of the faces with any given video content, in real-time.
+
 ![](/blog/assets/final_studio/2.png)
 # Concept
 - How do we become a part of the spectacle?
