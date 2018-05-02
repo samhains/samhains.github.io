@@ -21,7 +21,7 @@ As an attempt to involve the user inside the spectacle, I began work on a 'face 
 the face of a user and swap it will all of the faces with any given video content, in real-time. This consumed the second
 half of my semester.
 
-![](/blog/assets/final_studio/2.png)
+![](/blog/assets/final_studio/2.PNG)
 **Concept**
 - How do we become a part of the spectacle?
 - How does speculative lore and my practice intercept?
@@ -39,7 +39,7 @@ half of my semester.
 - Building C++ extensions in touch designer
 - OpenCV
 
-![](/blog/assets/final_studio/3.png)
+![](/blog/assets/final_studio/3.PNG)
 
 
 **Prototype 1: Hypervirus**
