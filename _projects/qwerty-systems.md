@@ -14,7 +14,7 @@ Consisting of a real-time, generative video system with a voice controlled inter
 
 ![](/assets/qwerty/sh/4.JPG)
 
-QWERTY SYSTEMS was exhibited at the ITP Spring Graduate show, and performed at [ISSUE Project Room](http://issueprojectroom.org/) and [Culture HUB](http://www.culturehub.org/).
+QWERTY SYSTEMS was exhibited at the ITP Spring Graduate show as an installation, and performed at [ISSUE Project Room](http://issueprojectroom.org/) and [Culture HUB](http://www.culturehub.org/).
 
 ![](/assets/qwerty/is/0.jpg)
 
