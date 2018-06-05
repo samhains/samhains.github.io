@@ -10,7 +10,7 @@ QWERTY SYSTEMS is a voice-controlled video installation and performance system d
 
 ![](/assets/qwerty/sh/5.JPG)
 
-Consisting of a real-time, generative video system with a voice controlled interface - QWERTY SYSTEMS confronts the transformation of the internet into political actor and an algorithmic mirror of crowd behaviour.
+Consisting of a real-time, generative video system with a voice controlled interface - QWERTY SYSTEMS confronts the transformation of the internet into political actor and algorithmic mirror of crowd behaviour.
 
 ![](/assets/qwerty/sh/2.JPG)
 
