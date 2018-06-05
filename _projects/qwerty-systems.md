@@ -12,8 +12,6 @@ QWERTY SYSTEMS is a voice-controlled video installation and performance system d
 
 Consisting of a real-time, generative video system with a voice controlled interface - QWERTY SYSTEMS confronts the transformation of the internet into political actor and algorithmic mirror of crowd behaviour.
 
-![](/assets/qwerty/sh/2.JPG)
-
 ![](/assets/qwerty/sh/4.JPG)
 
 QWERTY SYSTEMS was exhibited at the ITP Spring Graduate show, and performed at [ISSUE Project Room](http://issueprojectroom.org/) and [Culture HUB](http://www.culturehub.org/).
