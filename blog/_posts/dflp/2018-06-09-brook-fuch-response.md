@@ -37,25 +37,3 @@ Managing a successful rehearsal is certainly more of an Art, than a science, wit
 The observer plays a critical in the development of theatre. During rehearsal the 'vital assistance' of the observer comes from the director, whereas  in performance it is the audience.  In both cases, the gaze is what galvanizes and activates a performance, elevating the 'watcher' to a very vital and active role. The watcher is embroiled in this interaction with the performers whether they are aware of their participation or not.  This more spectral definition of interaction is an interesting provocation to the more physical definitions that are common today.
 
 Brook's theatre is always interactive, as it takes place in the emotional environment that is created by the interactions between directors, designers, audience and stage.
-
-
-
-
-#THE INVISIBLE EMOTIONAL CANVAS
-emotional environment created by the director, the designer and the audience can make certain experiences possible.
-
-#THE DIGITAL STAGE
-I would like to consider these text in the context of how these ideas might contribute to more experimental forms of digital-based theatre. Underlying these considerations is the idea that a 'virtual world' such as the persistent, networked landscape of Azeroth in 'World of Warcraft' could be the stage for an 'Immediate Theatre' of the future.
-
-The challenges that traditional theatre faces in terms of maintaining the 'incomplete' and 'open' that the interactive nature of an environment.
-
-Is there room for a theatre that is once removed from flesh and blood of the stage? A Blind theatre? Is the completed circle made incomplete if we cannot directly see our actors but instead see them represented by symbols, or avatars?
-
-Unlike the cinema - theatre is capable of 'asserting themselves in the present', which makes it 'more real than normal stream of consciousness'. The capacities for the artist to take hold of the medium and intervene into the audience mind is powerful and disturbing.
-
-The 'immediate theatre' of the future looks something like an ongoing narrative which the audience member participate in and shape the development of. Theatre companies, or DIY run collectives will put together an engine for these kinds of narrative experiences and the audience will participate experiencing and defining the direction.
-#CONCLUSION
-Overall, Brook describes a fluid system - there is no 'language for everything'.
-
-Fuchs
-from the perspective of the actor but ths could also be taken more literally in terms of set design. this particular asset in this world, what would it feel like? what factions does it belong to? world building is almost like a simulationist approach to narrative. as you create the world and then the world simulates its own insides.
