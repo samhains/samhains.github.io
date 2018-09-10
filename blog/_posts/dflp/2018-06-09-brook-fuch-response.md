@@ -8,6 +8,7 @@ categories: dflp
 For my response to Brook's book 'The Empty Space' I have separated out and identified some key insights.
 
 **REPETITION IS DEADLY**
+
 The first insight, is the necessary but also self-destructive nature of repetition in rehearsal. A challenge for any successful work of theatre is to find a way to overcome the deadly, hollowing out of liveliness that occurs from repetition. A successful theatre must embrace its own ephemeral nature - it must respect the dynamic, shifting, ever-evolving understanding of the play itself.
 
 The rules of rehearsal should not calcify or become stagnant, and this is expressed in the need for evolving challenges.
