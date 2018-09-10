@@ -39,6 +39,7 @@ The observer plays a critical in the development of theatre. During rehearsal th
 Brook's theatre is always interactive, as it takes place in the emotional environment that is created by the interactions between directors, designers, audience and stage.
 
 **A SIMULATIONIST APPROACH TO THEATRE**
-The Fuchs piece encourages simulating a world around the events in the theatre. A 'theatrical world' map in seems like a good way of enhancing a sense of coherence and verisimilitude across various design decisions across project.
+
+The Fuchs piece encourages 'simulating' a world with its own customs, inhabitants and aesthetics before making design decisions about a particular feature of a play. A 'theatrical world' map seems like a good way of enhancing a sense of coherence and verisimilitude across various design decisions in a project.
 
 This has some interesting parallels with a simulationist approach to game design, where a designer makes use of simulation to generate narrative events. These systems are often designed to encourage emergent behaviour which in the context of theatre production could introduce some interesting improvisational elements. I am interested in exploring this connection in further blog posts and experiments.
