@@ -7,7 +7,7 @@ categories: dflp
 
 For my response to Brook's book 'The Empty Space' I have separated out and identified some key insights.
 
-# REPETITION IS DEADLY
+**REPETITION IS DEADLY**
 The first insight, is the necessary but also self-destructive nature of repetition in rehearsal. A challenge for any successful work of theatre is to find a way to overcome the deadly, hollowing out of liveliness that occurs from repetition. A successful theatre must embrace its own ephemeral nature - it must respect the dynamic, shifting, ever-evolving understanding of the play itself.
 
 The rules of rehearsal should not calcify or become stagnant, and this is expressed in the need for evolving challenges.
@@ -19,7 +19,7 @@ Aggressive language and tone might be necessary at certain points in the process
 Director is there to help group evolve towards ideal situation. To 'attack and yield', to 'provoke and withdraw until the indefinable stuff begins to flow'.
 
 
-# OVERPREPARATION IS DEADLY
+**OVERPREPARATION IS DEADLY**
 
 The director can prepare as much as they want, but given the fleshy nature of the materials of theatre there is no way for them to understand a play by themselves.  It is of primal importance for the form and construction of the play to evolve continuously - 'iterating, changing, scrapping'  as the whole gradually takes form.
 
@@ -32,8 +32,13 @@ Ideally, the form of the directors 'blueprint' is 'incomplete'; 'clarity without
 Managing a successful rehearsal is certainly more of an Art, than a science, with there being a time and place for almost any kind approach. The goal for rehearsal is to identify what the group is lacking, and to adjust catalysts and structure accordingly.
 
 
-# THE OBSERVER
+**THE OBSERVER**
 
 The observer plays a critical in the development of theatre. During rehearsal the 'vital assistance' of the observer comes from the director, whereas  in performance it is the audience.  In both cases, the gaze is what galvanizes and activates a performance, elevating the 'watcher' to a very vital and active role. The watcher is embroiled in this interaction with the performers whether they are aware of their participation or not.  This more spectral definition of interaction is an interesting provocation to the more physical definitions that are common today.
 
 Brook's theatre is always interactive, as it takes place in the emotional environment that is created by the interactions between directors, designers, audience and stage.
+
+**A SIMULATIONIST APPROACH TO THEATRE**
+The Fuchs piece encourages simulating a world around the events in the theatre. A 'theatrical world' map in seems like a good way of enhancing a sense of coherence and verisimilitude across various design decisions across project.
+
+This has some interesting parallels with a simulationist approach to game design, where a designer makes use of simulation to generate narrative events. These systems are often designed to encourage emergent behaviour which in the context of theatre production could introduce some interesting improvisational elements. I am interested in exploring this connection in further blog posts and experiments.
