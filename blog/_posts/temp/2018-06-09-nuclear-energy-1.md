@@ -34,7 +34,7 @@ Some of the systems identified:
 - Natural Ecosystem (potential threats, global warming)
 - Video games & folklore
 - Scientific Progress (Nuclear fusion, recreating the energy of the sun is Holy Grail)
-- Technological advancement (Renewable energy Rising, Cheap Natural gas and wind)
+- Technologically -  advancement and limitation (solar and wind have some scalability limitations, renewable energy Rising, Cheap Natural gas and wind)
 - Waste management lobby
 
 MANY interesting interactions between these systems - but some:
