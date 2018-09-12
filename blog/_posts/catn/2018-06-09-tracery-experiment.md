@@ -5,7 +5,7 @@ categories: catn
 
 ---
 
-For this task I decided to deconstruct the plot of [suspiria](https://en.wikipedia.org/wiki/Suspiria) as a shell for generative narrative.
+For this task I decided to deconstruct the plot of Italian, supernatural Giallo film [Suspiria](https://en.wikipedia.org/wiki/Suspiria) as a shell for generative narrative.
 
 I spent most of my time, analysing and deconstructing this narrative into abstractions inspired by [Propp's Functions](https://en.wikipedia.org/wiki/Vladimir_Propp#Functions). The abstractions that I finished with were:
 
