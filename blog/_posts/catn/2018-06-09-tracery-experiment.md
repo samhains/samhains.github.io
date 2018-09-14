@@ -22,4 +22,4 @@ I spent most of my time, analysing and deconstructing this narrative into abstra
 **final showdown** - the murderer ventures into the murderers lair where they are slain<br>
 **End** - the hero leaves the site of the horror physically unharmed, and it burns to the ground behind them<br>
 
-Definitely found myself getting very lost in the weeds of trying to generate a non-trivial narrative. There was not a lot of variation in the discourse, and I'm not sure that I managed to get beyond a kind of complex 'world replacement' technique. I'd like to look a bit more closely at Propp's work and return to this task (perhaps using a different tool). 
+Definitely found myself getting very lost in the weeds of trying to generate a non-trivial narrative. There was not a lot of variation in the discourse, and I'm not sure that I managed to get beyond a kind of complex 'world replacement' technique. I'd like to look a bit more closely at Propp's work and return to this task (perhaps using a different tool).

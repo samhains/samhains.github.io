@@ -30,7 +30,7 @@ Some of the systems identified:
 - Government & economic policy
 - Market forces and capitalism (declining Nuclear economic viability)
 - Collective consciousness  & psychology (growing fear about global warming)
-- History of horrific nightmarish tragedy.
+# - History of horrific nightmarish tragedy.
 - Natural Ecosystem (potential threats, global warming)
 - Video games & folklore
 - Scientific Progress (Nuclear fusion, recreating the energy of the sun is Holy Grail)
