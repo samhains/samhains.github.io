@@ -1,5 +1,5 @@
 ---
-title: Response to Brook & Fuch
+title: Lasso Of Truth Response
 layout: post
 categories: dflp
 
