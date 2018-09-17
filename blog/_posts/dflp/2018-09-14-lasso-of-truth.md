@@ -17,5 +17,5 @@ Inventor and wife engage in kinky play that sublimates the man, although it seem
 **Fuchs world questions**<br>
 This is an interior planet, built and human manufactured. The narrative is contained within walls and confined spaces.  Time is irregular, it jumps around and moves back and forth between different time periods. The characters seem to like each other, and enjoy each others company - they interact flirtatiously and openly. As time moves forward we see the changing of social values and gender norms.
 
-
+**Cornell Box**</br>
 ![](/blog/assets/dflp/lasso.jpg)
