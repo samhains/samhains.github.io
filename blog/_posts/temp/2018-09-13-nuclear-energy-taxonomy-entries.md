@@ -15,6 +15,20 @@ Page two includes tables that are referenced on page one to generate different e
 * Human lead expedition into nuclear affected megastructure research complex
 * Lewis Carroll meets Fallout inspired world?
 
+**Taxonomy**
+Page 1.
+
+[Introduction - Paragraph
+Details - Paragraph
+Instruction - Paragraph]
+
+[Tables]/
+[Bestiary
+Flora]
+
+Page 2.
+Map
+Key
 
 **RESEARCH**
 * The work of Arvind Rajagopal (Cold War Media) to develop ideas around cold war aesthetics and media culture.
@@ -39,8 +53,8 @@ Page two includes tables that are referenced on page one to generate different e
 
 
 
-**References:** </br>
+**References:** <br>
 [Chernobyl: The True Scale of the Accident  20 Years Later](http://www.who.int/ionizing_radiation/a_e/chernobyl/PR_English.pdf)<br>
-https://www.thoughtco.com/chernobyl-animal-mutations-4155348</br>
+https://www.thoughtco.com/chernobyl-animal-mutations-4155348<br>
 [Biological consequences of Chernobyl:  20 years on](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.532.313&rep=rep1&type=pdf)<br>
 [ANOMALIES OF THE EYES IN DESCENDANTS OF WOMEN, IRRADIATED WITH SMALL X‐RAY DOSES DURING AGE OF FERTILITY](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-3768.1968.tb02815.x)<br>
