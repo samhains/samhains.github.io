@@ -11,10 +11,9 @@ A role playing game where the referee or 'Mutation Master' leads a group of radi
 **Taxonomy**<br>
 
 **PAGE 1**<br>
-**Introduction** - A paragraph introducing the world. mankind of thoughtless use of high technologies.<br>
+**Introduction** - A paragraph introducing the Radioactive Forest, the quest and the struggle to survive in a world scarred by mankind thoughtless use of high technologies.<br>
 **Setting** - The game takes place in a radioactive forest inside the warmer regions of "The Zone". The "Zone" is an alternate reality version of the 'Zone of alienation' surrounding the Zaporizhia Power Plant after a fictitious meltdown, which contaminated the surrounding area with radiation, causing strange otherworldly changes in local fauna, flora, and the laws of physics.
 
-Hundreds of stray dogs have learned to survive in the woods around the exclusion zone – mainly descendants of those left behind after the nuclear disaster, when residents were banned from taking their beloved pets to safety.
 
 **Objective** - Still needs work. I need to decide if I will stick with the radio-active dogs theme rather than just working within the more familiar 'illegal explorer/artefact scavenger/stalker' play style that fits more naturally with the format. Options:
 - The dogs on a pilgrimage to a Corium mass beneath the forest reactor, an extremely radioactive waste monolith that is said to illicit a profound near-death experiences.
@@ -22,22 +21,23 @@ Hundreds of stray dogs have learned to survive in the woods around the exclusion
 
 **Instruction** - How do you run the game for your players? Advice for starting the pack of dogs on their journey. Advice for initiating them on their mission. How and when to use tables to create random 'mutation events'. A suggested starting circumstance that sets off the exploration.
 
-**Mutation Index** - This optional mechanic might be triggered every 10 minutes in real-time. Roll a 20 sided Dice:
+**Mutation Index** - This optional mechanic might be triggered every 10 minutes in real-time. This is inspired heavily by the chaos index in Chris Kutalik's 'Slumbering Ursines'. These might need to be focused more on specific research related radioactive mutations. Roll a 20 sided Dice:
 <br>
 <br>
 **1-3** No Event<br>
 **4-5** Radioactive sulphuric rain that glows blue, dogs will be harmed unless they find shelter<br>
 **6-7** A vaguely perceptible reactor appears. Although seems that this may exist on a different dimension.  Party sees themself entering structure in search of Quest object.<br>
-**8-9** Party encounters a puddle that turns out to be a rift in space-time. Party now has an exact clone of itself.<br>
-**10** Deep Fog.<br>
+**8-9** Party encounters a puddle that turns out to be a rift in space-time. Party now has an exact clone of itself except with (improvised) bodily mutations.<br>
+**10** Roll dice to decide party member who receives an extra body part of their choice through mutation. This is not a negative thing!  <br>
 **11-12** Hallucinations, visions of life as domestic animals, memories of humans who worked in the plant. Dogs frightened and disoriented.<br>
 **13-15** Nightmares. Horrible radioactive mutant visions disturb the sleep of anyone who sleeps.<br>
 **15-17** Tesseract Opens. A mildly shimmering doggy door appears. Gate connects anyone who enters to a random place on the map.<br>
-**18-20** Radioactive forest researchers arrive in floating vehicle high in the air. <br>
+**18-19** Radioactive forest researchers arrive in floating vehicle high in the air. <br>
+**20** A mystical frog that grants a single wish to the party appears.<br>
 
 <br>
 
-**Tables** - The tables for creating some random events that occur at specific moments referenced on the Map will likely be placed here at the bottom of the page.
+**Other Tables** - The tables for creating some random events that occur at specific moments referenced on the Map will likely be placed here at the bottom of the page.
 
 
 **PAGE 2**<br>
@@ -53,11 +53,12 @@ Another map by Zak. S is also an inspiration for me. This one is more abstract, 
 Each of the entries will be laid out on the map with a description. They will also reference a table on the front if the encounter involves a degree of randomness.
 
 **Entries**<br>
-These are some ideas for 'Entries' that will appear on the map. I have provided some commentary on how the 'random event' table might augment the entry. A number of these ideas are also taken from Zak S's writings:
-* Trees grow in strange shapes. Roll for how the tree might obstruct the travellers path, lead to an otherwise unreachable place, immobilize a companion. This may push the other dogs to make a decision - do we leave the dog here? Do we send another dog out to seek help from the nearby animals?
+These are some ideas for 'Entries' that will appear on the map. I have provided some commentary on how the 'random event' table might augment the entry. A number of these ideas are also adapted from Zak S's writings:
+* Radioactive dogs. Hundreds of stray dogs have learned to survive in the woods around the exclusion zone – mainly descendants of those left behind after the nuclear disaster, when residents were banned from taking their beloved pets to safety.
 * A cuckoo whose song has changed.  Roll for the details of the song. Disoriented, a dog might lose their memory, it might force them to reveal their love for another dog (that dog might become hopelessly in service of the other), forces everyone to dance, 2 dogs (randomly decided by dice rolls) disappear and start making out.
 * A racoon giving birth. Party expected to assist. Roll for various 'cute' mutations if childbirth is successful.
 * Haunted woods - spirits have taken over abandoned spots where animals no longer live. Roll for eclipse, the fauna and ghosts eyes glow with a terrible radioactive light, all creatures of the forest find the party so laughable they can hardly breathe.
+* Trees grow in strange shapes. Roll for how the tree might obstruct the travellers path, lead to an otherwise unreachable place, immobilize a companion. This may push the other dogs to make a decision - do we leave the dog here? Do we send another dog out to seek help from the nearby animals?
 * Mutant firebug army.
 * A stalker - an illegal explorer/artefact scavenger in "The Zone"
 * A gigantic antenna - Researcher presence. Ominous and disorienting.
@@ -96,12 +97,10 @@ helpless, weak and lacking control over their future." (UN)
 * radioactive wildlife refuge. The animals are radioactive because they eat radioactive food, so they may produce fewer young and bear mutated progeny.(Helmenstein)
 * Wild animals roam the street after Fukshima disaster, they seem intent on taking over the community.
 
-*"Through this research in the field, as well as through the act of describing these deformities through the pictorial process, I can show that “low-level radiation” emitted from even the best-maintained nuclear plants is in fact extremely dangerous to nature and, thus, also to human beings. In part, what has allowed us to ignore these facts is that we are incapable of seeing the damage."*
-
 
 
 **References:** <br>
-[Consequences of Fukushima & Chernobyl, Mousseu](https://www.youtube.com/watch?v=c21cKXTuu90)
+[Consequences of Fukushima & Chernobyl, Mousseu](https://www.youtube.com/watch?v=c21cKXTuu90)<br>
 [Chernobyl: The True Scale of the Accident  20 Years Later, UN](http://www.who.int/ionizing_radiation/a_e/chernobyl/PR_English.pdf)<br>
 [What We Know About the Chernobyl Animal Mutations, Dr. Helmenstein](https://www.thoughtco.com/chernobyl-animal-mutations-4155348)<br>
 [Biological consequences of Chernobyl:  20 years on](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.532.313&rep=rep1&type=pdf)<br>
