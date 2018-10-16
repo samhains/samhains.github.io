@@ -26,6 +26,7 @@ I think a key point in all of this is the idea of 'enjoyment' binds us in an era
 The externalization of our desires and our wilful participation seem distinctly modern to me and at odds with some of the older, aging theory which seems to focus on alienation and fear of surveillance (Foucault).  I'm interested in examining the feedback loops between producers, users, service providers in the networked spectacle.
 
 **Medium**<br>
+
 I am interested in producing some kind of video oriented work.
 
 John Gerrard and Ian Cheng use 'simulations' or 'video games that play themselves'.  
@@ -38,6 +39,7 @@ John Gerrard typically creates portraits of real places.  On using simulations: 
 
 
 **References**<br>
+
 Emotions go to work by Zoe Beloff<br>
 Addiction by Design by Natasha Dow Schüll<br>
 Executing Machines by Martin Scherzwinger<br>
