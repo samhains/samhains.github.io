@@ -5,7 +5,7 @@ categories: temp
 
 ---
 
-**How do we stage and perform our own entrapment in digital networks**
+**How do we stage and perform our own entrapment in digital networks?**
 
 I'm interested in exploring the ways in which the capitalist surveillance economy compels us to perform and externalize our desires.   
 
