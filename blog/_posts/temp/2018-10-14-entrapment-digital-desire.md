@@ -1,11 +1,11 @@
 ---
-title: Digital Desire
+title: Digital Entrapment
 layout: post
 categories: temp
 
 ---
 
-# How do we stage and perform our own entrapment in digital networks?
+**How do we stage and perform our own entrapment in digital networks**
 
 I'm interested in exploring the ways in which the capitalist surveillance economy compels us to perform and externalize our desires.   
 
@@ -23,7 +23,7 @@ It seems Deleuze 'capitalism and schizophrenia' is also a relevant reference (th
 
 I think a key point in all of this is the idea of 'enjoyment' binding us in an era of networked, participatory spectacle. The externalization of our desires and our wilful participation in the performance seem distinctly modern to me and at odds with some of the older, aging theory which seems to focus on alienation and fear of surveillance (Foucault).  I'm interested in examining the relationships and feedback loops between producers, users, service providers in the networked spectacle.
 
-# Medium
+**Medium**
 I am interested in producing some kind of video oriented work. Whether it will  be 'interactive' I am uncertain of. Although am not setting this in stone just yet.
 
 I am drawn to the way that  John Gerrard and Ian Cheng use 'simulations' or 'video games that play themselves'.  
@@ -35,7 +35,7 @@ An aside: "It is not absurd to try diagnosing a civilization in terms of the gam
 John Gerrard typically creates portraits of real places.  On using simulations: "People look at them and think to themselves, there is something wrong. A slight sense of disorientation. They know that something is wrong but they can't put their finger on it".
 
 
-# References
+**References**
 
 Emotions go to work by Zoe Beloff
 Addiction by Design by Natasha Dow Schüll
