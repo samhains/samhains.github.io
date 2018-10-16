@@ -27,7 +27,7 @@ The externalization of our desires and our wilful participation seem distinctly 
 
 **Medium**<br>
 
-I am interested in producing some kind of video oriented work.
+Some kind of video oriented work.
 
 John Gerrard and Ian Cheng use 'simulations' or 'video games that play themselves'.  
 
