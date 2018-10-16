@@ -21,7 +21,7 @@ I am wondering if the connection between Las Vegas and corporatized online space
 
 Jodi Dean's work on Affective networks is another relevant reference here. She argues that our participation does not subvert communicative capitalism. It drives it. The more we contribute, the more extensive our submission. We configure worlds that we cannot escape yet still enjoy.
 
-I think a key point in all of this is the idea of 'enjoyment' binds us in an era of networked, participatory spectacle. This is a far cry from the appeal to desire as an emancipatory instinct (1960s era logic?).
+I think a key point in all of this is the idea of 'enjoyment' binds us in an era of networked, participatory spectacle. This is a far cry from the appeal to desire as an emancipatory instinct (Deleuze/1960s era logic?).
 
 The externalization of our desires and our wilful participation seem distinctly modern to me and at odds with some of the older, aging theory which seems to focus on alienation and fear of surveillance (Foucault).  I'm interested in examining the feedback loops between producers, users, service providers in the networked spectacle.
 
