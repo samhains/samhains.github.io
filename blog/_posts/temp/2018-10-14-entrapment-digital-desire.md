@@ -11,11 +11,11 @@ I'm interested in exploring the ways in which the capitalist surveillance econom
 
 There are a few different ideas I'm interested in bringing together.
 
-Firstly the idea of the 'panopticon-inside-out' presented by MCC professor Martin Scherzwinger:
+Firstly, the idea of the 'panopticon-inside-out' presented by MCC professor Martin Scherzwinger:
 
 "It is no longer the case that the temporary subject experiences the possibility of being watched, and therefore comports its behaviour accordingly. Rather, the contemporary subject knows it is being watched and nonetheless enjoined to act, adopt, and produce in an uncomported manner.".
 
-Secondly, Natasha Dow Schull's work on the rise of digital slot machines.   I'm interested in further exploring this weaponization of experience design and psychology used in the casino industry and applying this framework to an analysis of digital networks. On Las Vegas she states "has become a vast laboratory, where giant corporations, themselves changing amalgams of capital from different sectors, are experimenting with every possible combination of entertainment, gaming, mass media, and leisure.".
+Natasha Dow Schull's work on the rise of digital slot machines.   I'm interested in further exploring this weaponization of experience design and psychology used in the casino industry and applying this framework to an analysis of digital networks. On Las Vegas she states "has become a vast laboratory, where giant corporations, themselves changing amalgams of capital from different sectors, are experimenting with every possible combination of entertainment, gaming, mass media, and leisure.".
 
 I am wondering if the connection between Las Vegas and corporatized online space would be an interesting thing to explore – if not too obvious (?).
 
