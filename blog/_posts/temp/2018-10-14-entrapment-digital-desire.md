@@ -11,7 +11,7 @@ categories: temp
 _TFW your searing critique of social media culture goes viral earning you thousands of additional followers_
 
 
-There are a few different ideas I'm interested in bringing together.
+There are a few different ideas I'm interested in bringing together on the ways that we are 'co-producing' our entrapment in digital networks.
 
 Firstly, the idea of the 'panopticon-inside-out' presented by MCC professor Martin Scherzwinger:
 
@@ -25,8 +25,6 @@ Jodi Dean's work on affective networks is another relevant reference here. She a
 
 
 I think a key point in all of this is the idea of 'enjoyment' binds us in an era of networked, participatory spectacle. This is a far cry from the appeal to desire as an emancipatory instinct (Deleuze/1960s era logic?).
-
-The capitalist surveillance economy compels us to perform and externalize our desires.   
 
 The externalization of our desires and our wilful participation in the spectacle seem distinctly modern to me and at odds with some of the older, aging, theory which seems to focus on alienation and fear of surveillance (Foucault).  I'm interested in examining the feedback loops between producers, users, service providers in the networked spectacle.
 
