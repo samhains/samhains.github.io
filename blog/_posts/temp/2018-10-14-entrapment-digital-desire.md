@@ -38,7 +38,6 @@ John Gerrard typically creates portraits of real places.  On using simulations: 
 
 
 **References**<br>
-
 Emotions go to work by Zoe Beloff<br>
 Addiction by Design by Natasha Dow Schüll<br>
 Executing Machines by Martin Scherzwinger<br>
