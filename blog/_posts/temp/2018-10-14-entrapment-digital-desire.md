@@ -17,7 +17,7 @@ Firstly, the idea of the 'panopticon-inside-out' presented by MCC professor Mart
 
 Natasha Dow Schull's work on the rise of digital slot machines.   I'm interested in further exploring this weaponization of experience design and psychology used in the casino industry and applying this framework to an analysis of digital networks. On Las Vegas she states "has become a vast laboratory, where giant corporations, themselves changing amalgams of capital from different sectors, are experimenting with every possible combination of entertainment, gaming, mass media, and leisure.".
 
-I am wondering if the connection between Las Vegas and corporatized online space would be an interesting thing to explore – if not too obvious (?).
+I am wondering if the connection between Las Vegas and corporatized online space would be an interesting thing to explore – if not too obvious (?) could be an interesting starting place for a speculative fiction.
 
 Jodi Dean's work on Affective networks is another relevant reference here. She argues that our participation does not subvert communicative capitalism. It drives it. The more we contribute, the more extensive our submission. We configure worlds that we cannot escape yet still enjoy.
 
