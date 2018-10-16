@@ -7,7 +7,9 @@ categories: temp
 
 **How do we stage and perform our own entrapment in digital networks?**
 
-I'm interested in exploring the ways in which the capitalist surveillance economy compels us to perform and externalize our desires.   
+![](https://i.imgur.com/vwD9JTS.jpg)
+_TFW your searing critique of social media culture goes viral on earning you thousands of additional followers_
+
 
 There are a few different ideas I'm interested in bringing together.
 
@@ -19,11 +21,15 @@ Natasha Dow Schull's work on the rise of digital slot machines.   I'm interested
 
 I am wondering if the connection between Las Vegas and corporatized online space would be an interesting thing to explore – if not too obvious (?) could be an interesting starting place for a speculative fiction.
 
-Jodi Dean's work on Affective networks is another relevant reference here. She argues that our participation does not subvert communicative capitalism. It drives it. The more we contribute, the more extensive our submission. We configure worlds that we cannot escape yet still enjoy.
+Jodi Dean's work on affective networks is another relevant reference here. She argues that our participation does not subvert communicative capitalism. It drives it. The more we contribute, the more extensive our submission. We configure worlds that we cannot escape yet still enjoy.
+
 
 I think a key point in all of this is the idea of 'enjoyment' binds us in an era of networked, participatory spectacle. This is a far cry from the appeal to desire as an emancipatory instinct (Deleuze/1960s era logic?).
 
-The externalization of our desires and our wilful participation seem distinctly modern to me and at odds with some of the older, aging theory which seems to focus on alienation and fear of surveillance (Foucault).  I'm interested in examining the feedback loops between producers, users, service providers in the networked spectacle.
+The capitalist surveillance economy compels us to perform and externalize our desires.   
+
+The externalization of our desires and our wilful participation in the spectacle seem distinctly modern to me and at odds with some of the older, aging, theory which seems to focus on alienation and fear of surveillance (Foucault).  I'm interested in examining the feedback loops between producers, users, service providers in the networked spectacle.
+
 
 **Medium**<br>
 
