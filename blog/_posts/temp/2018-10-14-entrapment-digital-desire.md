@@ -8,7 +8,7 @@ categories: temp
 **How do we stage and perform our own entrapment in digital networks?**
 
 ![](https://i.imgur.com/vwD9JTS.jpg)
-_TFW your searing critique of social media culture goes viral on earning you thousands of additional followers_
+_TFW your searing critique of social media culture goes viral earning you thousands of additional followers_
 
 
 There are a few different ideas I'm interested in bringing together.
