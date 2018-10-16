@@ -26,7 +26,7 @@ Jodi Dean's work on affective networks is another relevant reference here. She a
 
 I think a key point in all of this is the idea of 'enjoyment' binds us in an era of networked, participatory spectacle. This is a far cry from the appeal to desire as an emancipatory instinct (Deleuze/1960s era logic?).
 
-The externalization of our desires and our wilful participation in the spectacle seem distinctly modern to me and at odds with some of the older, aging, theory which seems to focus on alienation and fear of surveillance (Foucault).  I'm interested in examining the feedback loops between producers, users, service providers in the networked spectacle.
+The externalization of our desires and our wilful participation in the spectacle seem distinctly modern to me and at odds with some of the older, aging, theory which focuses on alienation and fear of surveillance (Foucault).  I'm interested in examining the feedback loops between producers, users, service providers in the networked spectacle.
 
 
 **Medium**<br>
@@ -41,7 +41,7 @@ An aside: "It is not absurd to try diagnosing a civilization in terms of the gam
 
 John Gerrard typically creates portraits of real places.  On using simulations: "People look at them and think to themselves, there is something wrong. A slight sense of disorientation. They know that something is wrong but they can't put their finger on it".
 
-Another reason for engaging in the medium of 'simulation' is the ability to create 'automated entities' in their natural environment.  A natural way to represent the algorithmic ways of super users, marketers and automated zombies who coalesce with so totally with the market forces.
+Another reason for engaging in the medium of 'simulation' is the ability to create 'automated entities' in their natural environment.  A natural way to represent the algorithmic ways of super users, marketers and automated zombies who coalesce with market forces.
 
 
 **References**<br>
