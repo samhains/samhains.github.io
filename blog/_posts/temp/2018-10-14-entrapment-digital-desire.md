@@ -37,6 +37,8 @@ An aside: "It is not absurd to try diagnosing a civilization in terms of the gam
 
 John Gerrard typically creates portraits of real places.  On using simulations: "People look at them and think to themselves, there is something wrong. A slight sense of disorientation. They know that something is wrong but they can't put their finger on it".
 
+Another reason for engaging in the medium of 'simulation' is the ability to create 'automated entities' in their natural environment.  A natural way to represent the algorithmic ways of super users, marketers and automated zombies who coalesce with so totally with the market forces.
+
 
 **References**<br>
 
