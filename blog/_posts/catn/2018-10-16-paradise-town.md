@@ -20,8 +20,8 @@ Here is my [ugly code](https://github.com/samhains/talktown/blob/master/paradise
 
 Here is a 'visualization' of an output from the Paradise Town script using Touch Designer. A rough draft to give myself a picture of a more complete video pipeline.
 
-[PARADISE TOWN - JUDY EGGERTON - S02E02](https://vimeo.com/295661184/318ede9228)
-[script](https://gist.github.com/samhains/d905e25fb14f99949a14e14eb837860b)
+[PARADISE TOWN - JUDY EGGERTON - S02E02](https://vimeo.com/295661184/318ede9228)<br>
+[The script](https://gist.github.com/samhains/d905e25fb14f99949a14e14eb837860b)
 
 
 Overall, I found this to be an  educational task. I've somewhat demystified the narrative simulation which might well of been a 'bucket list' item crossed off. Simulations require a tremendous amount _more_ planning, research and coding than I expected. But, I am not deterred.  
