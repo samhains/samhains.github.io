@@ -5,7 +5,7 @@ categories: temp
 
 ---
 
-**How do we stage and perform our own entrapment in digital networks?**
+**How do we stage and perform our entrapment in digital networks?**
 
 ![](https://i.imgur.com/vwD9JTS.jpg)
 _TFW your searing critique of social media culture goes viral earning you thousands of additional followers_
