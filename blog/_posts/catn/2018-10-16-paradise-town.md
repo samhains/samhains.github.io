@@ -5,6 +5,8 @@ categories: catn
 
 ---
 
+![](https://i.imgur.com/gOwP0fQ.jpg)
+
 Simulation seems to me like the 'holy grail' of computational narrative.  A system with well designed rules could conceivably provide an infinite, highly-flexible basis for a narrative world.  Once a simulation has been designed it could become the basis for any number of real-time content driven systems. My interest, in particular, is to use simulation as a basis for 'generative video' systems through visualization of the simulation in video or game engines.
 
 Paradise Town is a reality television show that follows the lives of simulated people as they attempt to pursue a particular activity, but are constantly interrupted by their exhausting social life. I wanted to materialize the weirdness of 'simulated peoples' and build this uncanny aesthetic into the experience.
@@ -18,6 +20,8 @@ narrative from interpretation and parsing of its generated events. Talk Of The T
 
 
 This is a 'visualization' of an output from the Paradise Town script using Touch Designer. A rough draft to give myself a picture of a more complete video pipeline.
+
+![](https://i.imgur.com/lYavewC.jpg)
 
 [PARADISE TOWN - JUDY EGGERTON - S02E02](https://vimeo.com/295661184/318ede9228)<br>
 [The script](https://gist.github.com/samhains/d905e25fb14f99949a14e14eb837860b)
