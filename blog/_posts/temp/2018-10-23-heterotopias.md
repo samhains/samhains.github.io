@@ -6,7 +6,7 @@ categories: temp
 ---
 ![](http://socks-studio.com/img/blog/Exodus5.jpeg)
 
-This week was a deep dive on heterotopias, utopias, dystopias and megastructures as a means of representing ideology in art.
+This week was a deep dive on heterotopias, utopias, dystopias and megastructures as ideological art.
 
 [Pinterest and visual research here](https://www.pinterest.com.au/z10101010101001/heterotopia/)
 
@@ -39,7 +39,8 @@ I do not propose a rejection of software, but a detouring or reimagining.
 Since Koolhaas, the meaning of an 'outside' of a capitalism has shifted. The digital labyrinth cultivated by platform economies has its own totalizing character. It feeds off specificity of subjects, and encourages us to share thoughts, feelings and desires for its functioning.  It needs 'rich' datasets from its citizens. It will create interfaces for this expression where people don't feel inhibited. It will offer an increasingly hyper-individualized, irresistible content vortex for us to inside. Irreverence, rule-breaking, resistance and organizational practice are all recorded, documented and amalgamated. The political reality is being eroded.
 
 
-# Interview with Martin Scherzinger
+**Interview with Martin Scherzinger**
+
 I interviewed my MCC professor Martin Scherzinger on his piece 'Executing Machines'
 
 An excerpt from the interview here:
