@@ -1,5 +1,5 @@
 ---
-title: Digital Entrapment
+title: Heterotopias & Megastructures
 layout: post
 categories: temp
 
@@ -30,4 +30,4 @@ Questions I need to develop: What is the opposition to the symbolic connotations
 
 I do not propose a rejection of software, but a detouring or reimagining.
 
-Since Koolhaas, the meaning of an 'outside' to the totality of a capitalism has shifted. The digital labyrinth being cultivated by platform economies has its own totalizing character. It feeds off specificity of subjects, and encourages us to share our thoughts, feelings and desires for its efficient functioning.   What is needs more than anything from its citizens are 'rich' datasets. The interface must arouse us and encourage us to act uninhibited to create the best data. This drives an increasingly hyper-individualized, irresistible content vortex that we spend our life inside of. Irreverence, rule-breaking, resistance and organizational practice are all recorded, documented and amalgamated.  Political reality is being eroded.
+Since Koolhaas, the meaning of an 'outside' of a capitalism has shifted. The digital labyrinth cultivated by platform economies has its own totalizing character. It feeds off specificity of subjects, and encourages us to share thoughts, feelings and desires for its functioning.  It needs 'rich' datasets from its citizens. It will create interfaces for this expression where people don't feel inhibited. It will offer an increasingly hyper-individualized, irresistible content vortex for us to inside. Irreverence, rule-breaking, resistance and organizational practice are all recorded, documented and amalgamated. The political reality is being eroded.
