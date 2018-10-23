@@ -22,7 +22,7 @@ The structure of Exodus may be instructive here.  Koolhaas describes 10 square z
 An example from his 'Park of Four Elements':
 *"Identical in size to the first square but sunken below surface level is "Desert," an artificial reconstruction of an Egyptian landscape, simulating its dizzying conditions: a pyramid, a small oasis, and the fire organ — a steel frame with innumerable outlets for flames of different intensity, color, and heat. It is played at night to provide a pyrotechnic spectacle visible from all parts of the Strip, a nocturnal sun.
 
-At the end of tour linear caves, mirage machines project images of desirable ideals. Those in the Desert who enter the tubes run to reach these beatific images. But actual contact can never be established: they run on a belt that moves in the opposite direction at a speed that increases as the distance between mirage and runner shrinks. The frustrated energies and desires will have to be channeled into sublimated activities”
+At the end of tour linear caves, mirage machines project images of desirable ideals. Those in the Desert who enter the tubes run to reach these beatific images. But actual contact can never be established: they run on a belt that moves in the opposite direction at a speed that increases as the distance between mirage and runner shrinks. The frustrated energies and desires will have to be channelled into sublimated activities”
 
 Side note:  These modernist, utopian architectural projects from the 60s and 70s bare a striking resemblance to the design of roleplaying worlds for Dungeons and Dragons (and related games). This connection is something that I might explore in the implementation.*
 
@@ -31,3 +31,22 @@ Questions I need to develop: What is the opposition to the symbolic connotations
 I do not propose a rejection of software, but a detouring or reimagining.
 
 Since Koolhaas, the meaning of an 'outside' of a capitalism has shifted. The digital labyrinth cultivated by platform economies has its own totalizing character. It feeds off specificity of subjects, and encourages us to share thoughts, feelings and desires for its functioning.  It needs 'rich' datasets from its citizens. It will create interfaces for this expression where people don't feel inhibited. It will offer an increasingly hyper-individualized, irresistible content vortex for us to inside. Irreverence, rule-breaking, resistance and organizational practice are all recorded, documented and amalgamated. The political reality is being eroded.
+
+
+# Interview with Martin Scherzinger
+I interviewed my MCC professor Martin Scherzinger on his piece 'Executing Machines'
+
+An excerpt from the interview here:
+**Martin:** Cultures of computing and consumption enjoin new sublimated energies in the service of data capture and harvest. The capitalist surveillance economy requires richly data-fied subjects for its efficient function... This points to the limits of Foucauldian take on the problematics of the state of surveillance and panopticon. We are now in a state of addictive habituation. The externalisation of personalised desire.
+
+**Sam:** When you talk about the excess of data being generated are you talking from perspective of capturer or creator of data?
+
+**Martin:** By both perspectives actually. The creator of the data, the adopter, the person behind the screen ("Like a skin to be touched" as Alex Galloway nicely put it).  Every paranoid fantasy gets play – just enter it into interlocutor. Rank of statistically organized stories that will not only confirm your paranoid fantasy but will educate you in it.  From a psychoanalytic point of view its interesting, not just the externalization of the Id but the education of it. This is a new way of interfacing with the world.
+
+And from the perspective of Experian, Oracle, Axiom – the big data brokers. I'm less interested in the argument that argues the data fails to capture the complete individual than I am in the new behaviours one is enjoined to from the excess of data. These are behaviour modification companies.
+
+**Sam:** Where is the excess being driven from? The desires within ourselves.. The weaponized experience design?
+
+**Martin:** To have data that 'works'.. something that is richly informed you don't want to have people to be presenting themselves in a socialized way. You want to see something behind the scenes. Something that would be relevant. You want to know if they promise by the word of god.  
+
+You need to create interfaces where people don't feel restricted. To enrich the dataset. The data becomes weirder, people are watching the market, bubbles and bursts, seemingly external data that have nothing directly to do with financial information, to get ahead on that is the name of the game. There is an entire set of problems that comes with that. The point for the externalization of desire is that you require a richer dataset. You don't want them to feel restricted, cautious, compromised anything like that."
