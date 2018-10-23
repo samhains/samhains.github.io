@@ -14,11 +14,11 @@ The biggest breakthrough came in the discovery of Rem Koohaas' graduate thesis -
 
 This project, in the words of Koolhaas, is a proposition that requires 'a fundamental belief in cities as the incubators of social desires, the synthetic materialization of all dreams'.
 
-![](http://socks-studio.com/img/blog/Exodus2.jpeg)
-
 However, I propose that this has shifted towards networks and cybernetic systems as the incubators of desire. Which brings me to the question -  what would a software architecture against the capitalist surveillance economy look like?
 
 **A No Like Zone**
+
+![](http://socks-studio.com/img/blog/Exodus2.jpeg)
 
 A piece of software disconnected from the newly forming global megastructure.  A means of revealing, satirically the current state of affairs. A digital space in opposition to the singularity of individualism but also the fatigue of it.  In opposition to innovation culture, creative rule breaking and relativism. In opposition to the corporatized rhizome of literalized 1960s postmodernism and its content sharing tools and networks. In opposition to the development of unique 'subjectivity' only to mine these subjects for data points. In oppositions to hashtags and corporate green washing. In opposition to efficiency. In opposition to quality content. This is a No Like Zone. This software architecture has no concept of the surveillance mechanisms, no drag nets, no google play areas and no apple stores or innovation hubs.
 
