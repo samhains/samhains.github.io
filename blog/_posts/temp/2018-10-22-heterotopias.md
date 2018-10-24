@@ -51,3 +51,4 @@ You need to create interfaces where people don't feel restricted. To enrich the 
 **References**
 An ideological city: Koolhaas’ exodus in the Second Ecumene by Teismann and Matthew (2017)
 Exodus, or the voluntary prisoners of architecture by Koolhaas (1972)
+Of Other Spaces: Utopias and Heterotopias by Foucault (1967)
