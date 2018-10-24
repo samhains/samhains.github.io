@@ -47,3 +47,7 @@ And from the perspective of Experian, Oracle, Axiom – the big data brokers. I'
 **Martin:** To have data that 'works'.. something that is richly informed you don't want to have people presenting themselves in a socialized way. You want to see something behind the scenes. Something that would be relevant. You want to know if they promise by the word of God.  
 
 You need to create interfaces where people don't feel restricted. To enrich the dataset. The data becomes weirder. People are watching the market, bubbles and bursts, seemingly external data that have nothing directly to do with financial information, to get ahead on that is the name of the game. There is an entire set of problems that comes with that. The point for the externalization of desire is that you require a richer dataset. You don't want them to feel restricted, cautious, compromised anything like that."
+
+**References**
+An ideological city: Koolhaas’ exodus in the Second Ecumene by Teismann and Matthew (2017)
+Exodus, or the voluntary prisoners of architecture by Koolhaas (1972)
