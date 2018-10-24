@@ -32,7 +32,7 @@ Since Koolhaas, the meaning of an 'outside' of a capitalism has shifted. The dig
 **Interview with Martin Scherzinger**
 
 
-_This discussion with MCC professor Martin Scherzinger on his piece 'Executing Machines'. This excerpt follows from a conversation about how digital technologies weaponize human desire in the service of creating rich datasets._
+_A discussion with MCC professor Martin Scherzinger on his piece 'Executing Machines'. This excerpt follows from a conversation about how digital technologies weaponize human desire in the service of creating rich datasets._
 
 **Martin:** Cultures of computing and consumption enjoin new sublimated energies in the service of data capture and harvest. The capitalist surveillance economy requires richly data-fied subjects for its efficient function... This points to the limits of Foucauldian take on the problematics of the state of surveillance and panopticon. We are now in a state of addictive habituation. The externalisation of personalised desire.
 
