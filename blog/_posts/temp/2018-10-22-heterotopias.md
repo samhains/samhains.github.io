@@ -8,6 +8,8 @@ categories: temp
 
 This week was a deep dive on heterotopias, utopias, dystopias and megastructures as ideological art.
 
+_All illustrations are taken from Rem Koolhaas' Exudos, or the voluntary prisoners of architecture_
+
 [Pinterest and visual research here](https://www.pinterest.com.au/z10101010101001/heterotopia/)
 
 The biggest breakthrough came in the discovery of Rem Koohaas' graduate thesis - [The Exodus, or the voluntary prisoners of architecture](http://socks-studio.com/2011/03/19/exodus-or-the-voluntary-prisoners-of-architecture/).  The Exodus is an ideological city – a counter cultural, speculative place that is at odds with the globalising, standardising forces of the 'outside'. It is a voluntary prison that resists the emergent culture of its time. By inverting the role of a prison, he created a site for an upheaval of normative society where the wretched is glorified and norms are inverted.  The prison becomes the 'free zone'. A melting of existential space with ideology.
@@ -29,9 +31,8 @@ Since Koolhaas, the meaning of an 'outside' of a capitalism has shifted. The dig
 
 **Interview with Martin Scherzinger**
 
-I interviewed my MCC professor Martin Scherzinger on his piece 'Executing Machines'
 
-An excerpt from the interview here:
+_This discussion with MCC professor Martin Scherzinger on his piece 'Executing Machines'. This excerpt follows from a conversation about how digital technologies weaponize human desire in the service of creating rich datasets._
 
 **Martin:** Cultures of computing and consumption enjoin new sublimated energies in the service of data capture and harvest. The capitalist surveillance economy requires richly data-fied subjects for its efficient function... This points to the limits of Foucauldian take on the problematics of the state of surveillance and panopticon. We are now in a state of addictive habituation. The externalisation of personalised desire.
 
