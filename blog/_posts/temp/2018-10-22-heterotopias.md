@@ -8,7 +8,7 @@ categories: temp
 
 This week was a deep dive on heterotopias, utopias, dystopias and megastructures as ideological art.
 
-_All illustrations are taken from Rem Koolhaas' Exudos, or the voluntary prisoners of architecture_
+_All illustrations are taken from Rem Koolhaas' Exodus, or the voluntary prisoners of architecture_
 
 [Pinterest and visual research here](https://www.pinterest.com.au/z10101010101001/heterotopia/)
 
