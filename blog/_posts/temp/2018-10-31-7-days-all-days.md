@@ -1,5 +1,5 @@
 ---
-title: All 7 days 
+title: All 7 days
 layout: post
 categories: temp
 
