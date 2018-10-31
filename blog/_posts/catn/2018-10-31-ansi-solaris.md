@@ -10,6 +10,8 @@ To get inspiration I did some natural language processing on the English transla
 
 Time is barely mentioned. Very little variation in place and persons mentioned. Lots of X-rays and oceans.
 
+The oceans being those of the planet Solaris. The X-rays being the preferred 'solution' to Solaris' reality distortion field by the more cosmic-horror averse characters.
+
 I made an ANSI simulation of an ocean under siege from X-rays. While this was very much just a 'sketch', it has opened up the idea of further experimentation with non-playable, simulated, ANSI environments (Dwarf Fortress).
 
 ![](https://i.imgur.com/tIOIZY5.png)
