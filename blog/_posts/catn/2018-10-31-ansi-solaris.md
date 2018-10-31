@@ -10,7 +10,7 @@ To get inspiration I did some natural language processing on the 1972 science fi
 
 Time is barely mentioned. Almost variation in place and people. Lots of X-rays and oceans.
 
-So I decided to create an ANSI simulation of an ocean under siege from X-rays.  Makes me want to explore more Dwarf-fortress inspired text-simulations.
+So I decided to create an ANSI simulation of an ocean under siege from X-rays. 
 
 ![](https://i.imgur.com/tIOIZY5.png)
 
