@@ -1,9 +1,11 @@
 ---
-title: All 7 days
+title: 7 days of The Zone
 layout: post
 categories: temp
 
 ---
+
+Each day I tried to create another feature of an imaginary world I am building with an illustration and a description.
 
 **7 ZONES OF THE NO LIKES ZONE**
 
