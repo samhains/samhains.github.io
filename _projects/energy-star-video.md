@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 2077 Open Web Archive
-date: 2017-12-08 11:37:34 +0000
+title: Energy ✩ Music Video
+date: 2018-11-02 11:37:34 +0000
 ---
 Music video [Camilla Padgitt-Coles](http://www.ivymeadows.net/) and [Bryce Hackfords](http://brycehackford.com/) music project - Energy ✩. Released through [Galtta Tapes](https://galttamedia.bandcamp.com).
 
