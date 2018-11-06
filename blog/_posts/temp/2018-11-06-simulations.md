@@ -27,7 +27,7 @@ Is it possible that this fascination with worlding is separate from my fascinati
 
 **Pivot To Simulation**
 
-![](https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2018/01/vrchat-hero-01.jpg?itok=e7pf3qYp)
+![](https://image.winudf.com/v2/image/Y29tLnZyYXZhdGFycy5hbmltZV9zY3JlZW5fNV8xNTIyNjA2NzMyXzA4OA/screen-5.jpg?h=355&fakeurl=1&type=.jpg)
 _VR Chat_
 
 Perhaps a thesis that complements my existing practice better would be: An examination of the contemporary simulated image - with its complex relation to human and machine vision, bodies, algorithms and virtual spaces.
