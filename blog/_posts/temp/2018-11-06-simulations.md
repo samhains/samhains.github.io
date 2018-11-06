@@ -27,7 +27,12 @@ Is it possible that this fascination with worlding is separate from my fascinati
 
 **Pivot To Simulation**
 
+![](https://news.bbcimg.co.uk/media/images/58096000/jpg/_58096216_beijing_drums_getty.jpg)
+
 Perhaps a thesis that complements my existing practice better would be: An examination of the contemporary simulated image - with its complex relation to human and machine vision, bodies, algorithms and virtual spaces.
+
+![](https://cdn.dvidshub.net/media/thumbs/photos/1804/4344270/1000w_q95.jpg)
+_US Troops prepare to move a simulated casualty onto a litter in Djibouti City, Djibouti_
 
 
 Examples of simulations taken from [Simulation, Exercise, Operations](https://www.amazon.com/Simulation-Exercise-Operations-Robin-Mackay/dp/0993045863):
@@ -37,6 +42,8 @@ Examples of simulations taken from [Simulation, Exercise, Operations](https://ww
 - state prowess in self-representation and entertainment seduction
 - hyper realistic video games evolved from military technology
 - domestic intelligence crowdsourced from social media
+
+![](https://www.dreamteamfc.com/c/wp-content/uploads/sites/4/2017/03/rungrado-may-day-2.jpg?strip=all&quality=100)
 
 How do we address the artefacts of simulations? The 'hybrid objects' that are both real and simulated? How can we assess the ways in which they serve, or can disrupt established power?
 
