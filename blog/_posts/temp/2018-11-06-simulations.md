@@ -28,6 +28,7 @@ Is it possible that this fascination with worlding is separate from my fascinati
 **Pivot To Simulation**
 
 ![](https://news.bbcimg.co.uk/media/images/58096000/jpg/_58096216_beijing_drums_getty.jpg)
+_Beijing Olympics Opening Ceremony_
 
 Perhaps a thesis that complements my existing practice better would be: An examination of the contemporary simulated image - with its complex relation to human and machine vision, bodies, algorithms and virtual spaces.
 
