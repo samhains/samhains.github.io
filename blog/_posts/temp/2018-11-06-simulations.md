@@ -6,7 +6,7 @@ categories: temp
 ---
 
 
-This week I continued my pursuit of 'worlding' and found myself hit a potential 'dead end' so have done a 'research pivot'.
+This week I continued my pursuit of 'worlding' and found myself hit a 'dead end' so have done a 'research pivot'.
 
 **The Dead End**
 
@@ -16,18 +16,18 @@ A rough description of the future scenario here:
 
 _Peter Thiels heirs operate like ‘gods of myth’ in an archipelagos of man-made islands surrounding New Zealand. Any attempt to contact 'The Heirs' directly leads one on a labyrinthine journey through the harsh environment of the volcanic mainland. None of the workers have ever visited the Sacred Thielian Compound. Meanwhile, The Heirs prepare an Immersive KeyNote Address(IMA) for the release of a masterpiece. "The Immersive Solution... A voluntary prison.. A fun palace" ....The Ark._
 
-It started feeling that pursing this would likely end up with me writing another RPG game/zine as I did for the midterm. Rather than drawing on Nuclear Folklore papers, I would be drawing from the well of techno-utopian culture to build a world that functions as an ironic critique. I'm not sure I want to do this, nor am I sure this is the right direction.
+Pursing this would likely end up with me writing another RPG game/zine as I did for the midterm. Rather than drawing on nuclear folklore papers, I would be drawing from the well of techno-utopian culture to build a world that functions as an ironic critique. I'm not sure this is the direction I wish to go in.
 
 **Why Worlding?**
 
-I feel the need to remind myself.  The formal process of collaborative world building, whether through role playing games or improvisation, feels like a deeply powerful and underappreciated tool for personal or social change. I want to see the practice of 'critical world building', like critical theory and future scenarios thinking meets Dungeons and Dragons.  But I'm also concerned about losing sight of my existing, nascent practice which is more centred around digital imaging and software.
+I feel the need to remind myself.  The formal process of collaborative world building, whether through role playing games or improvisation, feels like a deeply powerful and underappreciated tool for personal or social change. I want to see the practice of 'critical world building'- critical theory and future scenarios thinking meets Dungeons and Dragons.  But I'm also concerned about losing sight of my existing, nascent practice which is more centred around digital imaging and software.
 
 
 Is it possible that this fascination with worlding is separate from my fascination in computer graphics and simulated spaces? I'm not sure.. I  hope not. But I need to examine this concept of 'simulation' more closely, as I'm not sure I know what I'm talking about..
 
 **Pivot To Simulation**
 
-Perhaps a thesis that complements my existing practice better would be: An examination of the contemporary simulated image - with its complex relation to human and machine vision, bodies, algorithms, virtual spaces.
+Perhaps a thesis that complements my existing practice better would be: An examination of the contemporary simulated image - with its complex relation to human and machine vision, bodies, algorithms and virtual spaces.
 
 
 Examples of simulations taken from [Simulation, Exercise, Operations](https://www.amazon.com/Simulation-Exercise-Operations-Robin-Mackay/dp/0993045863):
@@ -51,4 +51,4 @@ _"the age of the model or simulation, as a simulacra that precedes and compels t
 
 Delanda is more interested in the practical uses for simulations in the context of doing philosophy. The computer simulation is capable of employing a kind of 'synthetic reason' that is capable of mapping the possibility space for a particular thing far beyond the capabilities of the human mind. He says his philosophical goal in this book is to unfold an "emergent materialist world view that finally does justice to the creative powers of matter and energy".
 
-I would like to engage Delanda's framework in exploring the aesthetic space of this 'synthetic reason'.  But unlike Delanda, I'd like to account for the reality brought forth by the simulation. To consider the transforming power of the simulation on reality. As is done by Baudrillard, and also in more recent work by Simondon who provides another relevant approach for the understanding the systems and networks surrounding 'technical objects'.
+I would like to engage Delanda's framework in exploring the aesthetic space of the 'synthetic reason' of computer simulations. But unlike Delanda, who seems content to describe a new philosophical reality created by computer simulations, I'd like to account for this reality. To consider the transforming power of the simulation on reality. As was done by Baudrillard, and also in more recent work by Simondon who provides another relevant approach for the understanding the 'technical objects' created by simulations.
