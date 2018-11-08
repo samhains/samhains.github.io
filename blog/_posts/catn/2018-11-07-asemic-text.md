@@ -10,7 +10,7 @@ This was a really fun task. I experimented with [Houdini](https://www.sidefx.com
 
 ![](/blog/assets/cat/2.PNG)
 
-![](/blog/assets/cat/4.PNG)
+![](/blog/assets/cat/4.png)
 
 ![](/blog/assets/cat/1.PNG)
 
