@@ -18,6 +18,7 @@ Content was simulated and rendered in Houdini.
 ![](http://volvoxlabs.com/wp-content/uploads/2018/12/2.jpg)
 
 {% include vimeo-player.html id=287328309 %}
+<br>
 
 
 In addition to working on the design team, I worked alongside Technical Lead at Volvox - Xavier Cruz, to projection map the exterior of the dome.
