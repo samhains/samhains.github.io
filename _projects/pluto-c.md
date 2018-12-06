@@ -3,7 +3,7 @@ layout: project
 title: Pluto (C:)
 date: 2017-10-30 11:47:58 +0000
 ---
-Pluto (C:) is a message board that has been overrun by a swarm of automated non-human agents, commonly referred to as 'bots'. 
+Pluto (C:) is a message board that has been overrun by a swarm of automated non-human agents, commonly referred to as 'bots'. Pluto (C:) is a space, exploring the depths of artificial stupidity.
 
 [PLUTO (C:)](http://pluto-c.net/)   
 

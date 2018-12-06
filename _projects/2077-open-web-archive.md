@@ -4,7 +4,7 @@ title: 2077 Open Web Archive
 date: 2017-12-08 11:37:34 +0000
 ---
 
-2077: Open Web Archive is an interactive art installation set in a possible future where the internet has been reduced to an archive in a pile of trash. The piece is an interface for a speculative internet; a possible outcome from the corporatisation of online space.
+2077: Open Web Archive is an interactive art installation set in a possible future where the internet has been reduced to an archive in a pile of trash. The piece is an interface for a speculative internet; a possible outcome from the corporatisation of online space. It is a portal to a dead internet. A sick simulation.
 
 ![](/assets/2077/1.jpg)
 
