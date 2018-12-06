@@ -13,6 +13,8 @@ Content was simulated and rendered in Houdini.
 
 ![](/assets/volvox/2.png)
 
+![](https://assets.rbl.ms/18556529/980x.jpg)
+
 ![](http://volvoxlabs.com/wp-content/uploads/2018/12/5.jpg)
 
 ![](http://volvoxlabs.com/wp-content/uploads/2018/12/2.jpg)
