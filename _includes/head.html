@@ -4,8 +4,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <meta name="keywords" content="Programmer,Artist,Designer,New York, ITP">
+  <meta name="keywords" content="Programmer,Artist,Designer,Technologist,New York, ITP">
+      <!-- Open Graph -->
+  <meta property="og:type" content="art.portfolio">
+  <meta property="og:title" content="Sam Hains">
+  <meta property="og:description" content="Sam Hains is a Designer and an A/V Technologist from Melbourne, Australia. He is currently completing his Masters degree at NYU's ITP program.">
+  <meta property="og:url" content="www.samhains.com">
+
 
   <link rel="stylesheet" href="{{site.baseurl}}/assets/main.css ">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
