@@ -6,7 +6,7 @@ date: 2018-07-30 11:44:38 +0000
 
 ![](http://volvoxlabs.com/wp-content/uploads/2018/12/3.jpg)
 
-Worked with [Volvox Labs](http://volvoxlabs.com) design lead to create VFX content for a moving image commission for NYLON Beauty Innovator Awards. The content was designed for an 'immersive 360-dome projection experience' called [The Pore](http://volvoxlabs.com/nylon-dome-content/) which invited guests to experience how extreme temperatures, wind, dirt and pollution make us feel.
+Worked with [Volvox Labs](http://volvoxlabs.com) to create VFX content for a moving image commission for NYLON Beauty Innovator Awards. The content was designed for an 'immersive 360-dome projection experience' called [The Pore](http://volvoxlabs.com/nylon-dome-content/) which invited guests to experience how extreme temperatures, wind, dirt and pollution make us feel.
 
 Content was simulated and rendered in Houdini.
 
