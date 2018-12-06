@@ -9,36 +9,3 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
-
-  {%include  box_letter_header.html string="Comments" %}
-<form method="POST" action="https://api.staticman.net/v2/entry/samhains/samhains.github.io/master/comments">
-
-
-  <input name="options[redirect]" type="hidden" value="https://samhains.com/">
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-
-  <label>Name</label>
-  <br>
-  <input name="fields[name]" type="text">
-  <br>
-  <label>Message</label>
-  <br>
-  <textarea rows=10 name="fields[message]"></textarea>
-  <br>
-  <button type="submit">Submit</button>
-</form>
-
-{% assign comments = site.data.comments[page.slug]  %}
-
-<br>
-  {% for comment in comments reversed %}
-    {% assign commentData = comment[1] %}
-      <div>
-         <span class="comment-user"> {{ commentData.name }}</span> on
-        <span class="post-meta">{{ commentData.date | date: "%m/%d/%Y" }}</span>:
-       </br>
-        {{ commentData.message }}</br>
-      </div>
-      <br>
-  {% endfor %}
-</article>
