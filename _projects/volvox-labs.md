@@ -23,7 +23,7 @@ Content was simulated and rendered in Houdini.
 <br>
 
 
-In addition to working on the design team, I worked alongside Technical Lead at Volvox - Xavier Cruz, to projection map the exterior of the dome.
+In addition to working on the design team, I worked alongside Technical Lead at Volvox - Xavier Cruz, to projection map the exterior of the dome in Touch Designer.
 
 ![](http://volvoxlabs.com/wp-content/uploads/2018/12/DSC04916.jpg)
 
