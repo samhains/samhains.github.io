@@ -4,7 +4,7 @@ layout: post
 categories: catn
 
 ---
-![](/blog/assets/question_world/5.PNG)
+![](/blog/assets/question_world/5.png)
 
 Furthering my general pre-thesis explorations of simulations as the site of contact between machine and human worlds - I created a typographic experiment based on [Dwarf Fortress](http://www.bay12games.com/dwarves/).
 
