@@ -14,10 +14,10 @@ This computational approach allowed me to experiment with different typographica
 
 Here is a sample of some of the bitmap fonts that I created:
 
-![](/blog/assets/question_world/1.PNG)
-![](/blog/assets/question_world/2.PNG)
-![](/blog/assets/question_world/3.PNG)
-![](/blog/assets/question_world/4.PNG)
+![](/blog/assets/question_world/1.png)
+![](/blog/assets/question_world/2.png)
+![](/blog/assets/question_world/3.png)
+![](/blog/assets/question_world/4.png)
 
 My favourite font I created was the "?" font, which makes explicit the already confusing nature of the Dwarf Fortress simulation.
 
