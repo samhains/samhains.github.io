@@ -6,7 +6,7 @@ categories: catn
 ---
 ![](/blog/assets/question_world/5.png)
 
-Furthering my general pre-thesis explorations of simulations as the site of contact between machine and human worlds - I created a typographic experiment based on [Dwarf Fortress](http://www.bay12games.com/dwarves/).
+Continuing my pre-thesis explorations of simulations as the site of contact between machine and human worlds - I created a typographic experiment based on [Dwarf Fortress](http://www.bay12games.com/dwarves/).
 
 I wrote a python script that allowed me to deconstruct and reconstruct bitmaps into new arrangements. The code for that is [here](https://github.com/samhains/bitmap-font-maker).
 
