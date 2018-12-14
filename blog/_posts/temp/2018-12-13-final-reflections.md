@@ -6,6 +6,7 @@ categories: temp
 ---
 {% include vimeo-player.html id=306306643 %}
 
+
 **What did you learn?**
 
 I built a theoretical foundation for creating within my newfound medium - video simulations.  At the start of the semester I knew that I was seduced by this technology.  However, I could not explain why - it seemed impulsive and aesthetic; perhaps even fetishistic. I now have a number of theoretical registers which I can engage when working with this medium - Baudrillard, 'Post Script'-Era Deleuze, Simondon and Yuk Hui to name a few names. I have also done much work to ground the medium in its techno-military-scientific roots. There are fascinating connected histories of amusement technologies and industrial modernity.
