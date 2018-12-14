@@ -10,7 +10,9 @@ slides for my final presentation are [here](https://slides.com/samhains/simulati
 
 **What did you learn?**
 
-I built a theoretical foundation for creating within a newfound medium - video simulations.  At the start of the semester I knew that I was seduced by this technology.  However, I could not explain why - it seemed impulsive and aesthetic; perhaps even fetishistic. I have also done much work to ground the medium in its techno-military-scientific roots. There are fascinating connected histories of amusement technologies and industrial modernity.
+I built a theoretical foundation for creating within my newfound medium - video simulations.  At the start of the semester I knew that I was seduced by this technology.  However, I could not explain why - it seemed impulsive and aesthetic; perhaps even fetishistic. After engaging in my research across art and the digital humanities, I have developed a framework for problematizing and thinking about simulations as part of a growing network of cybernetic control systems. I experimented with a process around 'digital ethnography' - entering corporate simulated spaces, appropriating assets.
+
+I have also done much work to ground the medium in its techno-military-scientific roots. There are fascinating connected histories of amusement technologies and industrial modernity.
 
 I couldn't say I have a mastery of the history, or the theory. Although, I have mapped out a terrain for exploration that I am passionate about. I am excited to keep going with this for thesis.
 
@@ -35,7 +37,9 @@ This was a big challenge for me. My practice suffered somewhat during the semest
 
 **What will you take with you going forward?**
 
-A more critically engaged art practice. Many new connections to systems and histories. A better understanding of my strengths and weaknesses. A better understanding of cybernetic control systems. Next year I'd like to draw a connection between the rising of sea levels and of cybernetic control systems.  
+A more critically engaged art practice. Many new connections to systems and histories. A better understanding of my strengths and weaknesses. A better understanding of cybernetic control systems. I'd like to engage further with 'digital ethnography' to inform the creation of digital spaces that comment and critique digital spaces.
+
+Next year I'd like to draw a connection between the rising of sea levels and of cybernetic control systems.  
 
 **Some References**<br>
 
