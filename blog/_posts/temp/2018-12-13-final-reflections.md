@@ -44,21 +44,21 @@ Next year I'd like to draw a connection between the rising of sea levels and of 
 **Some References**<br>
 
 **Artists**<br>
-Ian Cheng
-Hito Steyerl
-Jakob Kudsk Steensen
-Laurence Lek
-Nate Boyce
+Ian Cheng<br>
+Hito Steyerl<br>
+Jakob Kudsk Steensen<br>
+Laurence Lek<br>
+Nate Boyce<br>
 
 **Readings**<br>
-"Simulated Subjects: Glass Bead in Conversation with Ian Cheng and Hito Steyerl."
-Stefan Helmreich - Silicon Second Nature
-Crogan - Gameplay Mode: War, Simulation, and Technoculture
-Bratton- The Stack: On Software and Sovereignty.
-Baudrillard -  Simulations.
-Yuk Hui - On the Existence of Digital Objects
-Galison - “Computer Simulations and the Trading Zone.”
-Galloway, Alexander R. - "Computers and the Superfold."
-Alexander R. Galloway - Protocol: How Control Exists After Decentralization Book
-Alexander R. Galloway - The Interface Effect Book
-Wendy Chun - On persistence of visual knowledge.
+"Simulated Subjects: Glass Bead in Conversation with Ian Cheng and Hito Steyerl."<br>
+Stefan Helmreich - Silicon Second Nature<br>
+Crogan - Gameplay Mode: War, Simulation, and Technoculture<br>
+Bratton- The Stack: On Software and Sovereignty.<br>
+Baudrillard -  Simulations.<br>
+Yuk Hui - On the Existence of Digital Objects<br>
+Galison - “Computer Simulations and the Trading Zone.”<br>
+Galloway, Alexander R. - "Computers and the Superfold."<br>
+Alexander R. Galloway - Protocol: How Control Exists After Decentralization Book<br>
+Alexander R. Galloway - The Interface Effect Book<br>
+Wendy Chun - On persistence of visual knowledge.<br>
