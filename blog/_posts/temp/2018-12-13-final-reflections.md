@@ -22,8 +22,8 @@ I would start making earlier. This was the first time that I had attempted to co
 
 I also got a little lost in the notion of the 'simulation' - it is a very elusive and slippery subject to try and pin down. Baudrillard went mad during his 'Simulation-Era', after all. I could have benefited from thinking about a specific kind of simulation - perhaps that of climate simulations; or simulations that create racist (or sexist) cybernetic feedback loops.
 
-**What feedback did you receive?**
-I received generally positive feedback for this project. A couple of people after watching it told me that they had 'nothing to say' and that it was 'weird'. Some others seemed to draw connections from the imagery that I had not anticipated. The positive reviews seemed to suggest that the expression of corporate and military intensities were effectively communicated through the video. It seems that the video was more effective than my paper at communicating my ideas.
+**What feedback did you receive?**<br>
+I received generally positive feedback for this project. A couple of people after watching it told me that they had 'nothing to say' and that it was 'weird'. Some others seemed to draw connections from the imagery that I had not anticipated. The positive reviews seemed to suggest that the expression of corporate and military intensities were communicated through the video. It seems that the video was more effective than my paper at communicating my ideas.
 
 Someone said that my work was lacking in representation of 'Coloured Bodies'. I see where this is coming from. The simulation that I was working with - 'FlexSim' demonstrates its software through an entirely white male cast. It is these white male (virtual) bodies that are responsible for 'crash testing' corporate spaces for everyone else, and I wanted to tell a story of their dystopic, homogenous existence. I think this contributes to the 'disturbing' aspect of the video. The decision is made with intention.
 
@@ -39,7 +39,7 @@ This was a big challenge for me. My practice suffered somewhat during the semest
 
 A more critically engaged art practice. Many new connections to systems and histories. A better understanding of my strengths and weaknesses. A better understanding of cybernetic control systems. I'd like to engage further with 'digital ethnography' to inform the creation of digital spaces that comment and critique digital spaces.
 
-Next year I'd like to draw a connection between the rising of sea levels and of cybernetic control systems.  
+Next year I'd like to draw a connection between the rising of sea levels and of cybernetic control systems.   I hope to create video works that contribute to a more critical discourse around technology and its influence on peoples lives. 
 
 **Some References**<br>
 
