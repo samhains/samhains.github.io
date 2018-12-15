@@ -39,7 +39,7 @@ This was a big challenge for me. My practice suffered somewhat during the semest
 
 A more critically engaged art practice. Many new connections to systems and histories. A better understanding of my strengths and weaknesses. A better understanding of cybernetic control systems. I'd like to engage further with 'digital ethnography' to inform the creation of digital spaces that comment and critique digital spaces.
 
-Next year I'd like to draw a connection between the rising of sea levels and of cybernetic control systems.   I hope to create video works that contribute to a more critical discourse around technology and its influence on peoples lives. 
+Next year I'd like to draw a connection between the rising of sea levels and of cybernetic control systems.   I hope to create video works that contribute to a more critical discourse around technology and its influence on peoples lives.
 
 **Some References**<br>
 
