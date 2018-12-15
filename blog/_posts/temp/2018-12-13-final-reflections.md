@@ -53,6 +53,8 @@ Nate Boyce<br>
 **Readings**<br>
 "Simulated Subjects: Glass Bead in Conversation with Ian Cheng and Hito Steyerl."<br>
 Stefan Helmreich - Silicon Second Nature<br>
+Deleuze - Postscript for control societies<br>
+Gallway - Deleuze and computers ([https://www.youtube.com/watch?v=fBZPJNoJWHk]())<br>
 Crogan - Gameplay Mode: War, Simulation, and Technoculture<br>
 Bratton- The Stack: On Software and Sovereignty.<br>
 Baudrillard -  Simulations.<br>
