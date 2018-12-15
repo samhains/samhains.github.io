@@ -54,13 +54,13 @@ Nate Boyce<br>
 "Simulated Subjects: Glass Bead in Conversation with Ian Cheng and Hito Steyerl."<br>
 Stefan Helmreich - Silicon Second Nature<br>
 Deleuze - Postscript for control societies<br>
-Gallway - Deleuze and computers ([https://www.youtube.com/watch?v=fBZPJNoJWHk]())<br>
+Galloway - Deleuze and computers ([https://www.youtube.com/watch?v=fBZPJNoJWHk]())<br>
 Crogan - Gameplay Mode: War, Simulation, and Technoculture<br>
 Bratton- The Stack: On Software and Sovereignty.<br>
+Wendy Chun - On persistence of visual knowledge<br>
 Baudrillard -  Simulations.<br>
 Yuk Hui - On the Existence of Digital Objects<br>
-Galison - “Computer Simulations and the Trading Zone.”<br>
-Galloway, Alexander R. - "Computers and the Superfold."<br>
-Alexander R. Galloway - Protocol: How Control Exists After Decentralization Book<br>
-Alexander R. Galloway - The Interface Effect Book<br>
-Wendy Chun - On persistence of visual knowledge.<br>
+Galison - “Computer Simulations and the Tradig Zone.”<br>
+Galloway - "Computers and the Superfold."<br>
+Alexander R. Galloway - Protocol: How Control Exists After Decentralization <br>
+Alexander R. Galloway - The Interface Effect <br>
