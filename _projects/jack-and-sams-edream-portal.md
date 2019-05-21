@@ -10,6 +10,8 @@ date: 2019-05-15 11:37:34 +0000
 
 ![](/assets/thesis/5.png)
 <br>
+
+The story of this installation is told through my NYU ITP thesis talk.
 {% include vimeo-player.html id=337309112 %}
 <br>
 <br>
