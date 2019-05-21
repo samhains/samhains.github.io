@@ -11,19 +11,12 @@ date: 2019-05-15 11:37:34 +0000
 ![](/assets/thesis/5.png)
 <br>
 
-The story of this installation is told through my NYU ITP thesis talk.
+The story of this installation is told in more detail through my NYU ITP thesis talk.
 {% include vimeo-player.html id=337309112 %}
 <br>
 <br>
 
-~EDEN~                       
-![](/assets/thesis/3.jpg)
-
-~OFFICE~                       
-![](/assets/thesis/4.jpg)
-
-~HELL~
-![](/assets/thesis/2.jpg)
+![](/assets/thesis/6.png)
 
 
 {% include vimeo-player.html id=331463249 %}
