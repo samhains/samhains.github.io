@@ -1,6 +1,6 @@
 ---
 layout: project
-title: &#35;DATEME
+title: "#DATEME"
 date: 2019-07-22 11:37:34 +0000
 ---
 
