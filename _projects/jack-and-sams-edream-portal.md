@@ -5,8 +5,7 @@ date: 2019-05-15 11:37:34 +0000
 ---
 
 
-"Jack and Sam's eDream portal" is a triptych of simulations based on an ironic reading of Bosch’s Christian creation triptych.  The installation stars Jack and Jill, the first citizens of [the corporate simulation](https://flexsim.com).
-
+"Jack and Sam's eDream portal" is a triptych of [real-time video simulations](http://iancheng.com/faq) based on an ironic reading of Bosch’s Christian creation triptych.  The installation stars Jack and Jill, the first citizens of [the corporate simulation](https://flexsim.com).   This piece explores the worldmaking capabilities of computers and our seduction into digital environments.   
 
 ![](/assets/thesis/5.png)
 <br>
