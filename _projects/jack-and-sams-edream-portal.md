@@ -5,7 +5,7 @@ date: 2019-05-15 11:37:34 +0000
 ---
 
 
-"Jack and Sam's eDream portal" is a triptych of [real-time video simulations](http://iancheng.com/faq) inspired by Bosch’s "The Garden of Earthly Delights".  The installation replaces Adam and Eve from the Christian creation tryptic with Jack and Jill, the first citizens of [the corporate simulation](https://flexsim.com).  The appropriation of this material provided a way of engaging directly with the world making capabilities of computer systems through falsified mythology.
+"Jack and Sam's eDream portal" is a triptych of [real-time video simulations](http://iancheng.com/faq) inspired by Bosch’s "The Garden of Earthly Delights".  The installation replaces Adam and Eve from the Christian creation tryptic with Jack and Jill, the first citizens of [the corporate simulation](https://flexsim.com).  The appropriation of this material provided a way of engaging with the world making capabilities of computer systems through falsified mythology.
 
 ![](/assets/thesis/5.png)
 <br>
