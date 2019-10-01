@@ -12,7 +12,7 @@ QWERTY SYSTEMS is a video performance depicting a day in the life of a citizen i
 ![](/assets/qwerty/new/2.JPG)
 
 
-![](/assets/qwerty/new/3.JPG)
+![](/assets/qwerty/new/3.jpg)
 
 
 ![](/assets/qwerty/new/4.JPG)
