@@ -17,7 +17,7 @@ As part of my designs for this show, we developed a mobile application which int
 Each audience member, creates an online dating profile at the beginning of the show. The audience profiles are then used throughout the show as video content and improvisational cues.
 ![](/assets/dateme/9.jpg)
 
-![](/assets/dateme/2.png)
+![](/assets/dateme/2.jpg)
 ![](/assets/dateme/3.jpg)
 ![](/assets/dateme/4.jpg)
 
@@ -39,4 +39,4 @@ Costume Design by Vanessa Leuck<br>
 Lighting Design by Travis McHale<br>
 Sound Design by Kevin Heard<br>
 Projection Design and Interconnectivity by Sam Hains<br>
-Photos by Jeremy Daniel<br>
+Photos by Jeremy Daniel and Sam Hains<br>
