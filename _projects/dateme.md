@@ -15,12 +15,15 @@ As part of my designs for this show, we developed a mobile application which int
 
 
 Each audience member, creates an online dating profile at the beginning of the show. The audience profiles are then used throughout the show as video content and improvisational cues.
+![](/assets/dateme/9.jpg)
 
-
-
-![](/assets/dateme/2.jpg)
+![](/assets/dateme/2.png)
 ![](/assets/dateme/3.jpg)
 ![](/assets/dateme/4.jpg)
+
+![](/assets/dateme/8.jpg)
+![](/assets/dateme/7.jpg)
+
 
 
 

@@ -9,6 +9,8 @@ date: 2019-09-04 11:37:34 +0000
 QWERTY SYSTEMS is a video performance depicting a day in the life of a citizen inside a social simulation governed by QWERTY, a mysterious platform intelligence. Performed for [Indetermine Froms](https://www.culturehub.org/events/indeterminate-forms) at [Culture Hub](https://www.culturehub.org/).
 
 
+{% include vimeo-player.html id=414188502 %}
+
 ![](/assets/qwerty/new/2.JPG)
 
 
