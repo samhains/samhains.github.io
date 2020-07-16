@@ -6,6 +6,8 @@ date: 2020-07-07 11:37:34 +0000
 
 An hour long expedition of a lone tourist in a digital landscape constructed using video game software, and a live improvised set recorded using synthesisers and field recordings.
 
+Premiered live on [Public Records TV](http://publicrecords.tv)
+
 
 ![](/assets/public/1.jpg)
 ![](/assets/public/2.jpg)
