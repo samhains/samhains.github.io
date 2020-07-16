@@ -6,7 +6,7 @@ date: 2020-07-07 11:37:34 +0000
 
 An hour long expedition of a lone tourist in a digital landscape constructed using video game software, and a live improvised set recorded using synthesisers and field recordings. 
 
-Music by [Sean La Brooy](https://albrechtlabrooy.bandcamp.com/. Premiered live on [Public Records TV](http://publicrecords.tv) in July 2020.
+Music by [Sean La'Brooy](https://albrechtlabrooy.bandcamp.com/). Premiered live on [Public Records TV](http://publicrecords.tv) in July 2020.
 
 
 ![](/assets/public/1.jpg)
