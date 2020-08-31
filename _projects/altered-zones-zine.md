@@ -8,7 +8,7 @@ Created a zine exploring altered physical and psychic states and spaces, born fr
 
 Can be purchased from [here](https://gumroad.com/alteredzones).
 
-Designed by me, Edited by [Tara Kenny](https://www.tara-kenny.com/)
+Designed by me, edited by [Tara Kenny](https://www.tara-kenny.com/)
 
 
 ![](/assets/az/1.png)
