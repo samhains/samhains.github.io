@@ -13,7 +13,8 @@ Sam hains - director/3d artist<br>
 [Radmir Koch](https://www.instagram.com/rvdimir/) - 3d artist<br>
 [Justin Miller](https://www.instagram.com/justinmillercreative/) - creative director<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Jq8PbnaF6kU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jq8PbnaF6kU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ![](/assets/paradise/1.jpg)
 ![](/assets/paradise/2.jpg)
