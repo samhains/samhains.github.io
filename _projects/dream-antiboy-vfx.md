@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Dream ANTIBOY VFX and Animation"
+title: "Dream ANTIBOY VFX"
 date: 2020-12-01 11:37:34 +0000
 ---
 
