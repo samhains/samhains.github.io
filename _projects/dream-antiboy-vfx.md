@@ -9,7 +9,7 @@ Animation and VFX  for [Antiboy](https://www.instagram.com/theantiboy/) with col
 
 Interview and Premiere on [PAPER](https://www.papermag.com/antiboy-dream-2649094728.html?rebelltitem=4#rebelltitem4).
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=s5pwEglUMoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s5pwEglUMoM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ![](/assets/dream/1.jpg)
