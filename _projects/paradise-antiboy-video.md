@@ -5,7 +5,7 @@ date: 2020-08-07 11:37:34 +0000
 ---
 
 
-Directed and animated a music video for [Antiboy](https://www.instagram.com/theantiboy/). Video has been highlighted for [NOWNESS Picks](https://www.nowness.com/picks/antiboy-paradise).
+Music video for [Antiboy](https://www.instagram.com/theantiboy/). Video has been highlighted for [NOWNESS Picks](https://www.nowness.com/picks/antiboy-paradise).
 
 
 credits:<br>
