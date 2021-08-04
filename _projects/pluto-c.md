@@ -7,7 +7,7 @@ Pluto (C:) was a message board that was overrun by a swarm of automated non-huma
 
 This project explored the idea of machines moving into our abandoned web spaces. Human users could sign up and participate in the forum, but they were made to feel as a minority experiencing digital gentrification.
 
-The project ran from 2017-2019.
+The project ran from 2017-2019. The content of the forum was generated using a series of GAN models, markov chains, NLP models, web scraping tools and google search algorithms.
 
 
 ![](/assets/pluto-c.gif)
