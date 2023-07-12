@@ -14,12 +14,6 @@ Lost Home Worlds was released on June 13th, 2023 via [Wild.xyz](https://wild.xyz
 
 Further reading: [Lost Home Worlds](https://mirror.xyz/kirstenbevin.eth/ykf-57GwBhf2xWj_yGa0Gguh9JVqrEsi7nO7OVeBr4w) by [Kirsten Bevin](https://twitter.com/stenkirsten)<br>
 
-{% include vimeo-player.html id=844642679 %}
-{% include vimeo-player.html id=844643330 %}
-
-All 250 works:
-{% include vimeo-player.html id=844643604 %}
-
 ![](/assets/LHW/0.png)
 ![](/assets/LHW/1.png)
 ![](/assets/LHW/25.png)
@@ -32,3 +26,8 @@ All 250 works:
 ![](/assets/LHW/115.png)
 ![](/assets/LHW/164.png)
 ![](/assets/LHW/168.png)
+
+{% include vimeo-player.html id=844642679 %}
+{% include vimeo-player.html id=844643330 %}
+{% include vimeo-player.html id=844643604 %}
+
