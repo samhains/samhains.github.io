@@ -8,9 +8,7 @@ date: 2023-06-13 11:37:34 +0000
 
 Lost Home Worlds is a collection of 250 generative 3D artworks which explore ideas around grief and memory. It is inspired by Mike Kelley’s “Kandors”, and uses the metaphor of the shrunken city in the bell jar to investigate the idea of memory palaces and their role in trauma processing.
 
-
 For more information about the project please read the [Lost Home Worlds](https://losthomeworlds.com) essay by [Wade Wallerstein](https://twitter.com/habitual_truant)<br>
-
 
 Lost Home Worlds was released on June 13th, 2023 via [Wild.xyz](https://wild.xyz/sam-hains/lost-home-worlds/). It sold out to collectors in around 8 hours.
 
